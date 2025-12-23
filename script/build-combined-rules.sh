@@ -37,13 +37,13 @@ declare -A RULES=(
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
     "
    [Country]="sort-clash.py
-        https://258085.xyz:60/clash/Country.txt
+        https://258085.xyz:60/clash/mihomo-rule/Country.txt
     "
    [Line]="sort-clash.py
-        https://258085.xyz:60/clash/Line.txt
+        https://258085.xyz:60/clash/mihomo-rule/Line.txt
     "
    [Cn]="sort-clash.py
-        https://258085.xyz:60/clash/Cn.txt
+        https://258085.xyz:60/clash/mihomo-rule/Cn.txt
     "
    [Direct]="sort-clash.py
         https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
