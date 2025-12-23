@@ -36,7 +36,16 @@ declare -A RULES=(
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt
     "
-    [Direct]="sort-clash.py
+   [Country]="sort-clash.py
+        https://258085.xyz:60/clash/Country.txt
+    "
+   [Line]="sort-clash.py
+        https://258085.xyz:60/clash/Line.txt
+    "
+   [Cn]="sort-clash.py
+        https://258085.xyz:60/clash/Cn.txt
+    "
+   [Direct]="sort-clash.py
         https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.txt
         https://github.com/DustinWin/ruleset_geodata/releases/download/mihomo-ruleset/cn.list
         https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct.txt
