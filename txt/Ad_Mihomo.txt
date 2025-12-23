@@ -22728,6 +22728,7 @@
 +.wa.gtimg.com
 +.gtmjs.com
 +.gtmpx.com
++.gtmss.
 +.gtop100.com
 +.stats.gtplanet.net
 +.gtuduqaklah.com
