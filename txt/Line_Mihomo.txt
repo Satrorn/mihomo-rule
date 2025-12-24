@@ -24,7 +24,6 @@
 +.bwtorrents.tv
 +.ccfbits.org
 +.cgpeers.com
-+.chdbits.co
 +.checkip.synology.com
 +.checkipv6.synology.com
 +.checkport.synology.com
@@ -111,6 +110,7 @@
 +.passthepopcorn.me
 +.pornbits.net
 +.privatehd.to
++.ptchdbits.co
 +.pterclub.com
 +.pthome.net
 +.ptsbao.club
