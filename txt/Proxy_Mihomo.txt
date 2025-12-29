@@ -1011,7 +1011,6 @@
 +.akamai-sucks.net
 +.akamai-thailand.com
 +.akamai-thailand.net
-+.akamai-thailand.net+.aaa
 +.akamai-trials.com
 +.akamai.net
 +.akamaiedge.net
@@ -1182,6 +1181,7 @@
 +.alwaysvpn.com
 +.am
 +.am730.com.hk
++.ama.com
 +.amaaozn.com
 +.amabitch.com
 +.amakings.com
@@ -1768,6 +1768,7 @@
 +.archiveofourown.org
 +.archlinux.org
 +.archlinuxarm.org
++.archlinuxcn.org
 +.arcraiders.com
 +.arctosia.com
 +.area120.com
@@ -3736,7 +3737,6 @@
 +.businesswebwise.com
 +.businessweek.com
 +.businessweekmag.com
-+.busrg
 +.bustyangelique.com
 +.bustyarianna.com
 +.bustydanniashe.com
@@ -4189,7 +4189,6 @@
 +.cftfc.com
 +.cfwives.com
 +.cg
-+.cgdepot.o# NAME: Proxy
 +.cgdepot.org
 +.cgkate.jinvod.com
 +.ch
@@ -5123,8 +5122,10 @@
 +.daindianporn.com
 +.daiphapinfo.net
 +.dajiyuan.com
++.dalail+.aaa
 +.dalailama-archives.org
 +.dalailama.com
++.dalailama.usloud.com
 +.dalailama80.org
 +.dalailamacenter.org
 +.dalailamafellows.org
@@ -6429,6 +6430,7 @@
 +.entrust.com
 +.entrust.net
 +.entrustdatacard.com
++.eonline.com
 +.eotarchive.org
 +.epicbrowser.com
 +.epicgames.com
@@ -6618,6 +6620,7 @@
 +.eu-west-0.myhuaweicloud.com
 +.eu-west-1.myhuaweicloud.com
 +.eu-west-101.myhuaweicloud.com
++.eu-west-201.myhuaweic# NAME: Proxy
 +.eu-west-201.myhuaweicloud.com
 +.eu.org
 +.eubluecardvisa.com
@@ -7208,7 +7211,6 @@
 +.fdc64.org
 +.fdiintelligence.com
 +.fdroid.org
-+.fe
 +.feacboo.com
 +.feacbook.com
 +.feacbooke.com
@@ -7685,7 +7687,6 @@
 +.fpmt-osel.org
 +.fpmt.org
 +.fpmtmexico.org
-+.fpmtmexico.orginess-humanrights.org
 +.fptolia.com
 +.fqcebook.com
 +.fqok.org
@@ -8157,6 +8158,7 @@
 +.gamesstack.com
 +.gameuxmasterguide.com
 +.gaming-notebooks.com
++.gamme.com
 +.gamousa.com
 +.gandi.net
 +.ganges.com
@@ -8563,6 +8565,7 @@
 +.gockhuatviet.com
 +.godaddy
 +.godaddy.com
++.godbolt.org
 +.godfootsteps.org
 +.godns.work
 +.godoc.org
@@ -10840,7 +10843,7 @@
 +.jav321.com
 +.jav4you.org
 +.jav68.tv
-+.jav6t
++.jav6j.org
 +.jav777.cc
 +.jav789.com
 +.jav889.xyz
@@ -11642,6 +11645,7 @@
 +.lcgirls.com
 +.lcsmerch.com
 +.ld.hao123img.com
++.ldoc8.tv
 +.ldoceonline.com
 +.ldplayer.net
 +.ldstatic.com
@@ -11706,7 +11710,6 @@
 +.letmejerk.com
 +.letmejerk.fun
 +.letou.com
-+.letscorp.needly.com
 +.letscorp.net
 +.letsdoeit.com
 +.letsencrypt.com
@@ -14466,7 +14469,6 @@
 +.olympicwatch.org
 +.om
 +.omafotze.com
-+.omcin.com
 +.omct.org
 +.omega
 +.omekinteractive.com
@@ -15409,7 +15411,6 @@
 +.ponyanimalsex.com
 +.poofetish.com
 +.pool.ntp.org
-+.pool8.tv
 +.poolbinance.com
 +.poolin.com
 +.poop-pee.online
@@ -17435,7 +17436,6 @@
 +.similar-porn.fun
 +.simility.com
 +.simonsgirls.com
-+.simp.lcom
 +.simplecd.me
 +.simplecd.org
 +.simplenote.com
@@ -18571,6 +18571,7 @@
 +.tgtube.com
 +.tgutube.com
 +.th
++.th.com
 +.th.hao123.com
 +.th.weibo.com
 +.thai-xxx.com
@@ -19318,7 +19319,6 @@
 +.tvunetworks.com
 +.tw
 +.tw-blog.com
-+.tw-blog.t.org
 +.tw-npo.org
 +.tw.hao123.com
 +.tw.iqiyi.com
@@ -19587,6 +19587,7 @@
 +.unlocktool.net
 +.unmineable.com
 +.unodedos.com
++.unodedos000webhost.com
 +.unpkg.com
 +.unpo.org
 +.unravel2.com
@@ -20902,6 +20903,7 @@
 +.xboxlive.com
 +.xboxone.co
 +.xboxone.com
++.xboxplayaehun.net
 +.xboxplayanywhere.com
 +.xboxservices.com
 +.xboxstudios.com
@@ -21215,6 +21217,7 @@
 +.xnxxtime.com
 +.xnxxvideos.rest
 +.xnxxx.cc
++.xnywhere.com
 +.xo.com
 +.xo104.com
 +.xogogo.com
