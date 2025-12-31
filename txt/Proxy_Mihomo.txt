@@ -5124,7 +5124,6 @@
 +.dajiyuan.com
 +.dalailama-archives.org
 +.dalailama.com
-+.dalailama.r000webhost.com
 +.dalailama80.org
 +.dalailamacenter.org
 +.dalailamafellows.org
