@@ -579,7 +579,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1364,6 +1363,7 @@
 +.android-x86.org
 +.android.com
 +.androidapksfree.com
++.androidauthorit+.aaa
 +.androidauthority.com
 +.androidfilehost.com
 +.androidify.com
@@ -1774,6 +1774,7 @@
 +.areca-backup.org
 +.arewereadyyet.com
 +.areyoucreditwise.com
++.argo-bdp.com
 +.argotunnel.com
 +.arirangmeari.com
 +.armorgames.com
@@ -2384,6 +2385,7 @@
 +.bandisoft.com
 +.bandpage.com
 +.bandwagonhost.com
++.bang-dream.com
 +.bang-movies.com
 +.bangbros.com
 +.bangbrosnetwork.com
@@ -3732,6 +3734,15 @@
 +.burstly.net
 +.burstlyrewards.com
 +.busayari.com
++.bushi-navi.com
++.bushiroad-creative.com
++.bushiroad-global-online-store.com
++.bushiroad-move.com
++.bushiroad-music.com
++.bushiroad-store.com
++.bushiroad-works.com
++.bushiroad.com
++.bushiroadgames.com
 +.business-humanrights.org
 +.business.site
 +.businesscatalyst.com
@@ -4178,6 +4189,7 @@
 +.cervical-exam.com
 +.cf
 +.cf-ipfs.com
++.cf-vanguard.com
 +.cfa
 +.cfake.com
 +.cfargotunnel.com
@@ -4746,8 +4758,10 @@
 +.comfy.org
 +.comfyci.org
 +.comfyregistry.org
++.comic-growl.com
 +.comic-mega.me
 +.comicbox.xyz
++.comicbushi-web.com
 +.comicscartoonporn.com
 +.comicunivers.com
 +.comicuniverse.org
@@ -5093,6 +5107,7 @@
 +.d2bay.com
 +.d2mrry2to5rg.com
 +.d2pass.com
++.d4dj-pj.com
 +.da-files.com
 +.daboja18.com
 +.dabr.me
@@ -5830,6 +5845,7 @@
 +.dreamcast.hk
 +.dreamforce.com
 +.dreammovies.com
++.dreamorder.com
 +.dreamteamfc.com
 +.dreamtoplay.com
 +.dreamworks.com
@@ -7192,6 +7208,7 @@
 +.fbthirdpartypixel.org
 +.fburl.com
 +.fbworkmail.com
++.fc-buddyfight.com
 +.fc2.com
 +.fc2blog.net
 +.fc2china.com
@@ -8285,6 +8302,7 @@
 +.geileomas.com
 +.geinoueroch.com
 +.gekikame.com
++.gekkan-bushi.com
 +.gelbooru.com
 +.gelbooru.me
 +.gelbooru.wjcodes.com
@@ -14120,6 +14138,7 @@
 +.niziero.info
 +.njactb.org
 +.njav.tv
++.njpw1972.com
 +.njuice.com
 +.nke6.com
 +.nl
@@ -16359,6 +16378,7 @@
 +.reastatic.net
 +.reaxys.com
 +.rebatesrule.net
++.rebirth-fy.com
 +.rebrandly.com
 +.recaptcha-cn.net
 +.recaptcha.net
@@ -16483,6 +16503,7 @@
 +.revleft.com
 +.revocationcheck.com
 +.revolv.com
++.revuestarlight.com
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
@@ -17238,6 +17259,7 @@
 +.shadowsocks.com.hk
 +.shadowsocks.org
 +.shadowsocks9.com
++.shadowverse-evolve.com
 +.shafaqna.com
 +.shahit.biz
 +.shahvani.com
@@ -19591,6 +19613,7 @@
 +.uoherald.com
 +.uol
 +.uoutside.org
++.up.audio
 +.up.gcp.googlers.com
 +.up01.cc
 +.upbit.com
@@ -20761,6 +20784,8 @@
 +.wretch.cc
 +.writesonic.com
 +.ws
++.ws-blau.com
++.ws-tcg.com
 +.wsj.com
 +.wsj.jobs
 +.wsj.net
@@ -20795,6 +20820,7 @@
 +.wwe.com
 +.wwe9.com
 +.wwitv.com
++.wwr-stardom.com
 +.wwtbam.com
 +.www-bestbuystores.com
 +.www-facebook.com
@@ -21433,6 +21459,7 @@
 +.xyy69.info
 +.xzxxporn.com
 +.xzxxtube.com
++.y.com
 +.y2mate.com
 +.yabang.org
 +.yaburi.men
