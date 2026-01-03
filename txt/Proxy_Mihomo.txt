@@ -579,6 +579,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -715,7 +716,23 @@
 +.adguardaccount.com
 +.adguardvpn.com
 +.adhelpnews.com
++.adidas-archive.org
++.adidas-group.com
++.adidas.co
 +.adidas.com
++.adidas.com.co
++.adidas.com.hk
++.adidasadmin.com
++.adidasarchive.org
++.adidasbadminton.com
++.adidasboxing.com
++.adidascdn.com
++.adidasgymnastics.com
++.adidashockey.com
++.adidasmotorsport.com
++.adidassailing.com
++.adidastabletennis.com
++.adidasusnews.com
 +.adinst.com
 +.admeld.com
 +.admob-cn.com
@@ -1363,7 +1380,6 @@
 +.android-x86.org
 +.android.com
 +.androidapksfree.com
-+.androidauthorit+.aaa
 +.androidauthority.com
 +.androidfilehost.com
 +.androidify.com
@@ -2797,6 +2813,7 @@
 +.beepool.com
 +.beepool.org
 +.beevpn.com
++.beforeigners.com
 +.befuck.com
 +.befuck.net
 +.begin-trade.com
@@ -5017,6 +5034,7 @@
 +.cuckwimp.com
 +.cuebic.biz
 +.cuffiesaldi.com
++.cuguplus.com
 +.cuhk.edu.hk
 +.cuhkacs.org
 +.cuihua.org
@@ -5227,6 +5245,9 @@
 +.dazn-api.com
 +.dazn.com
 +.dazndn.com
++.daznfeeds.com
++.daznplayer.com
++.daznservices.com
 +.dbc.hk
 +.dbgjd.com
 +.dcard.cc
@@ -6458,6 +6479,7 @@
 +.episodic.com
 +.epoch.cloud
 +.epochbase.com
++.epochbuy.c# NAME: Proxy
 +.epochbuy.com
 +.epochcar.com
 +.epochhk.com
@@ -8306,6 +8328,7 @@
 +.gelbooru.com
 +.gelbooru.me
 +.gelbooru.wjcodes.com
++.geligionnews.com
 +.gemfire.net
 +.gemfury.com
 +.gemini.com
@@ -9016,16 +9039,33 @@
 +.hbfile.net
 +.hbg.com
 +.hbo
++.hbo-europe.com
 +.hbo.com
 +.hbo.com.c.footprint.net
++.hbo.me
++.hboaccess.com
++.hboarchives.com
 +.hboasia.com
++.hboenterprises.com
++.hboespana.com
 +.hbogo.com
 +.hbogoasia.com
 +.hbogoasia.hk
++.hboinflight.com
++.hbolacontent.net
++.hbolaunchpad.com
++.hbomailman.com
 +.hbomax-images.warnermediacdn.com
 +.hbomax.com
 +.hbomaxcdn.com
++.hbomediarelations.com
++.hbonordic.com
++.hbonordic.tv
 +.hbonow.com
++.hboportugal.com
++.hboprod.com
++.hbospain.com
++.hbotvsales.com
 +.hbrowse.com
 +.hcaptcha.com
 +.hcaptchastatus.com
@@ -9482,6 +9522,8 @@
 +.home.saxo
 +.home.sina.com
 +.homealonemilfs.com
++.homebox.com
++.homeboxoffice.com
 +.homedepot
 +.homedepot-static.com
 +.homedepot.com
@@ -12622,6 +12664,7 @@
 +.mi.kochudaho.me
 +.mi.mashiro.site
 +.mi9cdn.com
++.miadidas.com
 +.miami
 +.miamifintechfestival.com
 +.miaomwu.com
@@ -12630,6 +12673,7 @@
 +.michaelmarketl.com
 +.mickey.tv
 +.mickybells.com
++.micoach.com
 +.microbit.org
 +.microsoft
 +.microsoft-give.com
@@ -12920,6 +12964,7 @@
 +.mit.net
 +.mitbbs.com
 +.mitbbsau.com
++.miteam.com
 +.mitnaka.com
 +.mitpressjournals.org
 +.mitsubishi
@@ -16399,6 +16444,7 @@
 +.redamateurtube.com
 +.redballoonsolidarity.org
 +.redbubble.com
++.redbyhbo.com
 +.redchinacn.net
 +.redchinacn.org
 +.reddit.app.link
@@ -16598,6 +16644,7 @@
 +.roloflix.com
 +.roloxxx.com
 +.rolsociety.org
++.rom
 +.romantic-sex-video.com
 +.ronjoneswriter.com
 +.roodo.com
@@ -17350,6 +17397,7 @@
 +.shoestop2.com
 +.shooshtime.com
 +.shop-headphones.net
++.shopadidas.com
 +.shopalienware.com
 +.shopbeatsdre.com
 +.shopbmwmotorcycles.com
@@ -21459,7 +21507,6 @@
 +.xyy69.info
 +.xzxxporn.com
 +.xzxxtube.com
-+.y.com
 +.y2mate.com
 +.yabang.org
 +.yaburi.men
