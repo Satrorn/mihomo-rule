@@ -6479,7 +6479,6 @@
 +.episodic.com
 +.epoch.cloud
 +.epochbase.com
-+.epochbuy.c# NAME: Proxy
 +.epochbuy.com
 +.epochcar.com
 +.epochhk.com
@@ -8328,7 +8327,6 @@
 +.gelbooru.com
 +.gelbooru.me
 +.gelbooru.wjcodes.com
-+.geligionnews.com
 +.gemfire.net
 +.gemfury.com
 +.gemini.com
@@ -16644,7 +16642,6 @@
 +.roloflix.com
 +.roloxxx.com
 +.rolsociety.org
-+.rom
 +.romantic-sex-video.com
 +.ronjoneswriter.com
 +.roodo.com
