@@ -13970,6 +13970,10 @@
 +.nginx.com
 +.nginx.org
 +.ngodupdongchung.com
++.ngrok-free.pizza
++.ngrok.com
++.ngrok.pizza
++.ngrok.pro
 +.nhentai.com
 +.nhentai.net
 +.nhentaihaven.com
@@ -15272,6 +15276,7 @@
 +.pinflix.com
 +.pingan.com.hk
 +.pingguotv.xyz
++.pinggy.link
 +.pingxiangpuer.com
 +.pinimg.com
 +.pinkcore.com
