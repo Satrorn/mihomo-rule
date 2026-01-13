@@ -3680,6 +3680,7 @@
 +.brotli.org
 +.brourou.com
 +.browser.kagi.com
++.browser.run
 +.browserleaks.com
 +.brucewang.net
 +.brussels
@@ -4214,6 +4215,7 @@
 +.cfargotunnel.com
 +.cfblob.com
 +.cfd-tv.com
++.cfdata.org
 +.cfdesign.com
 +.cfhks.org.hk
 +.cfna.com
@@ -4617,26 +4619,33 @@
 +.cloudflare-gateway.com
 +.cloudflare-ipfs.com
 +.cloudflare-quic.com
++.cloudflare-terms-of-service-abuse.com
 +.cloudflare.com
 +.cloudflare.net
 +.cloudflare.tv
 +.cloudflareaccess.com
 +.cloudflareapps.com
 +.cloudflarebolt.com
++.cloudflarebrowser.com
++.cloudflarechallenge.com
 +.cloudflareclient.com
++.cloudflarecp.com
 +.cloudflareinsights.com
 +.cloudflareok.com
 +.cloudflarepartners.com
 +.cloudflareportal.com
 +.cloudflarepreview.com
 +.cloudflareregistrar.com
++.cloudflareresearch.com
 +.cloudflareresolve.com
 +.cloudflaressl.com
 +.cloudflarestatus.com
 +.cloudflarestorage.com
 +.cloudflarestream.com
++.cloudflaresupport.com
 +.cloudflaretest.com
 +.cloudflarewarp.com
++.cloudflareworkers.com
 +.cloudfront.com
 +.cloudfront.net
 +.cloudfunctions.net
@@ -5090,6 +5099,7 @@
 +.cwcams.com
 +.cws.conviva.com
 +.cx
++.cxacg.com
 +.cy
 +.cy22.tv
 +.cyber-bay.info
@@ -5142,7 +5152,6 @@
 +.dafabet.com
 +.dafagood.com
 +.dafahao.com
-+.dafahao000webhost.com
 +.dafanhao-app.com
 +.dafoh.org
 +.daftporn.com
@@ -6425,6 +6434,7 @@
 +.enablementadobe.com
 +.encoretvb.com
 +.encrypt.me
++.encryptedsni.com
 +.encuentroscasualesoecuador.com
 +.encyclopedia.com
 +.enema-porn.com
@@ -8177,6 +8187,7 @@
 +.game-platform.net
 +.game-repack.site
 +.game735.com
++.gameapps.hk
 +.gamebeforethegame.com
 +.gamejolt.com
 +.gameloft.com
@@ -8355,7 +8366,6 @@
 +.george
 +.geospatialimaging.com
 +.geospatialinfo.com
-+.geospatiant.org
 +.geotrust.com
 +.ger.file.myqcloud.com
 +.geraldoatlarge.com
@@ -9351,7 +9361,6 @@
 +.hibdontire.com
 +.hicairo.com
 +.hiccears.com
-+.hidden-adve.com
 +.hidden-advent.org
 +.hiddenvoyeurspy.com
 +.hiddify.com
@@ -10422,6 +10431,7 @@
 +.innovations-i.com
 +.inoreader.com
 +.inporn.com
++.inquirer.net
 +.insder.co
 +.insecam.org
 +.inshot.cc
@@ -10570,7 +10580,6 @@
 +.interseclab.org
 +.intescort.com
 +.intgram.com
-+.inthenameofconfuciusmolimaging.com
 +.inthenameofconfuciusmovie.com
 +.intimateinvasions.com
 +.intltencentcos.com
@@ -13042,6 +13051,7 @@
 +.modmyi.com
 +.modrinth.com
 +.moe
++.moedigi.com
 +.moeero-library.com
 +.moeerolibrary.com
 +.moefuns.co
@@ -16527,6 +16537,7 @@
 +.renyurenquan.org
 +.renzhe.cloud
 +.repe21.com
++.repotama.com
 +.repsneakermall.com
 +.repswing.com
 +.rerouted.org
@@ -17946,6 +17957,7 @@
 +.spyjinx.com
 +.sqlite.org
 +.sqlserveronlinux.com
++.sqool.net
 +.squ1.com
 +.squadbusters.com
 +.squarecapital.com
@@ -18448,6 +18460,7 @@
 +.talksport.com
 +.tamilsexvideos.cc
 +.tampabay.com
++.tampermonkey.net
 +.tamtam.chat
 +.tanc.org
 +.tandberg-china.com
@@ -19142,6 +19155,7 @@
 +.towngain.com
 +.townofsins.com
 +.toy-cadcam.com
++.toy-people.com
 +.toycadcam.com
 +.toyota
 +.toythieves.com
@@ -19989,7 +20003,6 @@
 +.vidmpreview.com
 +.vidown.com
 +.vidspornoduro.com
-+.vie.com
 +.viet69.link
 +.viet69.news
 +.vietdaikynguyen.com
