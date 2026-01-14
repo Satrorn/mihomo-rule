@@ -5489,6 +5489,7 @@
 +.digitaltrends.com
 +.diigo.com
 +.dilcdn.com
++.dinopoloclub.com
 +.dinotube.com
 +.dipity.com
 +.dirctv.com
@@ -14271,6 +14272,7 @@
 +.nowtorrents.com
 +.nowtv
 +.noxinfluencer.com
++.noxygames.com
 +.noypf.com
 +.np
 +.npm.community
@@ -16336,6 +16338,8 @@
 +.rawgit.com
 +.rawgithub.com
 +.raxcdn.com
++.rayark.download
++.rayark.net
 +.razer.com
 +.razerofficial.com
 +.razersupport.com
