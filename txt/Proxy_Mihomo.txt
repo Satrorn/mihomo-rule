@@ -158,6 +158,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -868,7 +869,6 @@
 +.aeasyshop.com
 +.aebn.com
 +.aecexcellence.com
-+.aed
 +.aeg
 +.aei.org
 +.aenhancers.com
@@ -979,7 +979,6 @@
 +.airvpn.org
 +.airwatchexpress.com
 +.airwatchqa.com
-+.airwiats4.net
 +.airwick.com
 +.airwick.net
 +.airwick.tv
@@ -1662,7 +1661,6 @@
 +.appleinclegal.com
 +.appleinsider.com
 +.appleiphone.net
-+.appleiphonecell
 +.appleiphonecell.com
 +.appleipodsettlement.com
 +.appleiservices.com
@@ -2542,7 +2540,6 @@
 +.bdsmtv.cc
 +.bdsmvideos.net
 +.be
-+.be1password.drift.click
 +.beaconevents.com
 +.bearteach.com
 +.beascoremodel.com
@@ -2855,7 +2852,6 @@
 +.best3dhere.com
 +.best4bim.com
 +.bestamateurcumshots.com
-+.bestb0.com
 +.bestbeats4u.com
 +.bestbhy.com
 +.bestbim.com
@@ -4269,7 +4265,6 @@
 +.cheap-beatsbydre.com
 +.cheap-nike.com
 +.cheapbagshoes.com
-+.cheapbe
 +.cheapbeats365.com
 +.cheapbeats4sale.net
 +.cheapbeatsaustraliasale.com
@@ -5082,7 +5077,6 @@
 +.cursor.com
 +.cursorapi.com
 +.curvefish.com
-+.curvefish.cotee.org
 +.curvybbwwives.com
 +.curvyerotic.com
 +.cusp.hk
@@ -5358,6 +5352,7 @@
 +.dellpowersolutions.com
 +.dellprecision.com
 +.dellprinter.com
++.dellstimes.com
 +.dellsupportcenter.com
 +.delltechcenter.com
 +.delltechnologies.com
@@ -9250,7 +9245,6 @@
 +.hentaihand.com
 +.hentaihaven.com
 +.hentaihaven.me
-+.hentaihaven.r.com
 +.hentaihaven.red
 +.hentaiheadlines.com
 +.hentaihere.com
@@ -16830,7 +16824,6 @@
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
-+.saasexch.iouy-audio.com
 +.saboom.com
 +.sabuibo.net
 +.sacduc.com
@@ -18172,6 +18165,7 @@
 +.stoweboyd.com
 +.straightouttasomewhere.com
 +.straightpornstuds.com
++.strait000webhost.com
 +.straitstimes.com
 +.straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.straitsx.com
@@ -19761,7 +19755,6 @@
 +.userapi.com
 +.usertrust.com
 +.usocctn.com
-+.ustibetcommitatsbydrenz.net
 +.ustibetcommittee.org
 +.ustream.tv
 +.usunitednews.com
@@ -21375,6 +21368,7 @@
 +.xuite.net
 +.xujan.com
 +.xuzhiyong.net
++.xv-ru.com
 +.xv1.monster
 +.xvbelink.com
 +.xvds.tv
@@ -21387,8 +21381,10 @@
 +.xvideo1.org
 +.xvideo2.org
 +.xvideoporno.tv
++.xvideos-ar.com
 +.xvideos-cdn.com
 +.xvideos-dl.top
++.xvideos-india.com
 +.xvideos-porn-video.com
 +.xvideos-xxxx.com
 +.xvideos.blog
