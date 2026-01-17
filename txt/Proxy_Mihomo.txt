@@ -158,7 +158,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -619,6 +618,7 @@
 +.aboluowang.com
 +.about.me
 +.aboutamazon.com
++.aboutamazon.orgit.com
 +.aboutfacebook.com
 +.aboutgfw.com
 +.aboutmcdonalds.com
@@ -5352,7 +5352,6 @@
 +.dellpowersolutions.com
 +.dellprecision.com
 +.dellprinter.com
-+.dellstimes.com
 +.dellsupportcenter.com
 +.delltechcenter.com
 +.delltechnologies.com
@@ -18165,7 +18164,6 @@
 +.stoweboyd.com
 +.straightouttasomewhere.com
 +.straightpornstuds.com
-+.strait000webhost.com
 +.straitstimes.com
 +.straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.straitsx.com
@@ -19953,6 +19951,7 @@
 +.vewas.net
 +.vfabric.net
 +.vfsco.com
++.vfsf1password.drift.click
 +.vfsforgit.com
 +.vfsforgit.org
 +.vg
