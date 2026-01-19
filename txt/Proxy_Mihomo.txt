@@ -158,6 +158,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -12175,7 +12176,6 @@
 +.lyzsxx.com
 +.lzjscript.com
 +.lzmtnews.org
-+.m
 +.m-power.com
 +.m.me
 +.m2m.com
@@ -14540,7 +14540,6 @@
 +.oldje.com
 +.olehd.com
 +.olehdtv.com
-+.olelive.co1password.drift.click
 +.olelive.com
 +.olemovienews.com
 +.olevod.com
@@ -16057,6 +16056,7 @@
 +.ptzwx.com
 +.pu82.vip
 +.pubg.com
++.pubg1.battleye.com
 +.public-sex-porn.com
 +.public-trust.com
 +.public-us-pingsx.api.clonoth.com
