@@ -3026,6 +3026,7 @@
 +.binance.vision
 +.binanceapi.com
 +.binancecnt.com
++.binanceru.net
 +.binancezh.biz
 +.binancezh.cc
 +.binancezh.co
