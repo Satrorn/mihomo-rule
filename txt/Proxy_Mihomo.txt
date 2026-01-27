@@ -2784,6 +2784,7 @@
 +.beijing1989.com
 +.beijing2022.art
 +.beijingnike.com
++.beijingnike.com# NAME: Proxy
 +.beijingspring.com
 +.beijingzx.org
 +.beiyongzhan1.com
@@ -18115,6 +18116,7 @@
 +.stxmosquitoproject.net
 +.stxmosquitoproject.org
 +.style
++.stystash.com
 +.su
 +.sub147.com
 +.subhd.tv
@@ -18712,6 +18714,7 @@
 +.thetrackernetwork.com
 +.thetranny.com
 +.thetread.com
++.thetrotskymovie
 +.thetrotskymovie.com
 +.thetvdb.com
 +.thetype.com
@@ -21512,6 +21515,7 @@
 +.yes-news.com
 +.yesasia.com
 +.yesasia.com.hk
++.yesasia.com.hk.com
 +.yespornfree.com
 +.yespornplease.com
 +.yespornpleasexxx.com
