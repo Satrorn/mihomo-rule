@@ -159,7 +159,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -592,7 +591,6 @@
 +.aanaan.com
 +.aaplimg.com
 +.aarp
-+.aat.org
 +.aave.com
 +.aavs.xyz
 +.abb
@@ -1157,6 +1155,7 @@
 +.alphabet.com
 +.alphabet.info
 +.alphabetfinance.net
++.alphabetsquito.com
 +.alphaporno.com
 +.alphaxiv.org
 +.alphera-finance.com.hk
@@ -2857,7 +2856,6 @@
 +.bestgore.com
 +.besthandjobporn.com
 +.besthentaitube.com
-+.bestialit+.aaa
 +.bestiality.guru
 +.bestialitysextaboo.com
 +.bestialitytaboo.tv
@@ -3110,6 +3108,7 @@
 +.bitstamp.net
 +.bitstream.com
 +.bitterwinter.org
++.bittorrent.com
 +.bittrex.com
 +.bitvise.com
 +.bitwarden.com
@@ -3483,6 +3482,7 @@
 +.bootstrapcdn.com
 +.bootyliciousmag.com
 +.bootysource.com
++.boqimo+.aaa
 +.boqimod.com
 +.boqitube.cc
 +.borderlessprepaid.com
@@ -5085,6 +5085,7 @@
 +.d-trust.net
 +.d-upp.com
 +.d.cash
++.d.com
 +.d0z.net
 +.d100.net
 +.d2bay.com
@@ -5119,7 +5120,6 @@
 +.dailynews.sina.com
 +.dailyporn.club
 +.dailysabah.com
-+.dailyvioud.net
 +.daindianporn.com
 +.daiphapinfo.net
 +.dajiyuan.com
@@ -9116,6 +9116,7 @@
 +.helpuyghursnow.org
 +.helpzhuling.org
 +.helsinki
++.hembed.com
 +.hentai-ani.me
 +.hentai-archive.com
 +.hentai-books.com
@@ -10786,7 +10787,6 @@
 +.jamaat.org
 +.jamanetwork.com
 +.jambotube.com
-+.jame.org
 +.jamestown.org
 +.jamyangnorbu.com
 +.jandyx.com
@@ -12274,6 +12274,7 @@
 +.manta.com
 +.mantochichi.com
 +.manurefetish.com
++.manuscdn.com
 +.manytoon.com
 +.manyvids.com
 +.manyvoices.news
@@ -19675,6 +19676,7 @@
 +.ustream.tv
 +.usunitednews.com
 +.usus.cc
++.usvimo1password.drift.click
 +.usvimosquito.com
 +.usvimosquitoproject.com
 +.utopianpal.com
@@ -19731,6 +19733,7 @@
 +.v-has.com
 +.v.roucdn
 +.v2.help
++.v2.hysteria.network
 +.v2ex.co
 +.v2ex.com
 +.v2fly.org
@@ -21752,7 +21755,6 @@
 +.yswet.com
 +.ysx-mm.com
 +.yt
-+.ytaboo.tv
 +.ytht.net
 +.ytimg.com
 +.yuanming.net
