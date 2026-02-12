@@ -1,4 +1,3 @@
-+..rexroth
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -584,6 +583,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1536,7 +1536,6 @@
 +.app
 +.app-analytics-services.com
 +.app-dynamics.com
-+.app-measur+.aaa
 +.app-measurement-cn.com
 +.app-measurement.com
 +.app-measurement.net
@@ -2462,7 +2461,6 @@
 +.bbqm1.xyz
 +.bbs-tw.com
 +.bbs.boingboing.net
-+.bbs.sina.com
 +.bbs.tuitui.info
 +.bbsdigest.com
 +.bbsfeed.com
@@ -5125,7 +5123,6 @@
 +.dailymail.com
 +.dailymailonline.com
 +.dailymotion.com
-+.dailynews.sina.com
 +.dailyporn.club
 +.dailysabah.com
 +.daindianporn.com
@@ -9485,7 +9482,6 @@
 +.home-sex-tapes.com
 +.home-song.com
 +.home.saxo
-+.home.sina.com
 +.homealonemilfs.com
 +.homebox.com
 +.homeboxoffice.com
@@ -9793,7 +9789,6 @@
 +.hrichina.org
 +.hrntt.org
 +.hrsaz.com
-+.hrtsea.com
 +.hrw.org
 +.hrweb.org
 +.hsbc
@@ -11760,7 +11755,6 @@
 +.libsyn.com
 +.licdn.cn.cdn20.com
 +.licdn.com
-+.licefiles.org
 +.licensebuttons.net
 +.licenseparser.com
 +.lidecheng.com
@@ -16507,6 +16501,7 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
++.rexroth
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -21014,7 +21009,6 @@
 +.xinggan77.vip
 +.xingrz.me
 +.xinhuanet.org
-+.xinjiangpo000webhost.com
 +.xinjiangpolicefiles.org
 +.xinlan995.xyz
 +.xinmeitulu.com
