@@ -583,7 +583,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1524,6 +1523,7 @@
 +.apkplz.com
 +.apkpure.com
 +.apkpure.net
++.apkpures.xyz
 +.aple.com
 +.aplestore.com
 +.aplleipods.com
@@ -8020,6 +8020,7 @@
 +.full:time3.facebook.com
 +.full:time4.facebook.com
 +.full:time5.facebook.com
++.full:ubisoft.siteintercept.qualtrics.com
 +.full:uts-api.itunes.apple.com
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
@@ -8395,6 +8396,7 @@
 +.ggsrv.com
 +.ggssl.com
 +.gh
++.gh+.aaa
 +.ghanely.me
 +.ghettotube.com
 +.ghidra-sre.org
@@ -8775,6 +8777,14 @@
 +.grannylovesyoungcock.com
 +.grannytube.net
 +.graph.org
++.grapheneos.com
++.grapheneos.foundation
++.grapheneos.info
++.grapheneos.net
++.grapheneos.network
++.grapheneos.online
++.grapheneos.org
++.grapheneos.social
 +.graphql.org
 +.gravatar.com
 +.gravitytank.com
@@ -14685,6 +14695,7 @@
 +.oss-me-east-1.aliyuncs.com
 +.oss-us-east-1.aliyuncs.com
 +.oss-us-west-1.aliyuncs.com
++.ostarchive.org
 +.osxdaily.com
 +.otaku-168.com
 +.otaku18a.info
@@ -19504,6 +19515,7 @@
 +.ubertags.com
 +.ubi.com
 +.ubisoft.com
++.ubisoft.siteintercept.qualtrics.com
 +.ubisoftconnect.com
 +.ublock.org
 +.ubncloud.com
