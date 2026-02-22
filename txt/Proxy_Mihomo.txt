@@ -1882,6 +1882,7 @@
 +.assembla.com
 +.assemblesystems.com
 +.assesphoto.com
++.assets.nxtrace.org
 +.assetsadobe.com
 +.assimp.org
 +.assistirhentai.com
@@ -13931,7 +13932,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ngenix.net
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -14612,6 +14612,7 @@
 +.openbase.com
 +.opencollective.com
 +.opencreate.org
++.opencritic.com
 +.opendemocracy.net
 +.opendesktop.org
 +.opendn.xyz
@@ -17484,6 +17485,7 @@
 +.simgbb.com
 +.similar-porn.fun
 +.simility.com
++.simne.com
 +.simonsgirls.com
 +.simplecd.me
 +.simplecd.org
@@ -19851,6 +19853,7 @@
 +.velasync.com
 +.velasystems.com
 +.velatest.com
++.velkaem.hk
 +.velocloud.com
 +.velostrata.com
 +.venbbs.com
