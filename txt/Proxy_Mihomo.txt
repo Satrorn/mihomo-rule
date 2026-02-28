@@ -586,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5063,7 +5064,6 @@
 +.custombeatsny.com
 +.custombeatssbydreus.com
 +.customdrdrebeats.com
-+.customerc# NAME: Proxy
 +.customizedbeatbydre.com
 +.customizedbeatsbydre.com
 +.customizedbeatsdre.com
@@ -14254,7 +14254,6 @@
 +.ntdtv.org
 +.ntdtvla.com
 +.ntdvn.com
-+.nter.com
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
 +.ntp1.ntp-servers.net
@@ -17387,7 +17386,6 @@
 +.shopbmwusa.com
 +.shopbydre.com
 +.shopcustomizedbeats.com
-+.shopdisney.co+.aaa
 +.shopdisney.com
 +.shopdrebeats.com
 +.shopdurex.com
@@ -21571,6 +21569,7 @@
 +.yandexcloud.net
 +.yandexcom.net
 +.yandexmetrica.com
++.yandexwebcache.net
 +.yandexwebcache.org
 +.yanghengjun.com
 +.yangjianli.com
