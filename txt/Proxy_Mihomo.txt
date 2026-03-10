@@ -5073,6 +5073,7 @@
 +.cutout.pro
 +.cutscenes.net
 +.cv
++.cve.org
 +.cw
 +.cwcams.com
 +.cws.conviva.com
@@ -16593,6 +16594,7 @@
 +.rjgsp.buzz
 +.rjgsp1.buzz
 +.rk.com
++.rks.com
 +.rlczdo.xyz
 +.rlwlw.com
 +.rm2029.com
