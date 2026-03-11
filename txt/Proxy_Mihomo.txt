@@ -586,7 +586,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -6603,6 +6602,7 @@
 +.espressif.com
 +.esq
 +.esri.com
++.est.com.hk
 +.estudio360.com.co
 +.estudiopenthouse.com
 +.esu.dog
@@ -16594,7 +16594,6 @@
 +.rjgsp.buzz
 +.rjgsp1.buzz
 +.rk.com
-+.rks.com
 +.rlczdo.xyz
 +.rlwlw.com
 +.rm2029.com
@@ -17877,6 +17876,7 @@
 +.speedracegear.com
 +.speedrun.com
 +.speedsmart.net
++.speedt+.aaa
 +.speedtest.com.hk
 +.speedtest.hk.chinamobile.com
 +.speedtestbb.hk.chinamobile.com
