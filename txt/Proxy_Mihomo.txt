@@ -586,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -6602,7 +6603,6 @@
 +.espressif.com
 +.esq
 +.esri.com
-+.est.com.hk
 +.estudio360.com.co
 +.estudiopenthouse.com
 +.esu.dog
@@ -17531,6 +17531,7 @@
 +.sinoinsider.com
 +.sinopitt.info
 +.sinoquebec.com
++.sinyalee.com
 +.sipml5.org
 +.siport.com
 +.sipriyearbook.org
@@ -17876,7 +17877,6 @@
 +.speedracegear.com
 +.speedrun.com
 +.speedsmart.net
-+.speedt+.aaa
 +.speedtest.com.hk
 +.speedtest.hk.chinamobile.com
 +.speedtestbb.hk.chinamobile.com
