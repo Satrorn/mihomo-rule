@@ -586,7 +586,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4397,6 +4396,7 @@
 +.chinesedaily.com
 +.chinesedailynews.com
 +.chinesedemocracy.com
++.chinesedemofi
 +.chinesegay.org
 +.chinesepen.org
 +.chineseradioseattle.com
@@ -7366,6 +7366,7 @@
 +.fingerdaily.com
 +.finisharabia.com
 +.finishdishwashing.com
++.finishinfo.# NAME: Proxy
 +.finishinfo.com
 +.finler.net
 +.finlitsummit.org
@@ -8659,6 +8660,7 @@
 +.googel.com
 +.googil.com
 +.googl.com
++.googlcracy.com
 +.google
 +.google-access.net
 +.google-analytics-cn.com
@@ -9907,6 +9909,7 @@
 +.huggingface.co
 +.hughes
 +.huhaitai.com
++.huhamhieoptimize-cn.com
 +.huhamhire.com
 +.huhangfei.com
 +.huiav.com
@@ -10003,6 +10006,7 @@
 +.i-cablecomm.com
 +.i-o-u.info
 +.i-scmp.com
++.i.com
 +.i.jeded.com
 +.i.org
 +.i1.hk
@@ -10567,6 +10571,7 @@
 +.inxian.com
 +.inxporn.com
 +.io
++.io.com.cn
 +.ioe.com
 +.ioffergift.com
 +.ioinformatics.org
@@ -11982,6 +11987,7 @@
 +.logitechg.com
 +.logitechg.com.cn
 +.logitechio.com.cn
++.logitechre.com
 +.logmein.com
 +.logos.com.hk
 +.loholidayhk.com
@@ -13034,6 +13040,7 @@
 +.moeshare.cc
 +.moez-m.com
 +.mof.kemomi.me
++.mofaxiehu+.aaa
 +.mofaxiehui.com
 +.mofos.com
 +.mofosex.com
