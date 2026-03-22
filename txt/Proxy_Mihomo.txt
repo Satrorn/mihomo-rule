@@ -1,3 +1,4 @@
++..org
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -586,7 +587,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1209,7 +1209,6 @@
 +.amaaozn.com
 +.amabitch.com
 +.amakings.com
-+.amakjia.com
 +.amamanualofstyle.com
 +.amandalist.com
 +.amanmi.com
@@ -3269,7 +3268,6 @@
 +.blylq.buzz
 +.blz-contentstack.com
 +.bm
-+.bm.org.hk
 +.bmdru.com
 +.bmfinn.com
 +.bmia.org
@@ -6610,7 +6608,6 @@
 +.espressif.com
 +.esq
 +.esri.com
-+.est-sex-games.com
 +.estudio360.com.co
 +.estudiopenthouse.com
 +.esu.dog
@@ -9911,7 +9908,6 @@
 +.hugesex.tv
 +.huggingface.co
 +.hughes
-+.huhaitai.co000webhost.com
 +.huhaitai.com
 +.huhamhire.com
 +.huhangfei.com
@@ -10823,7 +10819,6 @@
 +.jable.one
 +.jable.org
 +.jable.tv
-+.jacakamai-staging.net
 +.jackjia.com
 +.jade-net-home.com
 +.jadult.net
@@ -13654,7 +13649,6 @@
 +.namethatpornad.com
 +.namgyal.org
 +.namgyalmonastery.org
-+.namgyalmonasteryteurgalore.net
 +.namsisi.com
 +.namu.wiki
 +.nan-net.com
@@ -15338,7 +15332,6 @@
 +.pkqjiasu.com
 +.pkuanvil.com
 +.pl
-+.pl.org
 +.placemix.com
 +.placesdocs.com
 +.planetminecraft.com
