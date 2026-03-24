@@ -160,7 +160,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -12092,6 +12091,7 @@
 +.lt
 +.lthgav.buzz
 +.ltube.life
++.ltyheadphones.com
 +.lu
 +.lu2100.com
 +.lu2200.com
@@ -14648,6 +14648,7 @@
 +.openlibrary.org
 +.openmaps.org
 +.openreality.com
++.openrec.tv
 +.openresty.org
 +.openreview.net
 +.opensource.guide
@@ -16782,6 +16783,7 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
++.s.rmimg.com
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
@@ -17882,6 +17884,7 @@
 +.spb.com
 +.spcc-sp.com
 +.speakerdeck.com
++.specia1password.drift.click
 +.specialtyheadphones.com
 +.spectraltube.com
 +.speedcat.me
