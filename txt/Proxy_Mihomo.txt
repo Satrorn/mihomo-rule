@@ -160,6 +160,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -12091,7 +12092,6 @@
 +.lt
 +.lthgav.buzz
 +.ltube.life
-+.ltyheadphones.com
 +.lu
 +.lu2100.com
 +.lu2200.com
@@ -14813,6 +14813,8 @@
 +.ozeex.com
 +.ozodi.org
 +.ozodlik.org
++.ozon.com
++.ozonru.me
 +.ozonusercontent.com
 +.ozvoice.org
 +.ozxw.com
@@ -17884,7 +17886,6 @@
 +.spb.com
 +.spcc-sp.com
 +.speakerdeck.com
-+.specia1password.drift.click
 +.specialtyheadphones.com
 +.spectraltube.com
 +.speedcat.me
@@ -21092,6 +21093,7 @@
 +.xiaohexie.com
 +.xiaolan.me
 +.xiaoma.org
++.xiaomiflash.com
 +.xiaoou.tv
 +.xiaoshuobb.life
 +.xiaoyaoge.xyz
@@ -21147,6 +21149,7 @@
 +.xmoviesforyou.com
 +.xn--096-4g6em5t.com
 +.xn--11xs86f.icu
++.xn--1jqvh729avzfcy2d8ummib.com
 +.xn--201-4g6em5t.com
 +.xn--202-4g6em5t.com
 +.xn--203-4g6em5t.com
