@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -586,7 +587,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4445,6 +4445,7 @@
 +.chuizi.net
 +.chuneo.xyz
 +.chunja19.net
++.chunkbase.com
 +.chuporno.com
 +.churchinhongkong.org
 +.chutuno.fun
@@ -7084,6 +7085,7 @@
 +.fanleakstoday.com
 +.fanqiang.network
 +.fanqiangdang.com
++.fanqiangdchinesedemocracy.com
 +.fanqianghou.com
 +.fanqianglu.com
 +.fanqiangyakexi.net
@@ -8137,6 +8139,7 @@
 +.g1d1goob.xyz
 +.g6hentai.com
 +.ga
++.ga+.aaa
 +.gab.com
 +.gabia.net
 +.gabocorp.com
@@ -8709,6 +8712,7 @@
 +.googlehosted.com
 +.googleideas.com
 +.googleinsidesearch.com
++.googleinsidesearch.lmonastery.org
 +.googlelabs.com
 +.googlemail.com
 +.googlemaps.com
@@ -12088,6 +12092,7 @@
 +.lsnzxzy1.com
 +.lspimg.com
 +.lss55.com
++.lstars.net
 +.lsxszzg.com
 +.lt
 +.lthgav.buzz
@@ -12797,6 +12802,7 @@
 +.minecraft-services.net
 +.minecraft.net
 +.minecraft.wiki
++.minecraftforge.net
 +.minecraftservices.com
 +.minecraftshop.com
 +.mingdemedia.org
@@ -13644,9 +13650,11 @@
 +.nalandabodhi.org
 +.nalandawest.org
 +.name.com
++.namemc.com
 +.namemybeats.com
 +.namethatporn.com
 +.namethatpornad.com
++.namgyaang.com
 +.namgyal.org
 +.namgyalmonastery.org
 +.namsisi.com
@@ -13955,6 +13963,7 @@
 +.nginx.com
 +.nginx.org
 +.ngodupdongchung.com
++.ngrok-agent.com
 +.ngrok-free.pizza
 +.ngrok.com
 +.ngrok.pizza
@@ -14677,6 +14686,7 @@
 +.optica.org
 +.opticore.com
 +.opticsforthecloud.net
++.optifine.net
 +.optimumssl.com
 +.opus-gaming.com
 +.oracle
@@ -17914,6 +17924,7 @@
 +.spideroak.com
 +.spiderpool.com
 +.spiedigitallibrary.org
++.spigotmc.org
 +.spike.com
 +.spiritclubs.com
 +.spiritofecstasy.com
@@ -18592,6 +18603,8 @@
 +.tehrantimes.com
 +.telebay.com
 +.telecomspace.com
++.telega.info
++.telega.me
 +.telega.one
 +.telegram-cdn.org
 +.telegram-porn.com
