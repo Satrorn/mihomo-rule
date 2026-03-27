@@ -1,4 +1,3 @@
-+..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -587,6 +586,7 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -7085,7 +7085,6 @@
 +.fanleakstoday.com
 +.fanqiang.network
 +.fanqiangdang.com
-+.fanqiangdchinesedemocracy.com
 +.fanqianghou.com
 +.fanqianglu.com
 +.fanqiangyakexi.net
@@ -8139,7 +8138,6 @@
 +.g1d1goob.xyz
 +.g6hentai.com
 +.ga
-+.ga+.aaa
 +.gab.com
 +.gabia.net
 +.gabocorp.com
@@ -8712,7 +8710,6 @@
 +.googlehosted.com
 +.googleideas.com
 +.googleinsidesearch.com
-+.googleinsidesearch.lmonastery.org
 +.googlelabs.com
 +.googlemail.com
 +.googlemaps.com
@@ -12092,7 +12089,6 @@
 +.lsnzxzy1.com
 +.lspimg.com
 +.lss55.com
-+.lstars.net
 +.lsxszzg.com
 +.lt
 +.lthgav.buzz
@@ -13654,7 +13650,6 @@
 +.namemybeats.com
 +.namethatporn.com
 +.namethatpornad.com
-+.namgyaang.com
 +.namgyal.org
 +.namgyalmonastery.org
 +.namsisi.com
@@ -16151,6 +16146,7 @@
 +.qbmengmei6.mom
 +.qckprn.com
 +.qcmod.xyz
++.qcomgeo2.com
 +.qctconnect.com
 +.qdiehzz7.me
 +.qdmomentum.com
@@ -16195,6 +16191,7 @@
 +.qt-project.org
 +.qtweeter.com
 +.qualcomm-email.com
++.qualcomm-inc.com
 +.qualcomm.com
 +.qualcommhalo.com
 +.qualcommlabs.com
@@ -21236,6 +21233,7 @@
 +.xn--i2ru8q2qg.com
 +.xn--j1amh
 +.xn--jlq480n2rg
++.xn--kcrv3utim32hx9f6qe.com
 +.xn--kcrx77d1x4a
 +.xn--kprw13d
 +.xn--kpry57d
