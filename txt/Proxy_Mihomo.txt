@@ -161,6 +161,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1618,7 +1619,6 @@
 +.applecentre.info
 +.appleclassicipod.com
 +.appleclub.com.hk
-+.appleco
 +.applecom.com
 +.applecomputer-imac.com
 +.applecomputer.com
@@ -2834,7 +2834,6 @@
 +.bentley
 +.bentobox.tv
 +.beric.me
-+.berkanawireles1password.drift.click
 +.berkanawireless.com
 +.berlin
 +.berlincompanions.com
@@ -3103,7 +3102,6 @@
 +.bipic.net
 +.biqle.org
 +.bisq.network
-+.bisq.networkanti1984.com
 +.bistudio.com
 +.bit-z.com
 +.bit.com
@@ -4222,7 +4220,6 @@
 +.cgdepot.org
 +.cgkate.jinvod.com
 +.ch
-+.chaeuniversity.com
 +.championshipseriesleague.com
 +.chanel
 +.change.org
@@ -5021,7 +5018,6 @@
 +.cu
 +.cubicmotion.com
 +.cubicodyssey.game
-+.cuckfilmswifefuck.cokerguardian.com
 +.cuckfilmswifefuck.com
 +.cuckold69.com
 +.cuckoldfuck.com
@@ -5551,7 +5547,6 @@
 +.discomax.com
 +.disconnect.me
 +.discord-activities.com
-+.discord-activitiesmputer-imac.com
 +.discord.co
 +.discord.com
 +.discord.design
@@ -6521,7 +6516,6 @@
 +.ero-anime.net
 +.ero-comic-hunter.net
 +.ero-kawa.com
-+.ero-labs.alcomix.com
 +.ero-labs.cloud
 +.ero-labs.com
 +.ero-labs.fun
@@ -7622,7 +7616,6 @@
 +.foxcincy.net
 +.foxcollegesports.com
 +.foxcorporation.com
-+.foxcreativ.com
 +.foxcreativeuniversity.com
 +.foxcredit.com
 +.foxcredit.org
@@ -8992,7 +8985,6 @@
 +.hackthatphone.net
 +.hackthedrive.com
 +.hackyourconsole.com
-+.hacngeip.name
 +.hadesex.com
 +.haha888.xyz
 +.hahlo.com
@@ -14672,7 +14664,6 @@
 +.onxxxtube.com
 +.onxxxvideo.com
 +.ood.opsource.net
-+.ook.com
 +.ooni.org
 +.oopsforum.com
 +.ooyala.com
@@ -16846,7 +16837,6 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
-+.s.com
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
