@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -587,7 +588,6 @@
 +.aa1141.com
 +.aa1142.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3403,6 +3403,7 @@
 +.bmwmotorcycles.com
 +.bmwmotorcycleusa.com
 +.bmwmotorradhk.com
++.bmwmotorshowblog+.aaa
 +.bmwmotorshowblog.com
 +.bmwmotorsport.com
 +.bmwmperformance.com
@@ -4611,6 +4612,7 @@
 +.cloudflare-ipfs.com
 +.cloudflare-quic.com
 +.cloudflare-terms-of-service-abuse.com
++.cloudflare-termwitlonger.com
 +.cloudflare.com
 +.cloudflare.net
 +.cloudflare.tv
@@ -13238,6 +13240,7 @@
 +.motorshowblog.com
 +.mottainai.info
 +.mousebreaker.com
++.mousnudes.com
 +.mov
 +.move-free.net
 +.move.com
@@ -18750,6 +18753,7 @@
 +.theaffairs.com
 +.theatlantic.com
 +.theatrum-belli.com
++.theaustralian.com000webhost.com
 +.theav.cc
 +.theav.xyz
 +.thebanker.com
@@ -19341,6 +19345,7 @@
 +.tryquinn.com
 +.tryrating.com
 +.tryst.link
++.ts.com
 +.ts.net
 +.tsctv.net
 +.tsemtulku.com
@@ -20312,6 +20317,7 @@
 +.volvobuses.co
 +.volvobuses.com
 +.volvobuses.hk
++.volvobuss-of-service-abuse.com
 +.volvoce.com
 +.volvodefense.com
 +.volvogroup.com
