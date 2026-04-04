@@ -1,4 +1,3 @@
-+..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -2116,6 +2115,7 @@
 +.autodeskworkshop.com
 +.autodeskworkshop.net
 +.autodraw.com
++.autoesporte.com
 +.automaton-media.com
 +.automotive-cadcam.com
 +.autosketch.com
@@ -3403,7 +3403,6 @@
 +.bmwmotorcycles.com
 +.bmwmotorcycleusa.com
 +.bmwmotorradhk.com
-+.bmwmotorshowblog+.aaa
 +.bmwmotorshowblog.com
 +.bmwmotorsport.com
 +.bmwmperformance.com
@@ -4157,6 +4156,7 @@
 +.cdnpure.com
 +.cdnst.net
 +.cdnuc.vip
++.cdnvideohub.com
 +.cdnxxx-proxy.co
 +.cdnxxx-proxy.xyz
 +.cdp1989.org
@@ -4612,7 +4612,6 @@
 +.cloudflare-ipfs.com
 +.cloudflare-quic.com
 +.cloudflare-terms-of-service-abuse.com
-+.cloudflare-termwitlonger.com
 +.cloudflare.com
 +.cloudflare.net
 +.cloudflare.tv
@@ -8551,6 +8550,8 @@
 +.globalvoicesonline.org
 +.globalvpn.net
 +.globo
++.globo.com
++.globoplay.com
 +.glock.com
 +.gloporn.com
 +.gloryhole.com
@@ -8887,6 +8888,7 @@
 +.gscanada.info
 +.gsccdn.com
 +.gsearch.media
++.gshow.com
 +.gstatic-cn.com
 +.gstatic.com
 +.gsuite.com
@@ -13240,7 +13242,6 @@
 +.motorshowblog.com
 +.mottainai.info
 +.mousebreaker.com
-+.mousnudes.com
 +.mov
 +.move-free.net
 +.move.com
@@ -15193,6 +15194,7 @@
 +.peekvids.com
 +.peepholecam.com
 +.peerj.com
++.pegn.com
 +.peing.net
 +.pejyyah.com
 +.pekingduck.org
@@ -16290,6 +16292,7 @@
 +.qusi8.net
 +.qutebrowser.org
 +.qvodzy.org
++.qwant+.aaa
 +.qwant.com
 +.qwapi.com
 +.qx.net
@@ -16613,6 +16616,8 @@
 +.reutersagency.cn
 +.reutersmedia.net
 +.revenue-performance-management.com
++.revistaepoca.com
++.revistapegn.com
 +.revit.com
 +.revitcc.com
 +.revitsucks.net
@@ -18616,6 +18621,7 @@
 +.techspot.com
 +.techstreet.com
 +.techtimes.com
++.techtudo.com
 +.techviz.net
 +.teco-hk.org
 +.teco-mo.org
@@ -18753,7 +18759,6 @@
 +.theaffairs.com
 +.theatlantic.com
 +.theatrum-belli.com
-+.theaustralian.com000webhost.com
 +.theav.cc
 +.theav.xyz
 +.thebanker.com
@@ -19345,7 +19350,6 @@
 +.tryquinn.com
 +.tryrating.com
 +.tryst.link
-+.ts.com
 +.ts.net
 +.tsctv.net
 +.tsemtulku.com
@@ -19720,6 +19724,7 @@
 +.ulyssesapp.com
 +.umagazine.com.hk
 +.umbrella.com
++.umsoplaneta.com
 +.un.org
 +.unblock-us.com
 +.unblock.cn.com
@@ -19909,6 +19914,7 @@
 +.vagrantcloud.com
 +.vagrantup.com
 +.valeursactuelles.com
++.valorinveste.com
 +.valoryirene.com
 +.value-domain.com
 +.value-server.com
@@ -20317,7 +20323,6 @@
 +.volvobuses.co
 +.volvobuses.com
 +.volvobuses.hk
-+.volvobuss-of-service-abuse.com
 +.volvoce.com
 +.volvodefense.com
 +.volvogroup.com
