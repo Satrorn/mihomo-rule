@@ -1671,6 +1671,7 @@
 +.appspot-preview.com
 +.appspot.com
 +.appstore.hk
++.appstore.my000webhost.com
 +.appule.com
 +.appye.com
 +.appyq.com
@@ -1810,7 +1811,6 @@
 +.asproexapi.com
 +.asredas.com
 +.ass4all.com
-+.assem.com
 +.assembla.com
 +.assemblesystems.com
 +.assesphoto.com
@@ -2501,7 +2501,6 @@
 +.beatsblackfridaydeals.net
 +.beatsblackfridayretails.com
 +.beatsboxingdayuksale.com
-+.beatsby+.aaa
 +.beatsbydrdre-headphones.com
 +.beatsbydrdre-officials5.com
 +.beatsbydrdre-online.com
@@ -3575,6 +3574,7 @@
 +.briian.com
 +.brill.com
 +.brilliant.org
++.brilliirtyfarmer.com
 +.britsexcash.com
 +.brizzly.com
 +.brkmd.com
@@ -3966,6 +3966,7 @@
 +.casquemonsterbeats.com
 +.casquemonsterbeatsbydre2013.com
 +.casquesbeatsaudio.com
++.castingc.com
 +.castingcouch-x.com
 +.cat
 +.cataboom.com
@@ -4479,7 +4480,7 @@
 +.clien.net
 +.climate-server.com
 +.clinical-videos.com
-+.clinical-videos000webhost.com
++.clinical-videosm
 +.clinicalkey.com
 +.clinique
 +.clip16.com
@@ -4814,6 +4815,7 @@
 +.crackle.com
 +.craigslist.org
 +.crankplayer.com
++.crashlytics.com
 +.crazy-amateurs.com
 +.crazyav.xyz
 +.crazybook.xyz
@@ -5289,8 +5291,8 @@
 +.deutschewelle.h-cdn.com
 +.deutschsex.com
 +.dev
++.dev-guardianapis.+.aaa
 +.dev-guardianapis.com
-+.dev-theguardblesystems.com
 +.dev-theguardian.com
 +.devcon.org
 +.developer-advisor.com
@@ -5744,7 +5746,6 @@
 +.drebeatsstudio2013.com
 +.drebeatstudio.com
 +.drebyby.com
-+.dredr.com
 +.dremonsterbeatsoutlets.com
 +.dreprobeats.com
 +.dreprofy.com
@@ -6113,6 +6114,7 @@
 +.ebookbrowse.com
 +.ebookee.com
 +.ebookforipad.com
++.ebsco.coant.org
 +.ebsco.com
 +.ebscohost.com
 +.ebtcbank.com
@@ -6868,6 +6870,7 @@
 +.falunpilipinas.net
 +.falunworld.net
 +.fameregistry.com
++.famil.com
 +.family-sex.me
 +.familyds.com
 +.familyds.net
@@ -7193,7 +7196,6 @@
 +.fiotolia.com
 +.fire-emblem-heroes.com
 +.firearmsworld.net
-+.firebase-settings.crashlytics.com
 +.firebase.com
 +.firebaseapp.com
 +.firebaseio.com
@@ -9812,7 +9814,6 @@
 +.iamakamai.net
 +.iamremarkable.org
 +.iamtopone.com
-+.ian.com
 +.iana.org
 +.iav19.com
 +.iavian.net
@@ -10066,6 +10067,7 @@
 +.imagineecommerce.com
 +.imago-images.com
 +.imamat
++.imao-app.com
 +.imaypb.com
 +.imb.org
 +.imdb
@@ -11307,6 +11309,7 @@
 +.ktvu.com
 +.ktzhk.com
 +.ku77.xyz
++.kuab.com
 +.kuaichedao.co
 +.kuaimao-app.com
 +.kuaipa.net
@@ -14430,6 +14433,7 @@
 +.otokonokoland.com
 +.otsuka
 +.otzo.com
++.ouch-x.com
 +.oudoll.com
 +.oup.com
 +.ouplaw.com
@@ -19261,7 +19265,6 @@
 +.up.audio
 +.up01.cc
 +.upbit.com
-+.update.crashlytics.com
 +.updatestar.com
 +.updatetube.com
 +.upfrontcfd.com
