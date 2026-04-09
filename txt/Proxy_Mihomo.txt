@@ -562,6 +562,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1671,7 +1672,6 @@
 +.appspot-preview.com
 +.appspot.com
 +.appstore.hk
-+.appstore.my000webhost.com
 +.appule.com
 +.appye.com
 +.appyq.com
@@ -2619,6 +2619,7 @@
 +.beatsbydrevipde.com
 +.beatsbydrew.com
 +.beatsbydrsmonsterinusa.com
++.beatsbyittermail.com
 +.beatsbymusic.net
 +.beatsbysdrbre.com
 +.beatsbysdrdres.com
@@ -3574,7 +3575,6 @@
 +.briian.com
 +.brill.com
 +.brilliant.org
-+.brilliirtyfarmer.com
 +.britsexcash.com
 +.brizzly.com
 +.brkmd.com
@@ -3966,7 +3966,6 @@
 +.casquemonsterbeats.com
 +.casquemonsterbeatsbydre2013.com
 +.casquesbeatsaudio.com
-+.castingc.com
 +.castingcouch-x.com
 +.cat
 +.cataboom.com
@@ -4480,7 +4479,6 @@
 +.clien.net
 +.climate-server.com
 +.clinical-videos.com
-+.clinical-videosm
 +.clinicalkey.com
 +.clinique
 +.clip16.com
@@ -5291,7 +5289,6 @@
 +.deutschewelle.h-cdn.com
 +.deutschsex.com
 +.dev
-+.dev-guardianapis.+.aaa
 +.dev-guardianapis.com
 +.dev-theguardian.com
 +.devcon.org
@@ -5746,6 +5743,7 @@
 +.drebeatsstudio2013.com
 +.drebeatstudio.com
 +.drebyby.com
++.dredr.com
 +.dremonsterbeatsoutlets.com
 +.dreprobeats.com
 +.dreprofy.com
@@ -6114,7 +6112,6 @@
 +.ebookbrowse.com
 +.ebookee.com
 +.ebookforipad.com
-+.ebsco.coant.org
 +.ebsco.com
 +.ebscohost.com
 +.ebtcbank.com
@@ -6870,7 +6867,6 @@
 +.falunpilipinas.net
 +.falunworld.net
 +.fameregistry.com
-+.famil.com
 +.family-sex.me
 +.familyds.com
 +.familyds.net
@@ -10067,7 +10063,6 @@
 +.imagineecommerce.com
 +.imago-images.com
 +.imamat
-+.imao-app.com
 +.imaypb.com
 +.imb.org
 +.imdb
@@ -11309,7 +11304,6 @@
 +.ktvu.com
 +.ktzhk.com
 +.ku77.xyz
-+.kuab.com
 +.kuaichedao.co
 +.kuaimao-app.com
 +.kuaipa.net
@@ -14433,7 +14427,6 @@
 +.otokonokoland.com
 +.otsuka
 +.otzo.com
-+.ouch-x.com
 +.oudoll.com
 +.oup.com
 +.ouplaw.com
@@ -14960,6 +14953,7 @@
 +.pinkvelvetvault.com
 +.pinkworld.com
 +.pinoy-n.com
++.pint000webhost.com
 +.pinterest.co
 +.pinterest.com
 +.pinterest.engineering
@@ -19099,6 +19093,7 @@
 +.twline5.com
 +.twnextdigital.com
 +.twoo.com
++.twpleone.club
 +.twporn.net
 +.twreporter.org
 +.twskype.com
