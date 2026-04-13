@@ -1057,6 +1057,7 @@
 +.alexa.com
 +.alexanderstreet.com
 +.alexlur.org
++.alfabank.oavdo.amc
 +.alfera.com.hk
 +.alforattv.net
 +.alfredapp.com
@@ -3919,7 +3920,6 @@
 +.caribbeancom.com
 +.caribbeancompr.com
 +.carmotorshow.com
-+.caronino.com
 +.carousell.com.hk
 +.carrd.co
 +.carryzhou.com
@@ -4971,7 +4971,6 @@
 +.custombeatsny.com
 +.custombeatssbydreus.com
 +.customdrdrebeats.com
-+.customercontrolpicacomiccn.com
 +.customizedbeatbydre.com
 +.customizedbeatsbydre.com
 +.customizedbeatsdre.com
@@ -7338,7 +7337,6 @@
 +.footstockings.com
 +.footwear-cadcam.com
 +.footwiball.com
-+.foralice.online
 +.forbes.com
 +.forbesimg.com
 +.forbiddenasian.com
@@ -8171,7 +8169,6 @@
 +.geraldoatlarge.com
 +.gerefoundation.org
 +.gerritcodereview.com
-+.gerronfox.com
 +.gesoten.com
 +.get.shop
 +.getadblock.com
@@ -8673,7 +8670,6 @@
 +.greenvpn.net
 +.greenvpn.org
 +.greginhollywood.com
-+.greomsonreuters.com
 +.grindr.com
 +.grok.com
 +.grokipedia.com
@@ -9829,7 +9825,6 @@
 +.iamremarkable.org
 +.iamtopone.com
 +.iana.org
-+.ianjiajr.net
 +.iav19.com
 +.iavian.net
 +.iavnight.com
@@ -10857,9 +10852,6 @@
 +.jieav.com
 +.jiehua.tv
 +.jiepang.com
-+.jieshang.online
-+.jieshang.shop
-+.jieshang.store
 +.jieshibaobao.com
 +.jifangge.com
 +.jigglegifs.com
@@ -12301,7 +12293,6 @@
 +.megacamz.com
 +.megafilmporno.com
 +.megamarket.tech
-+.megapolis.llc
 +.megapornfreehd.com
 +.megapornpics.com
 +.megaproxy.com
@@ -13191,7 +13182,6 @@
 +.mycould.com
 +.mydad.info
 +.mydati.com
-+.mydirectgroove.
 +.mydirectgroove.com
 +.mydirectvchannels.com
 +.mydirtyhobby.com
@@ -13498,7 +13488,6 @@
 +.nentindo.net
 +.neo-miracle.com
 +.neoforged.net
-+.neon.click
 +.neotokyo.supertop-100.com
 +.neowin.net
 +.nephobox.com
@@ -14090,9 +14079,6 @@
 +.nuuporn.com
 +.nuuvem.com
 +.nuvid.com
-+.nuwjon.online
-+.nuwjon.shop
-+.nuwjon.store
 +.nvdst.com
 +.nvidia.asia
 +.nvidia.com
@@ -14816,7 +14802,6 @@
 +.pccwsolutions.com
 +.pcgamestorrents.com
 +.pcij.org
-+.pcliphayho.com
 +.pcloud.com
 +.pcmarket.com.hk
 +.pcre.org
@@ -17521,6 +17506,8 @@
 +.spankred3d.com
 +.spankwire.com
 +.sparkpool.com
++.spasibo.digital
++.spasibo.market
 +.spb.com
 +.spcc-sp.com
 +.speakerdeck.com
@@ -18591,7 +18578,6 @@
 +.tiffany-towers.com
 +.tig-ol-bitties.live
 +.tigervpn.com
-+.tigrenok.toys
 +.tik-tokapi.com
 +.tiktok-minis.com
 +.tiktok-row.net
@@ -19494,7 +19480,6 @@
 +.vdoav.com
 +.vds.rightster.com
 +.ve
-+.veet.cenplum.net
 +.veet.com
 +.veet.com.co
 +.veet.com.hk
