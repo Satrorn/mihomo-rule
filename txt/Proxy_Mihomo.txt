@@ -156,6 +156,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -11244,7 +11245,6 @@
 +.kichikuou.com
 +.kickporn.com
 +.kickshatchannel.com
-+.kicksnike1.1password.drift.click
 +.kicksnike1.com
 +.kicu.tv
 +.kidgrid.tv
