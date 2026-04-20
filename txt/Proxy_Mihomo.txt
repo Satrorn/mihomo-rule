@@ -564,7 +564,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3031,6 +3030,7 @@
 +.bioware.com
 +.biowarestore.com
 +.bipic.net
++.bipool.com
 +.biqle.org
 +.bisq.network
 +.bistudio.com
@@ -9786,6 +9786,7 @@
 +.hung-ya.com
 +.hungerstrikeforaids.org
 +.hungryclit.com
++.huo+.aaa
 +.huobi.co
 +.huobi.com
 +.huobi.me
