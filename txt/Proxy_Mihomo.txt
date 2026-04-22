@@ -768,6 +768,7 @@
 +.adporn.cc
 +.adpornu.xyz
 +.ads-twitter.com
++.adsales.com
 +.adsense.com
 +.adskcloud.com
 +.adskcloud.net
@@ -3722,6 +3723,7 @@
 +.buycheapbeatsbus.com
 +.buycheapbeatsbydre.com
 +.buycheapbeatsbydreshop.com
++.buycheapbeatsbydresn.org
 +.buycheapbeatsdreuk.com
 +.buydrdrebeatbox.com
 +.buyfast-paysmart.net
@@ -4717,6 +4719,7 @@
 +.comodoca4.com
 +.compaq.org
 +.comparitech.com
++.compariteyboyplus.com
 +.compass-system.com
 +.compass-systems.com
 +.compileheart.com
@@ -5437,6 +5440,7 @@
 +.directvsavings.com
 +.directvsports.com
 +.directvsundayticket.com
++.directvt.com
 +.direectv.com
 +.diretv.com
 +.dirty.games
@@ -9731,6 +9735,7 @@
 +.huayuworld.org
 +.hub.slarker.me
 +.hubblephone.com
++.hudsodthescreenz.com
 +.hudson.org
 +.huffingtonpost.com
 +.huffpost.com
@@ -10166,6 +10171,7 @@
 +.improd.works
 +.imstagram.com
 +.imtagram.com
++.imtintl.com
 +.imtoken.fans
 +.imzog.com
 +.in
@@ -15104,6 +15110,7 @@
 +.pl
 +.placemix.com
 +.placesdocs.com
++.plahop.com
 +.planetminecraft.com
 +.planetsuzy.org
 +.plansondemand.com
@@ -18533,7 +18540,7 @@
 +.theuab.net
 +.theverge.com
 +.thevirtualsexreview.com
-+.thevivekspot.com
++.thevivekspoch.com
 +.thewgo.org
 +.thewirechina.com
 +.thewonderful101.com
