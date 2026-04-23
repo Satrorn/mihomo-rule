@@ -768,7 +768,6 @@
 +.adporn.cc
 +.adpornu.xyz
 +.ads-twitter.com
-+.adsales.com
 +.adsense.com
 +.adskcloud.com
 +.adskcloud.net
@@ -1796,6 +1795,7 @@
 +.asianwifeporn.com
 +.asianxxxvideos.cc
 +.asiaone.com
++.asiasociety.org
 +.asiatgp.com
 +.asjmapihost.cc
 +.ask.com
@@ -2763,6 +2763,7 @@
 +.bell.wiki
 +.bellebound.com
 +.bellesa.co
++.bellingcat.com
 +.bellotube.com
 +.bellsouth.net
 +.bemywife.cc
@@ -3723,7 +3724,6 @@
 +.buycheapbeatsbus.com
 +.buycheapbeatsbydre.com
 +.buycheapbeatsbydreshop.com
-+.buycheapbeatsbydresn.org
 +.buycheapbeatsdreuk.com
 +.buydrdrebeatbox.com
 +.buyfast-paysmart.net
@@ -4719,7 +4719,6 @@
 +.comodoca4.com
 +.compaq.org
 +.comparitech.com
-+.compariteyboyplus.com
 +.compass-system.com
 +.compass-systems.com
 +.compileheart.com
@@ -4868,6 +4867,7 @@
 +.crececonebay.com
 +.creditcardsbay.com
 +.creditkarma.com
++.crewai.com
 +.cricketcountry.com
 +.crisp.chat
 +.cristyli.com
@@ -5440,7 +5440,6 @@
 +.directvsavings.com
 +.directvsports.com
 +.directvsundayticket.com
-+.directvt.com
 +.direectv.com
 +.diretv.com
 +.dirty.games
@@ -9735,7 +9734,6 @@
 +.huayuworld.org
 +.hub.slarker.me
 +.hubblephone.com
-+.hudsodthescreenz.com
 +.hudson.org
 +.huffingtonpost.com
 +.huffpost.com
@@ -11446,6 +11444,7 @@
 +.lancaster
 +.landofhope.tv
 +.landrover
++.langchain.com
 +.langsuirs.com
 +.lanmdh.net
 +.lanniser-ylo.shop
@@ -14303,6 +14302,7 @@
 +.olevod.tv
 +.olevodtv.com
 +.oli-school.com
++.ollama.com
 +.ollo
 +.olumpo.com
 +.olympicwatch.org
@@ -15110,7 +15110,6 @@
 +.pl
 +.placemix.com
 +.placesdocs.com
-+.plahop.com
 +.planetminecraft.com
 +.planetsuzy.org
 +.plansondemand.com
@@ -16055,6 +16054,7 @@
 +.ravm.tv
 +.rawgit.com
 +.rawgithub.com
++.rawstory.com
 +.rayark.download
 +.rayark.net
 +.razer.com
@@ -16180,6 +16180,7 @@
 +.recoiljs.org
 +.reconinstruments.com
 +.reconjet.com
++.recordedfuture.com
 +.recordhistory.org
 +.recoveryversion.org
 +.red-lang.org
@@ -18540,7 +18541,7 @@
 +.theuab.net
 +.theverge.com
 +.thevirtualsexreview.com
-+.thevivekspoch.com
++.thevivekspot.com
 +.thewgo.org
 +.thewirechina.com
 +.thewonderful101.com
