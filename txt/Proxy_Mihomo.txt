@@ -5379,6 +5379,7 @@
 +.digitaldesire.com
 +.digitalhub.com
 +.digitalnomadsproject.org
++.digitalocean-ui.com
 +.digitalocean.com
 +.digitaloceanspaces.com
 +.digitalpack.com
