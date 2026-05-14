@@ -4353,6 +4353,7 @@
 +.chocolatey.org
 +.choicereviews.org
 +.chomp.com
++.chonglangtv.org
 +.chosun.com
 +.chrdnet.com
 +.christianfreedom.org
@@ -7319,6 +7320,7 @@
 +.flipkart.com
 +.flipnotestudio.com
 +.flipshare.com
++.flipwit-tibet.com
 +.flipwithsurface.com
 +.flir
 +.flirt4free.com
@@ -8519,6 +8521,7 @@
 +.goldwave.com
 +.goliathguitartutorials.com
 +.golosameriki.com
++.gongkouefreevpn.com
 +.gonglchuangl.net
 +.gongmeng.info
 +.gongminliliang.com
@@ -17097,6 +17100,7 @@
 +.shahit.biz
 +.shahvani.com
 +.shahvani.site
++.shaigisfera.com
 +.shakethesnake.com
 +.shambalapost.com
 +.shambhalasun.com
@@ -17117,7 +17121,6 @@
 +.sharp
 +.sharpdaily.com.hk
 +.sharpdaily.hk
-+.shat-tibet.com
 +.shaw
 +.shazam.com
 +.shdd.ink
@@ -19515,7 +19518,6 @@
 +.usatodaynetworkservice.com
 +.uscardforum.com
 +.uscnpm.org
-+.usefreevpn.com
 +.uselessjunk.com
 +.usenix.org
 +.useplannr.com
@@ -19525,6 +19527,7 @@
 +.usertrust.com
 +.usocctn.com
 +.usocial.pro
++.usthsurface.com
 +.ustibetcommittee.org
 +.ustream.tv
 +.usunitednews.com
