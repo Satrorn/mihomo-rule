@@ -11275,6 +11275,7 @@
 +.keytransparency.org
 +.kfh
 +.kg
++.kgisystems.com
 +.kgslb.com
 +.kh
 +.khabdha.org
@@ -11376,6 +11377,16 @@
 +.konachan.com
 +.konachan.net
 +.konachan.wjcodes.com
++.konami
++.konami-igaming.online
++.konami.com
++.konami.net
++.konami.org
++.konamicrossmedia.com
++.konamigaming.com
++.konamigaming.net
++.konamigaming.online
++.konamionline.com
 +.kone.com
 +.koolsolutions.com
 +.koornk.com
@@ -16311,6 +16322,7 @@
 +.researchkit.net
 +.researchkit.org
 +.researchkit.tv
++.resellablue.com
 +.resilio.com
 +.resistchina.org
 +.resoubanana.buzz
@@ -21601,6 +21613,7 @@
 +.yuanzhengtang.org
 +.yuenuge113.xyz
 +.yuenuge18.cc
++.yugioh-card.com
 +.yulghun.com
 +.yunchao.net
 +.yunlaopo.cc
