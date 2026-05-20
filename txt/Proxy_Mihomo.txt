@@ -1,3 +1,4 @@
++..net
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -564,7 +565,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1061,6 +1061,7 @@
 +.alexa.com
 +.alexanderstreet.com
 +.alexlur.org
++.alfa.me
 +.alfabank.oavdo.amc
 +.alfera.com.hk
 +.alforattv.net
@@ -2334,6 +2335,7 @@
 +.bang-movies.com
 +.bangbros.com
 +.bangbrosnetwork.com
++.bangchen+.aaa
 +.bangchen.net
 +.bangdream.space
 +.bangher.net
@@ -18311,6 +18313,8 @@
 +.teamamericany.com
 +.teamneedforspeed.com
 +.teamskeet.com
++.teamspeak-services.com
++.teamspeak.com
 +.teamviewer.com
 +.tearapeak.com
 +.teatroporno.com
