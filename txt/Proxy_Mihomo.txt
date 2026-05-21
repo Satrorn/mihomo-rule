@@ -1,4 +1,3 @@
-+..net
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -565,6 +564,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2335,7 +2335,6 @@
 +.bang-movies.com
 +.bangbros.com
 +.bangbrosnetwork.com
-+.bangchen+.aaa
 +.bangchen.net
 +.bangdream.space
 +.bangher.net
@@ -13090,6 +13089,7 @@
 +.mozilla.community
 +.mozilla.net
 +.mozilla.org
++.mozillafoundation.org
 +.moztw.org
 +.mp
 +.mp.world
@@ -17608,6 +17608,7 @@
 +.soso7778.com
 +.sosreader.com
 +.sostibet.org
++.sotwe.com
 +.sou-tong.org
 +.soubory.com
 +.souka.xyz
