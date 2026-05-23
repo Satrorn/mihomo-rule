@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -198,6 +199,7 @@
 +.233v2.com
 +.2371tom.com
 +.24h.tv
++.24hbook.com
 +.24hjav.com
 +.24porn.com
 +.24porn.pro
@@ -1600,6 +1602,7 @@
 +.appleipodsettlement.com
 +.appleiservices.com
 +.applelink.com
++.applem000webhost.com
 +.applemagickeyboard.com
 +.applemasters.info
 +.applemusic.co
@@ -7083,6 +7086,7 @@
 +.fbrpms.com
 +.fbsbx.com
 +.fbsbx.net
++.fbsbxusic.co
 +.fbsupport-covid.net
 +.fbthirdpartypixel.com
 +.fbthirdpartypixel.net
@@ -13614,6 +13618,7 @@
 +.nenitas.club
 +.nentindo.net
 +.neo-miracle.com
++.neodb.social
 +.neoforged.net
 +.neotokyo.supertop-100.com
 +.neowin.net
@@ -15042,6 +15047,7 @@
 +.phmsociety.org
 +.phncdn.com
 +.phonegap.com
++.phosphation13.rssing.cbmw-welt.net
 +.photo-image.monster
 +.photodharma.net
 +.photofocus.com
@@ -18178,6 +18184,7 @@
 +.t-finance.group
 +.t-g.com
 +.t-msedge.net
++.t-nz.com
 +.t-splines.com
 +.t-tech.team
 +.t.co
