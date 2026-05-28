@@ -2985,7 +2985,6 @@
 +.bimlibrary.com
 +.bimseeker.com
 +.bimsource.com
-+.bimsourcprecision.com
 +.bimworld.com
 +.binads.com
 +.binance.cc
@@ -3490,7 +3489,6 @@
 +.boxunblog.com
 +.boxunclub.com
 +.boy18tube.com
-+.boy1vplans.com
 +.boyangu.com
 +.boycall.com
 +.boyfriendtv.com
@@ -5252,7 +5250,6 @@
 +.dell.com.hk
 +.dell.net
 +.dell.tv
-+.dell000webhost.com
 +.dellcdn.com
 +.dellcommunity.com
 +.dellcomunidade.com
@@ -5385,7 +5382,6 @@
 +.difangwenge.org
 +.digicert-cn.com
 +.digicert-validation.com
-+.digicert.coaychina.net
 +.digicert.com
 +.digisfera.com
 +.digital-anime.com
@@ -5412,7 +5408,6 @@
 +.direcpath.com
 +.direcpath.net
 +.directcreative.com
-+.directe.com
 +.directtv-deals.tv
 +.directtv-dish.com
 +.directtv.net
@@ -6015,7 +6010,6 @@
 +.easypic.com
 +.easysexporn.com
 +.eater.com
-+.eb8tube.com
 +.ebahy.com
 +.ebalovo.com
 +.ebay-authenticate.net
@@ -8458,6 +8452,7 @@
 +.gnci.org.hk
 +.gnews.org
 +.gnom-cham.com
++.gnome.org
 +.gnu.org
 +.gnzi.xyz
 +.gnzi1.top
@@ -9034,6 +9029,7 @@
 +.helloandroid.com
 +.helloavgirls.com
 +.hellokittybeats.com
++.hellomoto.com
 +.helloqueer.com
 +.hellosmartbook.com
 +.helloss.pw
@@ -11244,6 +11240,7 @@
 +.kc3000.shop
 +.kcoolonline.com
 +.kddi
++.kde.org
 +.kdfuli.com
 +.kdy202312.shop
 +.ke
@@ -12002,6 +11999,7 @@
 +.lvv2.com
 +.lwwcn.buzz
 +.lwwcn.xyz
++.lxqt-project.org
 +.lxxlxx.com
 +.ly
 +.lyfhk.net
@@ -12283,6 +12281,7 @@
 +.mat6tube.com
 +.matainja.com
 +.matchmover.com
++.mate-desktop.org
 +.mathiew-badimon.com
 +.mathjax.org
 +.mathoverflow.net
@@ -13062,7 +13061,15 @@
 +.motiongraphicsandmore.com
 +.motionpictureser.com
 +.motiyun.com
++.moto.com
 +.motolia.com
++.motorola.co
++.motorola.com
++.motorola.com.co
++.motorola.net
++.motorolacareers.com
++.motorolanews.com
++.motorolasolutions.com
 +.motorshowblog.com
 +.mottainai.info
 +.mousebreaker.com
@@ -13077,7 +13084,6 @@
 +.movenetworks.com
 +.moves-export.com
 +.movetv.com
-+.movidiu.org
 +.movidius.com
 +.movidius.net
 +.movidius.org
@@ -14323,7 +14329,6 @@
 +.ogaoga.org
 +.ogate.org
 +.ogp.me
-+.ogu.com
 +.ohchr.org
 +.ohentai.org
 +.ohgratisporrfilm.com
@@ -15184,6 +15189,7 @@
 +.planetsuzy.org
 +.plansondemand.com
 +.plantsvszombies2.com
++.plasma-mobile.org
 +.plasticlabs.com
 +.plastics-cadcam.com
 +.platinumlinks.org
@@ -15895,7 +15901,6 @@
 +.purplelotus.org
 +.purpose.nike.com
 +.pursuestar.com
-+.pus-medical.com
 +.pushbullet.com
 +.pushchinawall.com
 +.pussy-pics.net
@@ -17584,7 +17589,6 @@
 +.sony-europe.com
 +.sony-latin.com
 +.sony-mea.com
-+.sony-olyma.me
 +.sony-olympus-medical.com
 +.sony-semicon.com
 +.sony.biz
@@ -18179,6 +18183,7 @@
 +.syosetu.com
 +.sysinternals.com
 +.sysresccd.org
++.system76.com
 +.sytes.net
 +.syx86.com
 +.syzbj36.xyz
@@ -20699,7 +20704,6 @@
 +.ws-blau.com
 +.ws-tcg.com
 +.ws.audioscrobbler.com
-+.ws.org
 +.wsj.com
 +.wsj.jobs
 +.wsj.net
@@ -20860,6 +20864,7 @@
 +.xerotica.com
 +.xerox
 +.xfantazy.com
++.xfce.org
 +.xfemaledom.com
 +.xfinity.com
 +.xfockers.com
