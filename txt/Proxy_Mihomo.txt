@@ -2074,7 +2074,6 @@
 +.autoesporte.com
 +.automaton-media.com
 +.automotive-cadcam.com
-+.autosketch.+.aaa
 +.autosketch.com
 +.autumn-jade.com
 +.auxdubai.com
@@ -4947,6 +4946,7 @@
 +.cs4hs.com
 +.csdparty.com
 +.cshive.com
++.cshive.cpedia.org
 +.csifund.org
 +.csis.org
 +.csmonitor.com
@@ -6066,6 +6066,7 @@
 +.ebay-stories.com
 +.ebay-us.com
 +.ebay-vacation.com
++.ebay.atralia.com
 +.ebay.com
 +.ebay.com.hk
 +.ebay.org
@@ -6313,6 +6314,7 @@
 +.eltondisney.com
 +.emaga.com
 +.emanna.com
++.emax.com
 +.embark-studios.com
 +.embark.games
 +.embase.com
@@ -7881,6 +7883,7 @@
 +.fujitsu
 +.fukzr1.cc
 +.fulanax.com
++.fulanom
 +.fuli-wangzhan.com
 +.fuli3.net
 +.fulib711.shop
@@ -8027,17 +8030,30 @@
 +.futanarihq.com
 +.futhead.com
 +.futpromos.com
++.futu.cn
++.futu.link
++.futu5.com
++.futuau.com
++.futuesop.com
 +.futufin.com
 +.futuhk.com
++.futuhk1.com
++.futuhk2.com
 +.futuhkapp.com
 +.futuhn.com
 +.futuholdings.com
 +.futunited.com
++.futuniuniu.com
++.futunn.com
++.futuoa.com
 +.futurechinaforum.org
 +.futuremessage.org
 +.futureofbritishmanufacturing.com
 +.futureofbusinesssurvey.org
 +.futureofmaktingthings.com
++.futusg.com
++.futustatic.com
++.fututrade.com
 +.fux.com
 +.fuxporn.com
 +.fuyin.net
@@ -8805,6 +8821,7 @@
 +.group-ib.com
 +.groupfun.com
 +.groups.com
++.grs-ph.org
 +.grss-ieee.org
 +.grupobmw.com
 +.gs
@@ -9742,6 +9759,7 @@
 +.hpstorethailand.com
 +.hpsupport.com
 +.hpsuresupply.com
++.hpsuresupply.e.com
 +.hptechventures.com
 +.hpto.net
 +.hptouch.com
@@ -10323,6 +10341,7 @@
 +.indienudes.com
 +.indonesiaporn.name
 +.industrialtoys.com
++.inetexplorer.com
 +.inf.news
 +.infinitetoons.com
 +.infinitetube.com
@@ -10506,6 +10525,7 @@
 +.internetpopculture.com
 +.interracial-sites.com
 +.interseclab.org
++.interydre.com
 +.intescort.com
 +.intgram.com
 +.inthenameofconfuciusmovie.com
@@ -11447,6 +11467,7 @@
 +.kn
 +.knightspeak.com
 +.knovel.com
++.knovel.comphone4s.com
 +.knowledgerush.com
 +.knowyourmeme.com
 +.knoxemm.com
@@ -11591,6 +11612,7 @@
 +.lanxess
 +.laogai.org
 +.laogairesearch.org
++.laohu8.com
 +.laomiu.com
 +.laosijifuli9009.top
 +.laowang.vip
@@ -11970,10 +11992,12 @@
 +.londonreal.tv
 +.lonestarnaughtygirls.com
 +.longbridge.cloud
++.longbridge.cn
 +.longbridge.com
 +.longbridge.global
 +.longbridge.hk
 +.longbridgeapp.com
++.longbridgehk.com
 +.longhair.hk
 +.longmabook.com
 +.longmabookcn.com
@@ -13997,6 +14021,7 @@
 +.nikecloud.com
 +.nikeclub.com
 +.nikecompany.com
++.nikecompy.com
 +.nikeconfluence.com
 +.nikecraft.com
 +.nikedawn.com
@@ -14076,6 +14101,7 @@
 +.nikesportswear.com
 +.nikestares.com
 +.nikestore.com
++.nikestoreany.com
 +.nikestyles.com
 +.nikeswim.com
 +.niketaiwan.net
@@ -15045,6 +15071,7 @@
 +.paypaly.com
 +.paypass.net
 +.payppal.com
++.payppal.comcom
 +.payroll.com
 +.payserve.com
 +.paysitesreviews.net
@@ -16607,6 +16634,7 @@
 +.roughman.net
 +.routerboard.com
 +.routledgehandbooks.com
++.row
 +.rowblocks.com
 +.rowblox.com
 +.roxired.com
@@ -16997,6 +17025,7 @@
 +.seatguru.com
 +.seattlefdc.com
 +.seattlespheres.com
++.seblox.com
 +.secomtrust.net
 +.second-ns.com
 +.secret-flirt-hub.com
@@ -17526,6 +17555,7 @@
 +.sinoquebec.com
 +.sinyalee.com
 +.sipml5.org
++.siport.cnzuritv.net
 +.siport.com
 +.sipriyearbook.org
 +.sirenxxxstudios.com
@@ -17590,6 +17620,7 @@
 +.skysports.com
 +.skysportsonline.com
 +.skysportsracing.com
++.skytigris.cn
 +.skyvegas.com
 +.skyxvpn.com
 +.sl
@@ -18938,6 +18969,8 @@
 +.tiendabestbuy.com
 +.tiffany-towers.com
 +.tig-ol-bitties.live
++.tigerbbs.cn
++.tigerbbs.com
 +.tigervpn.com
 +.tik-tokapi.com
 +.tiktok-minis.com
@@ -20092,6 +20125,7 @@
 +.visadigital.com
 +.visadigitalconcierge.com
 +.visadns.com
++.visaeur+.aaa
 +.visaeverywhereshop.com
 +.visafintechfasttrack.com
 +.visafulfillment.com
@@ -21104,6 +21138,7 @@
 +.xiaofu.me
 +.xiaogirls.com
 +.xiaohexie.com
++.xiaohu8.com
 +.xiaolan.me
 +.xiaoma.org
 +.xiaomiflash.com
