@@ -566,6 +566,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1685,7 +1686,6 @@
 +.appmediagroup.com
 +.approvedusedbmw.com
 +.apps5.oingo.com
-+.appsflayer.com
 +.appshopper.com
 +.appsocks.net
 +.appsonebay.net
@@ -2385,6 +2385,7 @@
 +.barrons.com
 +.barss1207.pro
 +.bartvpn.com
++.base.org
 +.baselinestudy.com
 +.baselinestudy.org
 +.basilisk-browser.org
@@ -3077,6 +3078,7 @@
 +.bitflyer.com
 +.bitget.com
 +.bithumb.com
++.bitlayer.org
 +.bitly.com
 +.bitmex.com
 +.bitnami.com
@@ -3388,12 +3390,15 @@
 +.bmwusfactory.com
 +.bmwusrideracademy.com
 +.bmwvalueservice.com
++.bmwweb.solutions
 +.bmwwholesaleconnect.com
 +.bmwworld.com
 +.bmwworld.net
 +.bmwworld.tv
 +.bmwzentrum.com
 +.bn
++.bnappweb.black
++.bnbchain.org
 +.bnbstatic.com
 +.bnef.com
 +.bnews.co
@@ -3640,7 +3645,9 @@
 +.brutaltgp.com
 +.bs
 +.bs-adreview.com
++.bsappapi.cc
 +.bsappapi.com
++.bscdnweb.com
 +.bsky.network
 +.bsky.social
 +.bstatic.com
@@ -4173,6 +4180,7 @@
 +.cgdepot.org
 +.ch
 +.ch.shvoong.com
++.chainid.network
 +.championshipseriesleague.com
 +.chanel
 +.change.org
@@ -4813,6 +4821,7 @@
 +.coqnu.com
 +.corbinfisher.com
 +.cordcloud.org
++.coredao.org
 +.coreduo.com
 +.coreextreme.com
 +.corel.com
@@ -4946,7 +4955,6 @@
 +.cs4hs.com
 +.csdparty.com
 +.cshive.com
-+.cshive.cpedia.org
 +.csifund.org
 +.csis.org
 +.csmonitor.com
@@ -5851,6 +5859,7 @@
 +.dropboxstatic.com
 +.dropboxusercontent.com
 +.droplr.com
++.drpc.org
 +.drsunacademy.com
 +.drtuber.com
 +.drunk6.com
@@ -6066,7 +6075,6 @@
 +.ebay-stories.com
 +.ebay-us.com
 +.ebay-vacation.com
-+.ebay.atralia.com
 +.ebay.com
 +.ebay.com.hk
 +.ebay.org
@@ -6314,7 +6322,6 @@
 +.eltondisney.com
 +.emaga.com
 +.emanna.com
-+.emax.com
 +.embark-studios.com
 +.embark.games
 +.embase.com
@@ -7031,6 +7038,8 @@
 +.fanswong.com
 +.fantasiasguatemala.com
 +.fantasti.cc
++.fantom.foundation
++.fantom.network
 +.fantv.hk
 +.fanyue.info
 +.fap-xxx.com
@@ -7242,6 +7251,7 @@
 +.fi11.com
 +.fi11av1.com
 +.fi11tv1.com
++.fiat24.com
 +.fic.fan
 +.ficador.com
 +.ficbook.net
@@ -7353,6 +7363,7 @@
 +.fl310.com
 +.flagrasamadores.net
 +.flameunleashed.com
++.flare.network
 +.flaru.com
 +.flashtranny.com
 +.flatandfuckedmilfs.com
@@ -7883,7 +7894,6 @@
 +.fujitsu
 +.fukzr1.cc
 +.fulanax.com
-+.fulanom
 +.fuli-wangzhan.com
 +.fuli3.net
 +.fulib711.shop
@@ -7986,6 +7996,8 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
 +.full:ws.audioscrobbler.com
++.full:zftksc.cdn-settings.appsflyersdk.com
++.full:zftksc.launches.appsflyersdk.com
 +.fulldesisex.com
 +.fullerconsideration.com
 +.fullfuli.com
@@ -8821,7 +8833,6 @@
 +.group-ib.com
 +.groupfun.com
 +.groups.com
-+.grs-ph.org
 +.grss-ieee.org
 +.grupobmw.com
 +.gs
@@ -9759,7 +9770,6 @@
 +.hpstorethailand.com
 +.hpsupport.com
 +.hpsuresupply.com
-+.hpsuresupply.e.com
 +.hptechventures.com
 +.hpto.net
 +.hptouch.com
@@ -10341,7 +10351,6 @@
 +.indienudes.com
 +.indonesiaporn.name
 +.industrialtoys.com
-+.inetexplorer.com
 +.inf.news
 +.infinitetoons.com
 +.infinitetube.com
@@ -10525,7 +10534,6 @@
 +.internetpopculture.com
 +.interracial-sites.com
 +.interseclab.org
-+.interydre.com
 +.intescort.com
 +.intgram.com
 +.inthenameofconfuciusmovie.com
@@ -10667,6 +10675,7 @@
 +.is
 +.is-a-hunter.com
 +.isaacmao.com
++.isafepal.com
 +.isasecret.com
 +.isbgpsafeyet.com
 +.isca-speech.org
@@ -11467,7 +11476,6 @@
 +.kn
 +.knightspeak.com
 +.knovel.com
-+.knovel.comphone4s.com
 +.knowledgerush.com
 +.knowyourmeme.com
 +.knoxemm.com
@@ -12524,6 +12532,7 @@
 +.meforum.org
 +.mefound.com
 +.megacamz.com
++.megaeth.com
 +.megafilmporno.com
 +.megafon.com
 +.megamarket.tech
@@ -12579,6 +12588,7 @@
 +.meridian.net
 +.meripet.biz
 +.meripet.com
++.merkl.xyz
 +.merlinblog.xyz
 +.meshmixer.com
 +.meshmixerforum.com
@@ -12609,6 +12619,7 @@
 +.metrotoons.com
 +.meuhentai.com
 +.mewe.com
++.mexc.co
 +.mexc.com
 +.mexcsensors.com
 +.meyul.com
@@ -14021,7 +14032,6 @@
 +.nikecloud.com
 +.nikeclub.com
 +.nikecompany.com
-+.nikecompy.com
 +.nikeconfluence.com
 +.nikecraft.com
 +.nikedawn.com
@@ -14101,7 +14111,6 @@
 +.nikesportswear.com
 +.nikestares.com
 +.nikestore.com
-+.nikestoreany.com
 +.nikestyles.com
 +.nikeswim.com
 +.niketaiwan.net
@@ -15071,7 +15080,6 @@
 +.paypaly.com
 +.paypass.net
 +.payppal.com
-+.payppal.comcom
 +.payroll.com
 +.payserve.com
 +.paysitesreviews.net
@@ -16451,6 +16459,8 @@
 +.ree007.xyz
 +.reflectivecode.com
 +.reform-apple.com
++.reg.cloud
++.reg.com
 +.regex101.com
 +.regiongold.com
 +.registerhulu.com
@@ -16634,7 +16644,6 @@
 +.roughman.net
 +.routerboard.com
 +.routledgehandbooks.com
-+.row
 +.rowblocks.com
 +.rowblox.com
 +.roxired.com
@@ -16656,6 +16665,7 @@
 +.rsf-chinese.org
 +.rsf.org
 +.rsgamen.org
++.rsk.co
 +.rspao.com
 +.rss.4040940.xyz
 +.rss.littlebaby.life
@@ -16806,6 +16816,7 @@
 +.saasexch.cc
 +.saasexch.co
 +.saasexch.com
++.saasexch.info
 +.saboom.com
 +.sabuibo.net
 +.sacduc.com
@@ -16819,6 +16830,7 @@
 +.safechat.com
 +.safeguarddefenders.com
 +.safeliner.tech
++.safepal.com
 +.safervpn.com
 +.saffrontech.com
 +.sage-observability.tech
@@ -17025,7 +17037,6 @@
 +.seatguru.com
 +.seattlefdc.com
 +.seattlespheres.com
-+.seblox.com
 +.secomtrust.net
 +.second-ns.com
 +.secret-flirt-hub.com
@@ -17555,7 +17566,6 @@
 +.sinoquebec.com
 +.sinyalee.com
 +.sipml5.org
-+.siport.cnzuritv.net
 +.siport.com
 +.sipriyearbook.org
 +.sirenxxxstudios.com
@@ -18106,6 +18116,7 @@
 +.steam.ru.qtlglb.com
 +.steam.tv
 +.steamcommunity.com
++.steamconnecttest.com
 +.steamcontent.com
 +.steamdb.info
 +.steamdeck.com
@@ -18434,6 +18445,7 @@
 +.tafm.org
 +.tagwalk.com
 +.taiav.com
++.taiko.xyz
 +.tail-f.com
 +.tailf.com
 +.tails.net
@@ -18855,6 +18867,7 @@
 +.thinkquarterly.com
 +.thinkwithgoogle.com
 +.thirdmill.org
++.thirdweb.com
 +.thisav.com
 +.thisisgame.com
 +.thisispolaris.com
@@ -20125,7 +20138,6 @@
 +.visadigital.com
 +.visadigitalconcierge.com
 +.visadns.com
-+.visaeur+.aaa
 +.visaeverywhereshop.com
 +.visafintechfasttrack.com
 +.visafulfillment.com
@@ -21178,6 +21190,7 @@
 +.xkontakt18.com
 +.xkorean.cam
 +.xl-gaytube.com
++.xlayer.tech
 +.xlecx.org
 +.xlfmtalk.com
 +.xlfmwz.info
@@ -21987,6 +22000,8 @@
 +.zettai-ero.com
 +.zeutch.com
 +.zfreet.com
++.zftksc.cdn-settings.appsflyersdk.com
++.zftksc.launches.appsflyersdk.com
 +.zgsddh.com
 +.zgzcjj.net
 +.zh99.net
