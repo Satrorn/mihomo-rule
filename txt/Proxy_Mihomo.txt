@@ -157,7 +157,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -566,7 +565,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5652,6 +5650,7 @@
 +.dnsimple.com
 +.dnsrd.com
 +.dnssec.net
++.dnstest2.com
 +.dnsvisa.com
 +.dnvod.tv
 +.do
@@ -6677,6 +6676,7 @@
 +.eyny.com
 +.ezpeer.com
 +.ezua.com
++.f
 +.f-dro1d.org
 +.f-droid.com
 +.f-droid.org
@@ -8068,7 +8068,6 @@
 +.fututrade.com
 +.fux.com
 +.fuxporn.com
-+.fuyin.net
 +.fuyindiantai.org
 +.fuzokudx.com
 +.fxcm-chinese.com
@@ -9993,6 +9992,7 @@
 +.ibeats-uk.com
 +.ibeatsbydre.cc
 +.ibeatsbydre.com
++.ibet.org
 +.ibiblio.org
 +.ibkr.com
 +.ibkr.com.hk
@@ -10724,6 +10724,7 @@
 +.itaboo.info
 +.itaeromanga.com
 +.italiabeatsbydrdre.com
++.italiat+.aaa
 +.italiatibet.org
 +.itasoftware.com
 +.itau
@@ -12384,6 +12385,7 @@
 +.mastercardbusinessnetwork.com
 +.mastercardcenter.com
 +.mastercardcenter.org
++.mastercardcenter.org# NAME: Proxy
 +.mastercardcenterforinclusivegrowth.org
 +.mastercardconnect.com
 +.mastercardezsavings.com
@@ -13812,6 +13814,7 @@
 +.netflixdnstest9.com
 +.netflixinvestor.com
 +.netflixtechblog.com
++.netflixuyin.net
 +.netlify.com
 +.netlifystatus.com
 +.netmarble.com
@@ -15141,6 +15144,7 @@
 +.peing.net
 +.pekingduck.org
 +.pelvicexam.info
++.penamt.com
 +.penchinese.com
 +.penchinese.net
 +.pendrivelinux.com
@@ -20096,6 +20100,7 @@
 +.vintagexxxfilms.com
 +.vip-beats.com
 +.vip-enterprise.com
++.vipbeatsbydre.c1password.drift.click
 +.vipbeatsbydre.com
 +.vipheadphones.com
 +.vipissy.com
