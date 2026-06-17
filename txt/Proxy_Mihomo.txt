@@ -1,3 +1,4 @@
++.+.aaa
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -157,6 +158,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -4130,6 +4132,7 @@
 +.celebgramme.com
 +.celebmasta.live
 +.celebritygay.com
++.celebritymoviearchive.com
 +.celebritynakeds.com
 +.celebrityslips.com
 +.celebritystorysite.com
@@ -5650,7 +5653,6 @@
 +.dnsimple.com
 +.dnsrd.com
 +.dnssec.net
-+.dnstest2.com
 +.dnsvisa.com
 +.dnvod.tv
 +.do
@@ -6676,7 +6678,6 @@
 +.eyny.com
 +.ezpeer.com
 +.ezua.com
-+.f
 +.f-dro1d.org
 +.f-droid.com
 +.f-droid.org
@@ -7793,6 +7794,8 @@
 +.freeweibo.com
 +.freewww.biz
 +.freewww.info
++.freexh.blog
++.freexh.live
 +.freexinwen.com
 +.freexvideos.org
 +.freexxx.best
@@ -8068,6 +8071,7 @@
 +.fututrade.com
 +.fux.com
 +.fuxporn.com
++.fuyin.net
 +.fuyindiantai.org
 +.fuzokudx.com
 +.fxcm-chinese.com
@@ -9992,7 +9996,6 @@
 +.ibeats-uk.com
 +.ibeatsbydre.cc
 +.ibeatsbydre.com
-+.ibet.org
 +.ibiblio.org
 +.ibkr.com
 +.ibkr.com.hk
@@ -10724,7 +10727,6 @@
 +.itaboo.info
 +.itaeromanga.com
 +.italiabeatsbydrdre.com
-+.italiat+.aaa
 +.italiatibet.org
 +.itasoftware.com
 +.itau
@@ -12385,7 +12387,6 @@
 +.mastercardbusinessnetwork.com
 +.mastercardcenter.com
 +.mastercardcenter.org
-+.mastercardcenter.org# NAME: Proxy
 +.mastercardcenterforinclusivegrowth.org
 +.mastercardconnect.com
 +.mastercardezsavings.com
@@ -13814,7 +13815,6 @@
 +.netflixdnstest9.com
 +.netflixinvestor.com
 +.netflixtechblog.com
-+.netflixuyin.net
 +.netlify.com
 +.netlifystatus.com
 +.netmarble.com
@@ -15144,7 +15144,6 @@
 +.peing.net
 +.pekingduck.org
 +.pelvicexam.info
-+.penamt.com
 +.penchinese.com
 +.penchinese.net
 +.pendrivelinux.com
@@ -15266,6 +15265,7 @@
 +.pikpak.me
 +.pikpakdrive.com
 +.pillbeatsblackfridaysale.com
++.pimpbunny.com
 +.pin-cong.com
 +.pin6.com
 +.pincong.rocks
@@ -15839,6 +15839,7 @@
 +.powershape.com
 +.powershellgallery.com
 +.powersunitedvr.com
++.powfans.com
 +.pp-soc.com
 +.pp6.info
 +.ppaypal.com
@@ -17016,6 +17017,7 @@
 +.scpdb.org
 +.scpic.net
 +.scpwiki.com
++.screens.com
 +.screenwisetrends.com
 +.screenwisetrendspanel.com
 +.screw-my-wife.com
@@ -17113,6 +17115,7 @@
 +.seqingx.com
 +.sequence.com
 +.ser7.cc
++.serakon.com
 +.seraph.me
 +.serbiporno.net
 +.serialssolutions.com
@@ -20100,7 +20103,6 @@
 +.vintagexxxfilms.com
 +.vip-beats.com
 +.vip-enterprise.com
-+.vipbeatsbydre.c1password.drift.click
 +.vipbeatsbydre.com
 +.vipheadphones.com
 +.vipissy.com
@@ -20753,6 +20755,7 @@
 +.wikidot.com
 +.wikifeet.com
 +.wikihow.com
++.wikile000webhost.com
 +.wikileaks-forum.com
 +.wikileaks.com
 +.wikileaks.info
@@ -21138,6 +21141,7 @@
 +.xhamster2.com
 +.xhamster3.com
 +.xhamsterlive.com
++.xhapp.live
 +.xhcdn.com
 +.xhnews.live
 +.xhot.pro
