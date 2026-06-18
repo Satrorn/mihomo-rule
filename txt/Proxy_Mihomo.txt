@@ -1,4 +1,3 @@
-+.+.aaa
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -638,6 +637,7 @@
 +.acdocs.com
 +.acebooik.com
 +.acebook.com
++.aceobook.com
 +.acer-group.com
 +.acer.com
 +.aceros-de-hispania.com
@@ -4097,6 +4097,7 @@
 +.cdkworkshop.com
 +.cdmatech.com
 +.cdn-apple.com
++.cdn-cookieyes.com
 +.cdn-spotify-experiments.conductrics.com
 +.cdn-telegram.org
 +.cdn-terapeak.com
@@ -4784,6 +4785,7 @@
 +.conquerwithcharacter.com
 +.conscrypt.com
 +.conscrypt.org
++.consentmanager.net
 +.consentpro.com
 +.constitutionalism.solutions
 +.constructware.com
@@ -4796,9 +4798,11 @@
 +.convio.net
 +.convrgencegame.com
 +.coobay.com
++.cookiebot.com
 +.cookiechoices.org
 +.cookielaw.org
 +.cookiepro.com
++.cookieyes.com
 +.cool-comics.com
 +.cool18.com
 +.cool3c.com
@@ -6678,6 +6682,7 @@
 +.eyny.com
 +.ezpeer.com
 +.ezua.com
++.f+.aaa
 +.f-dro1d.org
 +.f-droid.com
 +.f-droid.org
@@ -17017,7 +17022,6 @@
 +.scpdb.org
 +.scpic.net
 +.scpwiki.com
-+.screens.com
 +.screenwisetrends.com
 +.screenwisetrendspanel.com
 +.screw-my-wife.com
@@ -19275,6 +19279,7 @@
 +.trulyergonomic.com
 +.trunest.com
 +.trust-provider.com
++.trustarc.com
 +.trustasiassl.com
 +.trustcor.com
 +.trusted-dwg.com
@@ -20755,7 +20760,6 @@
 +.wikidot.com
 +.wikifeet.com
 +.wikihow.com
-+.wikile000webhost.com
 +.wikileaks-forum.com
 +.wikileaks.com
 +.wikileaks.info
