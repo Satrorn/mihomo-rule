@@ -1801,6 +1801,7 @@
 +.asianphd.com
 +.asianporn.rest
 +.asianpornjav.com
++.asianpornlabs.co# NAME: Proxy
 +.asianpornlabs.com
 +.asianpornmovies.com
 +.asianpornonly.com
@@ -2298,6 +2299,7 @@
 +.babesinporn.com
 +.babesmachine.com
 +.babesnetwork.com
++.babesofin.chinaway.org
 +.babesofindia.com
 +.babesource.com
 +.babestube.com
@@ -4356,7 +4358,6 @@
 +.chinatopsex.com
 +.chinatweeps.com
 +.chinauncensored.tv
-+.chinaway.org
 +.chinaworker.info
 +.chinaxchina.com
 +.chinayouth.org.hk
@@ -5409,6 +5410,7 @@
 +.dhcp.biz
 +.dhl
 +.dhlestudio.com.co
++.dia.com
 +.diablo3.com
 +.diabloimmortal.com
 +.diabrowser.com
@@ -7943,6 +7945,7 @@
 +.full:firstsearch.oclc.org
 +.full:github-api.arkoselabs.com
 +.full:gitlab-assets.oss-cn-hongkong.aliyuncs.com
++.full:gog-cdn-lumen.secure2.footprint.net
 +.full:hls-amt.itunes.apple.com
 +.full:hls.itunes.apple.com
 +.full:hpstore.corpmerchandise.com
@@ -8615,6 +8618,7 @@
 +.gofucker.com
 +.gofuckmenow.com
 +.gofundme.com
++.gog-cdn-lumen.secure2.footprint.net
 +.gog-statics.com
 +.gog.com
 +.gogettaxi.org
