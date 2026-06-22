@@ -567,7 +567,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1801,7 +1800,6 @@
 +.asianphd.com
 +.asianporn.rest
 +.asianpornjav.com
-+.asianpornlabs.co# NAME: Proxy
 +.asianpornlabs.com
 +.asianpornmovies.com
 +.asianpornonly.com
@@ -2299,7 +2297,6 @@
 +.babesinporn.com
 +.babesmachine.com
 +.babesnetwork.com
-+.babesofin.chinaway.org
 +.babesofindia.com
 +.babesource.com
 +.babestube.com
@@ -2556,6 +2553,7 @@
 +.beatsbydrdrestore.com
 +.beatsbydrdreus.com
 +.beatsbydre-beatsheadphone.com
++.beatsbydre-chen.co+.aaa
 +.beatsbydre-chen.com
 +.beatsbydre-club.com
 +.beatsbydre-headphones.com
@@ -4358,6 +4356,7 @@
 +.chinatopsex.com
 +.chinatweeps.com
 +.chinauncensored.tv
++.chinaway.org
 +.chinaworker.info
 +.chinaxchina.com
 +.chinayouth.org.hk
@@ -5410,7 +5409,6 @@
 +.dhcp.biz
 +.dhl
 +.dhlestudio.com.co
-+.dia.com
 +.diablo3.com
 +.diabloimmortal.com
 +.diabrowser.com
@@ -8012,6 +8010,7 @@
 +.full:vsmarketplacebadge.apphb.com
 +.full:widgets.stripst.com
 +.full:ws.audioscrobbler.com
++.full:www.microsoft.com
 +.full:zftksc.cdn-settings.appsflyersdk.com
 +.full:zftksc.launches.appsflyersdk.com
 +.fulldesisex.com
@@ -8619,8 +8618,10 @@
 +.gofuckmenow.com
 +.gofundme.com
 +.gog-cdn-lumen.secure2.footprint.net
++.gog-services.com
 +.gog-statics.com
 +.gog.com
++.gogalaxy.com
 +.gogettaxi.org
 +.gogle.com
 +.gogo-load.com
