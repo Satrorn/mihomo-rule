@@ -567,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -2553,7 +2554,6 @@
 +.beatsbydrdrestore.com
 +.beatsbydrdreus.com
 +.beatsbydre-beatsheadphone.com
-+.beatsbydre-chen.co+.aaa
 +.beatsbydre-chen.com
 +.beatsbydre-club.com
 +.beatsbydre-headphones.com
@@ -13393,7 +13393,7 @@
 +.multiply.com
 +.multiplydiversity.com
 +.multiproxy.org
-+.multiupload.com
++.multiupload.c000webhost.com
 +.multporn.net
 +.mummysgold.com
 +.muncloud.dog
@@ -16832,6 +16832,7 @@
 +.s-cute.com
 +.s-dc-msedge.net
 +.s-dragon.org
++.s-gaming.com
 +.s-microsoft.com
 +.s-msedge.net
 +.s-msft.com
