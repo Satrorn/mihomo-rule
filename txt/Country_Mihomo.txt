@@ -1,3 +1,67 @@
-+.(function(){var a=new XMLHttpRequest();a.open("get","/missing",true);a.send();a.onreadystatechange=function(){if(a.readyState==4&&(a.status==200||a.status==304)){var c=String(a.responseText);var e=document.open("text/html","replace");e.write(c);e.close()}else{var d={en:"The page you are looking for cannot be found.",zh:"\u60a8\u8981\u627e\u7684\u9875\u9762\u672a\u627e\u5230\u3002",it:"Impossibile trovare la pagina ricercata.","zh-HK":"\u60a8\u6240\u6307\u5b9a\u7684\u9801\u9762\u4e0d\u5b58\u5728\u3002",cs:"Hledan\u00e1 str\u00e1nka nebyla nalezena.",es:"Lo sentimos, no se encuentra la p\u00e1gina que est\u00e1 buscando.",ru:"\u041d\u0435 \u0443\u0434\u0430\u0435\u0442\u0441\u044f \u043d\u0430\u0439\u0442\u0438 \u0438\u0441\u043a\u043e\u043c\u0443\u044e \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443.",nl:"Kan de gezochte pagina niet vinden.",pt:"A p\u00e1gina que procura n\u00e3o foi encontrada.",no:"Finner ikke siden du leter etter.",nb:"Finner ikke siden du leter etter.",tr:"Arad\u0131\u011f\u0131n\u0131z sayfa bulunam\u0131yor.",pl:"Nie znaleziono strony, kt\u00f3rej szukasz.",fr:"La page que vous recherchez est introuvable.",de:"Die Seite, nach der Sie suchen, kann nicht gefunden werden.",hu:"A keresett oldal nem tal\u00e1lhat\u00f3.","pt-BR":"N\u00e3o foi poss\u00edvel encontrar a p\u00e1gina que voc\u00ea est\u00e1 buscando.","zh-MO":"\u60a8\u6240\u6307\u5b9a\u7684\u9801\u9762\u4e0d\u5b58\u5728\u3002",da:"Den side, du leder efter, kunne ikke findes.",ja:"\u304a\u63a2\u3057\u306e\u30da\u30fc\u30b8\u304c\u3001\u898b\u3064\u304b\u308a\u307e\u305b\u3093\u3002",nn:"Finner ikke siden du leter etter.","zh-TW":"\u60a8\u6240\u6307\u5b9a\u7684\u9801\u9762\u4e0d\u5b58\u5728\u3002",ko:"\ucc3e\uace0 \uacc4\uc2e0 \ud398\uc774\uc9c0\ub97c \ubc1c\uacac\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4.",sv:"Sidan du s\u00f6ker kunde inte hittas."};var b=["zh-TW","zh-HK","zh-MO","pt-BR"];var f;if(window.navigator.languages!==undefined){f=window.navigator.languages[0]}else{f=window.navigator.language||window.navigator.browserLanguage}if(b.indexOf(f)<0){f=f.split("-")[0]}document.getElementById("a").innerHTML=d[f]||d.enu}}})();
-+./* Copyright (c) 2025 Synology Inc. All rights reserved. */
-+.<style>.center{font-family:Verdana,Arial,sans-serif}.center:lang(zh-TW){font-family:Verdana,Arial,Microsoft JhengHei,sans-serif}.center:lang(zh-CN){font-family:Verdana,Arial,Microsoft YaHei,sans-serif}.center:lang(ja){font-family:Verdana,Arial,Meiryo,sans-serif}.circle_text{font-weight:700}html{height:100%}body{margin:0 auto;min-height:600px;min-width:800px;height:100%}.top{height:100px;height:calc(40% - 140px)}.bottom{height:150px;height:calc(60% - 210px)}.center{height:350px;text-align:center;vertical-align:middle}.circle{margin:auto;width:260px;height:260px;border-radius:50%;background:#c0c6cc}.circle_text{line-height:260px;font-size:100px;color:#fff}.text{line-height:40px;font-size:26px;color:#414b55}
++.$(document).on('pjax:complete', function () {
++.--radius-selector: 0.5rem;--radius-field: 0.5rem;--radius-box: 0.5rem;        }
++.--radius-selector: 0.5rem;--radius-field: 0.5rem;--radius-box: 0.5rem;    }
++.</script>  <script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/hls.min.js"></script>
++.<div class="container shadow-sm mx-auto max-w-5xl px-4 py-4 flex items-center justify-start space-x-4 bg-base-100 rounded-box backdrop-filter header-glass" data-home-url="https://258085.xyz:60/">
++.<img src=https://258085.xyz:60/usr/themes/okome_hikari/assets/Emoji/bilibili/10002.png alt="" />
++.<li><a href="https://258085.xyz:60/">首页</a></li>
++.<li><a href="https://258085.xyz:60/category/default/">默认分类</a></li>                        </div>
++.<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://258085.xyz:60/action/xmlrpc?rsd" />
++.<link rel="alternate" type="application/atom+xml" title="风之旅人 &raquo; ATOM 1.0" href="https://258085.xyz:60/feed/atom/" />
++.<link rel="alternate" type="application/rdf+xml" title="风之旅人 &raquo; RSS 1.0" href="https://258085.xyz:60/feed/rss/" />
++.<link rel="alternate" type="application/rss+xml" title="风之旅人 &raquo; RSS 2.0" href="https://258085.xyz:60/feed/" />
++.<link rel="canonical" href="https://258085.xyz:60/clash/mihomo-rule/Country.txt" />
++.<link rel="pingback" href="https://258085.xyz:60/action/xmlrpc" />
++.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/APlayer.min.css?ver=1.0.8">
++.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/OwO.min.css?ver=1.0.8">
++.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/app.css?ver=1.0.8">
++.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/header.css?ver=1.0.8">
++.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/tailwindcss.css?ver=1.0.8">
++.<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://258085.xyz:60/action/xmlrpc?wlw" />
++.<meta name="framework" content="TTDF 4.2.1" />
++.<meta name="twitter:description" property="og:description" itemprop="description" content="您访问的页面不存在" />    <meta name="generator" content="Typecho 1.3.0" />
++.<meta name="twitter:domain" content="258085.xyz" />
++.<meta name="viewport" content="width=device-width, initial-scale=1.0,height=device-height" />
++.<meta property="og:url" content="https://258085.xyz:60/clash/mihomo-rule/Country.txt" />
++.<path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
++.<script defer src="https://258085.xyz:60/usr/themes/okome_hikari/assets/alpinejs.cdn.min.js?ver=1.0.8"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/APlayer.min.js?ver=1.0.8"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/OwO.min.js?ver=1.0.8"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/Swup.umd.js?ver=1.0.8"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/header.js?ver=1.0.8" data-swup-ignore-script defer></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/lazysizes.min.js?ver=1.0.8" async=""></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/medium-zoom.min.js?ver=1.0.8"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/flv.min.js"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/hls.min.js"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/load-player.js" type="text/javascript"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/player.min.js?v=2.3.4" type="text/javascript"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/swup.forms-plugin.js?ver=1.0.8"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/swup.progress-plugin.js?ver=1.0.8"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/swup.script-plugins.js?ver=1.0.8"></script>
++.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/swup.scroll-plugin.js?ver=1.0.8"></script>
++.<script type="module" src="https://258085.xyz:60/usr/themes/okome_hikari/assets/main.js?ver=1.0.8"></script>
++.<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
++.<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
++.console.log("\n %c %s \n", "color: #fff; background: #34495e; padding:5px 0;", "TTDF v" + window.frameWorkConfig.version.framework);
++.console.log('页面加载耗时 ' + window.frameWorkConfig.loadtime);
++.fab.classList.add('is-visible');
++.fab.classList.remove('is-visible');
++.framework: '4.2.1',
++.loadtime: '684.782 ms',
++.src=https://258085.xyz:60/usr/themes/okome_hikari/assets/Emoji/bilibili/10001.png />
++.theme: '1.0.8',
++.trigger.addEventListener('click', scrollTop);
++.typecho: '1.3.0',
++.var eased = 1 - Math.pow(1 - progress, 3);
++.var fab = document.getElementById('backToTopFab');
++.var pos = Math.round(start * (1 - eased));
++.var progress = Math.min((ts - startTime) / duration, 1);
++.var show = (window.scrollY || document.documentElement.scrollTop || 0) > 200;
++.var start = window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0;
++.var supportsSmooth = 'scrollBehavior' in document.documentElement.style;
++.var trigger = document.getElementById('backToTopTrigger');
++.window.__onPjaxContent = function() {
++.window.addEventListener('scroll', updateVisibility, {
++.window.frameWorkConfig = {
++.window.scrollTo(0, pos);
++.window.scrollTo({
