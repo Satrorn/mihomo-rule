@@ -47,7 +47,7 @@
 +.fab.classList.add('is-visible');
 +.fab.classList.remove('is-visible');
 +.framework: '4.2.1',
-+.loadtime: '616.780 ms',
++.loadtime: '1.238 s',
 +.src=https://258085.xyz:60/usr/themes/okome_hikari/assets/Emoji/bilibili/10001.png />
 +.theme: '1.0.8',
 +.trigger.addEventListener('click', scrollTop);
