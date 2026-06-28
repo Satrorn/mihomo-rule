@@ -1470,7 +1470,6 @@
 +.aoxvpn.com
 +.aoxx69.net
 +.ap.org
-+.ap000webhost.com
 +.ap0le.com
 +.apa.org
 +.apache.org
@@ -1654,6 +1653,7 @@
 +.applepodcasts.com
 +.applereach.com
 +.applereach.net
++.appleschoolcontent.com
 +.applescreensavers.com
 +.applescript.info
 +.appleshare.info
@@ -1705,6 +1705,7 @@
 +.aptoide.com
 +.apture.com
 +.apyle.com
++.apzones.com
 +.aq
 +.aqdlt.net
 +.aqi.aqicn.org
@@ -2220,6 +2221,7 @@
 +.ax
 +.axa
 +.axios.com
++.axm-usercontent-apple.com
 +.axureformac.com
 +.ayabank.com
 +.ayshdade.info
@@ -2463,7 +2465,6 @@
 +.bbycontent.com
 +.bbycontent.net
 +.bbyintl.com
-+.bbypornonly.com
 +.bbystatic.com
 +.bcbits.com
 +.bcchinese.net
@@ -4414,7 +4415,6 @@
 +.chromium.org
 +.chronicle.security
 +.chroniclesec.com
-+.chu10vpn.com
 +.chuang-yen.org
 +.chuangb15.xyz
 +.chubbypornonly.com
@@ -5149,6 +5149,8 @@
 +.damduc.org
 +.damplips.com
 +.dandalinvoa.com
++.dandanplay.com
++.dandanplay.net
 +.dandanzan.cc
 +.danemarket.com
 +.danke4china.net
@@ -8203,6 +8205,7 @@
 +.gastrointestinalexam.com
 +.gate-project.com
 +.gate.cc
++.gate.com
 +.gatecoin.com
 +.gatedata.org
 +.gateimg.com
@@ -9485,6 +9488,7 @@
 +.hklft.com
 +.hklts.org.hk
 +.hkmap.live
++.hkong.hk
 +.hkopentv.com
 +.hkpeanut.com
 +.hkporn.net
@@ -11430,6 +11434,7 @@
 +.keytransparency.com
 +.keytransparency.org
 +.kfh
++.kfor.com
 +.kg
 +.kgisystems.com
 +.kgslb.com
@@ -12680,6 +12685,7 @@
 +.mhqwe.xyz
 +.mhradio.org
 +.mhshosting.com
++.mhwindow.org
 +.mi.kochudaho.me
 +.mi.mashiro.site
 +.mi9cdn.com
@@ -15141,6 +15147,7 @@
 +.pccw.com
 +.pccwglobal.com
 +.pccwsolutions.com
++.pcgamesn.com
 +.pcgamestorrents.com
 +.pcij.org
 +.pcloud.com
@@ -16549,6 +16556,7 @@
 +.resoubanana.buzz
 +.resoubang.buzz
 +.respawnbyrazer.com
++.restofworld.org
 +.restream-media.net
 +.rethink.net
 +.retimer.com
@@ -18836,6 +18844,7 @@
 +.theinitium.com
 +.theinstagramhack.com
 +.theintelstore.com
++.theintercept.com
 +.theinventionworks.com
 +.theinventionworks.net
 +.thekarups.com
@@ -19199,7 +19208,6 @@
 +.topmanga.biz
 +.topnudemalecelebs.com
 +.topobase.com
-+.topplestoreonline.com
 +.topporn.me
 +.toppornguide.com
 +.toppornoduro.com
@@ -19313,6 +19321,7 @@
 +.troisrivieresmini.com
 +.tronscan.org
 +.tropictube.com
++.trtworld.com
 +.trueamateurmodels.com
 +.trueamateurs.com
 +.trueanal.com
@@ -19623,6 +19632,7 @@
 +.twporn.net
 +.twreporter.org
 +.twskype.com
++.twstalker.com
 +.twstar.net
 +.twtkr.com
 +.twtrdns.net
@@ -20561,6 +20571,7 @@
 +.washeng.net
 +.washingtondcbmw.com
 +.washingtonpost.com
++.washingtontimes.com
 +.waskucity.com
 +.watch-ebay.org
 +.watch-my-gf.com
