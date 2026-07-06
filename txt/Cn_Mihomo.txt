@@ -1,67 +1,63 @@
-+.$(document).on('pjax:complete', function () {
-+.--radius-selector: 0.5rem;--radius-field: 0.5rem;--radius-box: 0.5rem;        }
-+.--radius-selector: 0.5rem;--radius-field: 0.5rem;--radius-box: 0.5rem;    }
-+.</script>  <script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/hls.min.js"></script>
-+.<div class="container shadow-sm mx-auto max-w-5xl px-4 py-4 flex items-center justify-start space-x-4 bg-base-100 rounded-box backdrop-filter header-glass" data-home-url="https://258085.xyz:60/">
-+.<img src=https://258085.xyz:60/usr/themes/okome_hikari/assets/Emoji/bilibili/10002.png alt="" />
-+.<li><a href="https://258085.xyz:60/">首页</a></li>
-+.<li><a href="https://258085.xyz:60/category/default/">默认分类</a></li>                        </div>
-+.<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://258085.xyz:60/action/xmlrpc?rsd" />
-+.<link rel="alternate" type="application/atom+xml" title="风之旅人 &raquo; ATOM 1.0" href="https://258085.xyz:60/feed/atom/" />
-+.<link rel="alternate" type="application/rdf+xml" title="风之旅人 &raquo; RSS 1.0" href="https://258085.xyz:60/feed/rss/" />
-+.<link rel="alternate" type="application/rss+xml" title="风之旅人 &raquo; RSS 2.0" href="https://258085.xyz:60/feed/" />
++.&copy; 2026 <a href="https://258085.xyz:60/"><strong>风之旅人</strong></a> All right Reserved.  <br>
++..sm-nav li{margin:5px 3px 5px 3px}
++.<a class="error-link btn btn-yellow py-3 mt-30" href="https://258085.xyz:60/">返回首页 →</a>
++.<div class="bar-dismiss"><span class="close-icons"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.2 130.2">
++.<form action="https://258085.xyz:60/action/register?_=567c7ca9a461d10b8a0deaba380b4087" method="post" name="register" role="form">
++.<form action="https://258085.xyz:60/index.php/action/login?_=567c7ca9a461d10b8a0deaba380b4087" method="post" name="login" role="form">
++.<h2><a href="https://258085.xyz:60/"></a></h2>
++.<img src="https://258085.xyz:60/usr/themes/bearhoney/assets/images/404-error.png" alt="404">
++.<li class="sm-nav-item"><a class="sm-nav-link" href="https://258085.xyz:60/">首页</a></li>
++.<li class="sm-nav-item"><a class="sm-nav-link" href="https://258085.xyz:60/start-page.html">关于</a></li>
++.<li class="sm-sub-item"><a class="sm-sub-link" href="https://258085.xyz:60/category/default/">默认分类</a></li>
++.<line class="path line" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="34.4" y1="37.9" x2="95.8" y2="92.3"/>
++.<line class="path line" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" x1="95.8" y1="38" x2="34.4" y2="92.2"/>
++.<link href="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/fancybox/fancybox.min.css?v=1" rel="stylesheet">
++.<link href="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/menu/menu.min.css" rel="stylesheet">
++.<link href="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/remixicon/remixicon.css" rel="stylesheet">
++.<link href="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/toastr/toastr.min.css" rel="stylesheet">
++.<link rel="alternate" type="application/rdf+xml" title="页面没找到 &raquo; 风之旅人 &raquo; RSS 1.0" href="https://258085.xyz:60/feed/rss/" />
++.<link rel="alternate" type="application/rss+xml" title="页面没找到 &raquo; 风之旅人 &raquo; RSS 2.0" href="https://258085.xyz:60/feed/" />
 +.<link rel="canonical" href="https://258085.xyz:60/clash/mihomo-rule/Cn.txt" />
-+.<link rel="pingback" href="https://258085.xyz:60/action/xmlrpc" />
-+.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/APlayer.min.css?ver=1.0.8">
-+.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/OwO.min.css?ver=1.0.8">
-+.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/app.css?ver=1.0.8">
-+.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/header.css?ver=1.0.8">
-+.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/okome_hikari/assets/tailwindcss.css?ver=1.0.8">
-+.<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://258085.xyz:60/action/xmlrpc?wlw" />
-+.<meta name="framework" content="TTDF 4.2.1" />
-+.<meta name="twitter:description" property="og:description" itemprop="description" content="您访问的页面不存在" />    <meta name="generator" content="Typecho 1.3.0" />
++.<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
++.<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
++.<link rel="preload" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200;300;400;500;600;700;900&display=swap" as="style" onload="this.rel='stylesheet'" crossorigin>
++.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/bearhoney/assets/css/bearhoney.min.css?v=11.2.9.20250807">
++.<link rel="stylesheet" href="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/element-ui/index.min.css">
++.<link rel="stylesheet" type="text/css" href="https://258085.xyz:60/usr/themes/bearhoney/assets/css/bearhoney_cards.min.css?v=1.2.9.20250807">
++.<link rel="stylesheet" type="text/css" href="https://258085.xyz:60/usr/themes/bearhoney/assets/css/bearhoney_styles.min.css?v=1.2.9.20250807">
 +.<meta name="twitter:domain" content="258085.xyz" />
-+.<meta name="viewport" content="width=device-width, initial-scale=1.0,height=device-height" />
++.<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no" />
++.<meta property="og:url" content="https://258085.xyz:60/" />
 +.<meta property="og:url" content="https://258085.xyz:60/clash/mihomo-rule/Cn.txt" />
-+.<path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
-+.<script defer src="https://258085.xyz:60/usr/themes/okome_hikari/assets/alpinejs.cdn.min.js?ver=1.0.8"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/APlayer.min.js?ver=1.0.8"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/OwO.min.js?ver=1.0.8"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/Swup.umd.js?ver=1.0.8"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/header.js?ver=1.0.8" data-swup-ignore-script defer></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/lazysizes.min.js?ver=1.0.8" async=""></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/medium-zoom.min.js?ver=1.0.8"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/flv.min.js"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/hls.min.js"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/load-player.js" type="text/javascript"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/plugins/player/player.min.js?v=2.3.4" type="text/javascript"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/swup.forms-plugin.js?ver=1.0.8"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/swup.progress-plugin.js?ver=1.0.8"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/swup.script-plugins.js?ver=1.0.8"></script>
-+.<script src="https://258085.xyz:60/usr/themes/okome_hikari/assets/swup.scroll-plugin.js?ver=1.0.8"></script>
-+.<script type="module" src="https://258085.xyz:60/usr/themes/okome_hikari/assets/main.js?ver=1.0.8"></script>
-+.<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
-+.<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
-+.console.log("\n %c %s \n", "color: #fff; background: #34495e; padding:5px 0;", "TTDF v" + window.frameWorkConfig.version.framework);
-+.console.log('页面加载耗时 ' + window.frameWorkConfig.loadtime);
-+.fab.classList.add('is-visible');
-+.fab.classList.remove('is-visible');
-+.framework: '4.2.1',
-+.loadtime: '558.450 ms',
-+.src=https://258085.xyz:60/usr/themes/okome_hikari/assets/Emoji/bilibili/10001.png />
-+.theme: '1.0.8',
-+.trigger.addEventListener('click', scrollTop);
-+.typecho: '1.3.0',
-+.var eased = 1 - Math.pow(1 - progress, 3);
-+.var fab = document.getElementById('backToTopFab');
-+.var pos = Math.round(start * (1 - eased));
-+.var progress = Math.min((ts - startTime) / duration, 1);
-+.var show = (window.scrollY || document.documentElement.scrollTop || 0) > 200;
-+.var start = window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0;
-+.var supportsSmooth = 'scrollBehavior' in document.documentElement.style;
-+.var trigger = document.getElementById('backToTopTrigger');
-+.window.__onPjaxContent = function() {
-+.window.addEventListener('scroll', updateVisibility, {
-+.window.frameWorkConfig = {
-+.window.scrollTo(0, pos);
-+.window.scrollTo({
++.<script defer src="https://258085.xyz:60/usr/themes/bearhoney/assets/js/bearhoneycards.min.js"></script>
++.<script src="https://258085.xyz:60/usr/themes/bearhoney/assets/js/bearhoney.js?v=1.2.9.20250807"></script>
++.<script src="https://258085.xyz:60/usr/themes/bearhoney/assets/js/bearhoney_single.js?v=1.2.9.20250807"></script>
++.<script src="https://258085.xyz:60/usr/themes/bearhoney/assets/js/qrious.min.js"></script>
++.<script src="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/fancybox/fancybox.umd.min.js?v=1"></script>
++.<script src="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/jquery/jquery.min.js"></script>
++.<script src="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/lazyload/funlazy.min.js?v=1"></script>
++.<script src="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/menu/menu.min.js"></script>
++.<script src="https://258085.xyz:60/usr/themes/bearhoney/assets/plugins/toastr/toastr.min.js"></script>
++.<span class="button-text"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#FFAF29" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-send"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg></span>
++.<span><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></span>
++.<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.2 130.2">
++.<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor"><path d="M10 6C10 10.4183 13.5817 14 18 14C19.4386 14 20.7885 13.6203 21.9549 12.9556C21.4738 18.0302 17.2005 22 12 22C6.47715 22 2 17.5228 2 12C2 6.79948 5.9698 2.52616 11.0444 2.04507C10.3797 3.21152 10 4.56142 10 6ZM4 12C4 16.4183 7.58172 20 12 20C14.9654 20 17.5757 18.3788 18.9571 15.9546C18.6407 15.9848 18.3214 16 18 16C12.4772 16 8 11.5228 8 6C8 5.67863 8.01524 5.35933 8.04536 5.04293C5.62119 6.42426 4 9.03458 4 12ZM18.1642 2.29104L19 2.5V3.5L18.1642 3.70896C17.4476 3.8881 16.8881 4.4476 16.709 5.16417L16.5 6H15.5L15.291 5.16417C15.1119 4.4476 14.5524 3.8881 13.8358 3.70896L13 3.5V2.5L13.8358 2.29104C14.5524 2.1119 15.1119 1.5524 15.291 0.835829L15.5 0H16.5L16.709 0.835829C16.8881 1.5524 17.4476 2.1119 18.1642 2.29104ZM23.1642 7.29104L24 7.5V8.5L23.1642 8.70896C22.4476 8.8881 21.8881 9.4476 21.709 10.1642L21.5 11H20.5L20.291 10.1642C20.1119 9.4476 19.5524 8.8881 18.8358 8.70896L18 8.5V7.5L18.8358 7.29104C19.5524 7.1119 20.1119 6.5524 20.291 5.83583L20.5 5H21.5L21.709 5.83583C21.8881 6.5524 22.4476 7.1119 23.1642 7.29104Z"></path></svg>                     </div>
++.<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor"><path d="M11.9997 10.5865L16.9495 5.63672L18.3637 7.05093L13.4139 12.0007L18.3637 16.9504L16.9495 18.3646L11.9997 13.4149L7.04996 18.3646L5.63574 16.9504L10.5855 12.0007L5.63574 7.05093L7.04996 5.63672L11.9997 10.5865Z"></path></svg>
++.<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor"><path d="M12 18C8.68629 18 6 15.3137 6 12C6 8.68629 8.68629 6 12 6C15.3137 6 18 8.68629 18 12C18 15.3137 15.3137 18 12 18ZM12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16ZM11 1H13V4H11V1ZM11 20H13V23H11V20ZM3.51472 4.92893L4.92893 3.51472L7.05025 5.63604L5.63604 7.05025L3.51472 4.92893ZM16.9497 18.364L18.364 16.9497L20.4853 19.0711L19.0711 20.4853L16.9497 18.364ZM19.0711 3.51472L20.4853 4.92893L18.364 7.05025L16.9497 5.63604L19.0711 3.51472ZM5.63604 16.9497L7.05025 18.364L4.92893 20.4853L3.51472 19.0711L5.63604 16.9497ZM23 11V13H20V11H23ZM4 11V13H1V11H4Z"></path></svg>                           </div>
++.<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor"><path d="M18.031 16.6168L22.3137 20.8995L20.8995 22.3137L16.6168 18.031C15.0769 19.263 13.124 20 11 20C6.032 20 2 15.968 2 11C2 6.032 6.032 2 11 2C15.968 2 20 6.032 20 11C20 13.124 19.263 15.0769 18.031 16.6168ZM16.0247 15.8748C17.2475 14.6146 18 12.8956 18 11C18 7.1325 14.8675 4 11 4C7.1325 4 4 7.1325 4 11C4 14.8675 7.1325 18 11 18C12.8956 18 14.6146 17.2475 15.8748 16.0247L16.0247 15.8748Z"></path></svg>
++.<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32" fill="currentColor"><path d="M3 4H21V6H3V4ZM3 11H21V13H3V11ZM3 18H21V20H3V18Z"></path></svg>
++.Powered by <a href="http://www.typecho.org"> <strong>Typecho</strong></a> & <a href="https://github.com/whitebearcode/typecho-bearhoney"> <strong>BearHoney</strong></a>                                      <br/>                 </div>
++.const bearnavbar = new SmartMenus(document.querySelector('#honeynavbar'),  {
++.document.documentElement.setAttribute('data-theme', 'dark');
++.document.documentElement.setAttribute('data-theme', 'light');
++.document.querySelector("html").setAttribute('data-theme', 'dark')
++.document.querySelector("html").setAttribute('data-theme', 'light')
++.else if (localStorage.getItem('selected-theme') == 'dark') {
++.if (localStorage.getItem('selected-theme') == 'light') {
++.if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
++.loadingText = "正在加载...",
++.toastr.error(typecho_notice);
++.toastr.success(typecho_notice);
++.var searchContentApi = "https://258085.xyz:60/index.php/bh-searchArticle";
++.window.itemSelector = '.single-blog-post-card';
++.window.postwrapper = '.blog-post-masonary-card';

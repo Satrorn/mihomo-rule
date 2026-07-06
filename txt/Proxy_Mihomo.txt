@@ -6578,7 +6578,6 @@
 +.esrt.space
 +.esrt.tech
 +.esrt.website
-+.ess.com
 +.estudio360.com.co
 +.estudiopenthouse.com
 +.esurance.com
@@ -7597,7 +7596,6 @@
 +.foxkansas.com
 +.foxkeh.com
 +.foxla.com
-+.foxla.coorg
 +.foxla.tv
 +.foxlexington.com
 +.foxmediacloud.com
@@ -8516,7 +8514,6 @@
 +.gitlab.net
 +.gitmemory.com
 +.gitstar.com
-+.gitstar.duck.org
 +.gitstar.net
 +.gittigidiyor.net
 +.gittigidiyorsikayet.com
@@ -10469,7 +10466,6 @@
 +.instagram-brand.com
 +.instagram-engineering.com
 +.instagram-help.com
-+.instagram-pr.com
 +.instagram-press.com
 +.instagram-press.net
 +.instagram.com
@@ -15205,7 +15201,6 @@
 +.pegn.com
 +.peing.net
 +.pekingduck.org
-+.pekingm
 +.pelvicexam.info
 +.penchinese.com
 +.penchinese.net
@@ -21062,7 +21057,7 @@
 +.wuso.me
 +.wuw.red
 +.wuxiapple.com
-+.wuyanblogwi.com
++.wuyanblog.com
 +.wuyefuli.org
 +.wvm0agb4.me
 +.ww9094.com
