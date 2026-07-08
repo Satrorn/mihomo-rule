@@ -4312,6 +4312,7 @@
 +.chickteases.com
 +.chihair-straightener.com
 +.chikiporn.com
++.chikuou.com
 +.chillingo.com
 +.chimeforchange.org
 +.china-autodesk.com
@@ -5105,6 +5106,7 @@
 +.d2pass.com
 +.d4dj-pj.com
 +.da-files.com
++.da000webhost.com
 +.daboja18.com
 +.dabr.me
 +.dabr.mobi
@@ -7431,6 +7433,8 @@
 +.flowgpt.com
 +.flowhongkong.net
 +.flowtype.org
++.flowwow-images.com
++.flowwow.com
 +.fluidfxapp.com
 +.fluidpreview.com
 +.flutterapp.com
@@ -8048,6 +8052,7 @@
 +.funnyfacebook.org
 +.funnyordie.com
 +.funp.com
++.funpay.com
 +.funshemale.com
 +.fuq.com
 +.fuqqt.com
@@ -17387,6 +17392,7 @@
 +.sfshibao.com
 +.sftindia.org
 +.sftuk.org
++.sfunpay.com
 +.sg
 +.sg120.me
 +.sg1lib.org
@@ -19078,6 +19084,7 @@
 +.tilda.cc
 +.tildaapi.com
 +.tildacdn.com
++.tildacdn.net
 +.tiltbrush.com
 +.timdir.com
 +.time.com
@@ -19143,6 +19150,7 @@
 +.tmdfish.com
 +.tmei-taoyuan.com
 +.tmi.me
++.tmi.ytontrucktires.com
 +.tmpp.org
 +.tn
 +.tnaflix.com
