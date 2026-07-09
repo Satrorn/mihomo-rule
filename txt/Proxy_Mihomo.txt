@@ -567,7 +567,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1866,6 +1865,7 @@
 +.atgfw.org
 +.athenaeizou.com
 +.athleta
++.athtosharepoint.com
 +.atkgallery.com
 +.atl-paas.net
 +.atlanta168.com
@@ -2922,6 +2922,7 @@
 +.bianlei.com
 +.biantailajiao.com
 +.biaoqs.xyz
++.biaoqs1+.aaa
 +.biaoqs1.xyz
 +.biaoqs2.xyz
 +.bible
@@ -4312,7 +4313,6 @@
 +.chickteases.com
 +.chihair-straightener.com
 +.chikiporn.com
-+.chikuou.com
 +.chillingo.com
 +.chimeforchange.org
 +.china-autodesk.com
@@ -5106,7 +5106,6 @@
 +.d2pass.com
 +.d4dj-pj.com
 +.da-files.com
-+.da000webhost.com
 +.daboja18.com
 +.dabr.me
 +.dabr.mobi
@@ -16601,7 +16600,7 @@
 +.revver.com
 +.rewrite-anime.tv
 +.rexcha.com
-+.rexroth
++.rexrot.xyz
 +.rexxx.org
 +.rfa.org
 +.rfachina.com
@@ -19150,7 +19149,6 @@
 +.tmdfish.com
 +.tmei-taoyuan.com
 +.tmi.me
-+.tmi.ytontrucktires.com
 +.tmpp.org
 +.tn
 +.tnaflix.com
