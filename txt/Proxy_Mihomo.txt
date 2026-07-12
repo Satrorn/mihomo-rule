@@ -157,6 +157,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1155,7 +1156,6 @@
 +.alphabetfinance.net
 +.alphaporno.com
 +.alphaxiv.org
-+.alphchikuou.com
 +.alphera-finance.com.hk
 +.alphera.com
 +.alphera.com.hk
@@ -1657,7 +1657,6 @@
 +.applescreensavers.com
 +.applescript.info
 +.appleshare.info
-+.applestor.cc
 +.applestor.com
 +.applestore.cc
 +.applestore.com
@@ -1801,6 +1800,7 @@
 +.asianfreeporn.net
 +.asiangfvideos.com
 +.asiangirlsnextdoor.com
++.asiangooglenescheapest.com
 +.asiangooglenetwork.com
 +.asianphd.com
 +.asianporn.rest
@@ -2499,6 +2499,7 @@
 +.bdsmvideos.net
 +.be
 +.beaconevents.com
++.beaon.com
 +.bearteach.com
 +.beascoremodel.com
 +.beastiegals.com
@@ -2918,7 +2919,6 @@
 +.bgvpn.com
 +.bh
 +.bharti
-+.bhggn.xybd.com
 +.bhggn.xyz
 +.bhzyk.buzz
 +.bhzyw2.top
@@ -5310,6 +5310,7 @@
 +.delets.online
 +.delicious.com
 +.dell
++.dell.c000webhost.com
 +.dell.com
 +.dell.com.co
 +.dell.com.hk
@@ -6054,6 +6055,7 @@
 +.eaptechka.online
 +.earlytibet.com
 +.earngeek.com
++.earpho.org
 +.earphonescheapest.com
 +.earpod.net
 +.earthcam.com
@@ -6763,6 +6765,7 @@
 +.facebol.com
 +.facebolk.com
 +.facebomok.com
++.facebonetwork.com
 +.faceboo.com
 +.facebooa.com
 +.faceboob.com
@@ -8395,6 +8398,7 @@
 +.getpricetag.com
 +.getprintersupports.com
 +.getscorecash.com
++.getsentry.com
 +.getsession.org
 +.getsexgames.com
 +.getsocialscope.com
@@ -10539,6 +10543,7 @@
 +.intel.hk
 +.intel.me
 +.intel.tv
++.intel.uytsoutletonlines.com
 +.intelamericasstore.com
 +.intelapacstore.com
 +.intelatom.net
@@ -11462,7 +11467,6 @@
 +.khatrimaza.org
 +.khotruyentranhx.com
 +.ki
-+.ki1password.drift.click
 +.kia
 +.kichiku-doujinko.com
 +.kichikuou.com
@@ -18727,6 +18731,7 @@
 +.temetube.xyz
 +.temp-mail.org
 +.templatemonster.com
++.tems.com
 +.temu.com
 +.tenacy.com
 +.tenbyfotolia.com
@@ -19426,6 +19431,7 @@
 +.ttcdn-us.com
 +.tteshop.com
 +.ttlivecdn.com
++.ttol.net
 +.ttoverseaus.net
 +.tttan.com
 +.ttvnw.net
