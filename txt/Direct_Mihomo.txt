@@ -4680,7 +4680,8 @@
 +.4020.la
 +.40407.com
 +.404886.com
-+.404: Not Found404: Not Foundend-api.shallow.ink
++.404: Not Foundazad.asia
++.404: Not Foundend-api.shallow.ink
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -13699,7 +13700,6 @@
 +.ayxz.com
 +.ayzzxx.com
 +.az009.com
-+.azad.asia
 +.azbq.org
 +.azchcdna.com
 +.azchcdnb.com
@@ -30707,6 +30707,7 @@
 +.dulife.com
 +.dulifei.com
 +.dullr.com
++.dulupay.com
 +.dulwich.org
 +.dumall.com
 +.dumanhua.com
@@ -106816,6 +106817,7 @@
 +.yzs.io
 +.yzsbh.com
 +.yzsfuer.com
++.yzsgo.com
 +.yzshkjxx.com
 +.yzshyzz.com
 +.yzsljz.com
