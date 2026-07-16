@@ -567,7 +567,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -643,6 +642,7 @@
 +.acer-group.com
 +.acer.com
 +.aceros-de-hispania.com
++.acesof+.aaa
 +.acesofthunder.net
 +.acevpn.com
 +.acg.rip
@@ -4837,6 +4837,7 @@
 +.coova.com
 +.coova.net
 +.coova.org
++.copilot-stg.com
 +.copilot.com
 +.copilot.microsoft.com
 +.copro.pw
@@ -5324,6 +5325,7 @@
 +.delldrivers.com
 +.dellemc.com
 +.dellemcevents.com
++.delletonlines.com
 +.delloutlet.com
 +.dellpoweredge.com
 +.dellpowersolutions.com
@@ -7866,6 +7868,7 @@
 +.frommel.net
 +.frontier
 +.frontiersin.org
++.frontig
 +.frontlinedefenders.org
 +.frontrow.com
 +.froogle.com
@@ -8015,7 +8018,6 @@
 +.full:rsshub2.asailor.org
 +.full:ssl-lvlt.cdn.ea.com
 +.full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
-+.full:tesla-cdn.thron.com
 +.full:time.apple.com
 +.full:time.asia.apple.com
 +.full:time.euro.apple.com
@@ -12464,6 +12466,7 @@
 +.mastercardrestaurant.com
 +.mastercardservices.com
 +.mastercardworldwide.com
++.masterccom
 +.masterclass.com
 +.masterintelligence.com
 +.masteroforion.com
@@ -12705,6 +12708,7 @@
 +.mgstage.com
 +.mh
 +.mh4u.org
++.mhgui.com
 +.mhhanman.xyz
 +.mhqwe.xyz
 +.mhradio.org
@@ -13101,6 +13105,7 @@
 +.moegirl.org
 +.moeimg.net
 +.moepedia.net
++.moepedia.n|\.)hs[1-9]{2}\.vip$
 +.moeshare.cc
 +.moez-m.com
 +.mof.kemomi.me
@@ -14353,6 +14358,7 @@
 +.ntdca.com
 +.ntdimg.com
 +.ntdtv-dc.com
++.ntdtv.coersin.org
 +.ntdtv.com
 +.ntdtv.org
 +.ntdtvla.com
@@ -18160,6 +18166,7 @@
 +.starfishfx.com
 +.starfox.com
 +.stargazer-games.com
++.starlink.com
 +.starott.com
 +.starp2p.com
 +.starplus.com
@@ -18752,7 +18759,6 @@
 +.terobox.com
 +.terragraph.com
 +.terrapeak.com
-+.tesla-cdn.thron.com
 +.tesla.com
 +.tesla.services
 +.teslaenergy.services
@@ -18992,6 +18998,7 @@
 +.thuhole.com
 +.thumbnailseries.com
 +.thumbzilla.com
++.thunder.net
 +.thunderbird.net
 +.thunderbolttechnology.net
 +.thundermail.com
@@ -20266,6 +20273,7 @@
 +.visiontimes.net
 +.visiontimesjp.com
 +.visualstudio-staging.com
++.visualstudio-staging.org
 +.visualstudio.co
 +.visualstudio.com
 +.visualstudio.net
