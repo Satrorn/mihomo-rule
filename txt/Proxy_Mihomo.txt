@@ -567,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -642,7 +643,6 @@
 +.acer-group.com
 +.acer.com
 +.aceros-de-hispania.com
-+.acesof+.aaa
 +.acesofthunder.net
 +.acevpn.com
 +.acg.rip
@@ -5325,7 +5325,6 @@
 +.delldrivers.com
 +.dellemc.com
 +.dellemcevents.com
-+.delletonlines.com
 +.delloutlet.com
 +.dellpoweredge.com
 +.dellpowersolutions.com
@@ -7868,7 +7867,6 @@
 +.frommel.net
 +.frontier
 +.frontiersin.org
-+.frontig
 +.frontlinedefenders.org
 +.frontrow.com
 +.froogle.com
@@ -12466,7 +12464,6 @@
 +.mastercardrestaurant.com
 +.mastercardservices.com
 +.mastercardworldwide.com
-+.masterccom
 +.masterclass.com
 +.masterintelligence.com
 +.masteroforion.com
@@ -13105,7 +13102,6 @@
 +.moegirl.org
 +.moeimg.net
 +.moepedia.net
-+.moepedia.n|\.)hs[1-9]{2}\.vip$
 +.moeshare.cc
 +.moez-m.com
 +.mof.kemomi.me
@@ -13910,6 +13906,7 @@
 +.network54.com
 +.networkedblogs.com
 +.networktunnel.net
++.netxh.blog
 +.netzerobuildings.com
 +.netzerobuildingstudio.com
 +.neuerporno.com
@@ -14358,7 +14355,6 @@
 +.ntdca.com
 +.ntdimg.com
 +.ntdtv-dc.com
-+.ntdtv.coersin.org
 +.ntdtv.com
 +.ntdtv.org
 +.ntdtvla.com
@@ -18998,7 +18994,6 @@
 +.thuhole.com
 +.thumbnailseries.com
 +.thumbzilla.com
-+.thunder.net
 +.thunderbird.net
 +.thunderbolttechnology.net
 +.thundermail.com
@@ -20273,7 +20268,6 @@
 +.visiontimes.net
 +.visiontimesjp.com
 +.visualstudio-staging.com
-+.visualstudio-staging.org
 +.visualstudio.co
 +.visualstudio.com
 +.visualstudio.net
