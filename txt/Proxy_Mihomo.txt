@@ -1,4 +1,3 @@
-+..org
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -1476,7 +1475,6 @@
 +.apartmentratings.com
 +.apartments.com
 +.apat1989.org
-+.apd.com
 +.apetube.com
 +.apexlegends.com
 +.apexprint.com.hk
@@ -1803,7 +1801,6 @@
 +.asiangfvideos.com
 +.asiangirlsnextdoor.com
 +.asiangooglenetwork.com
-+.asianphairwick.net
 +.asianphd.com
 +.asianporn.rest
 +.asianpornjav.com
@@ -2736,7 +2733,6 @@
 +.beatsoutlet.net
 +.beatsoutletanytime.com
 +.beatsoutletonlines.com
-+.beatsoutlplestoreonline.com
 +.beatspascher-bydre.com
 +.beatspascher-fr.net
 +.beatspascher.net
@@ -5074,6 +5070,7 @@
 +.cv
 +.cve.org
 +.cw
++.cw.com.t.com
 +.cwcams.com
 +.cws.conviva.com
 +.cx
@@ -5329,7 +5326,6 @@
 +.delldrivers.com
 +.dellemc.com
 +.dellemcevents.com
-+.delletonlines.com
 +.delloutlet.com
 +.dellpoweredge.com
 +.dellpowersolutions.com
@@ -5395,7 +5391,6 @@
 +.dettol-prize.com
 +.dettol.com
 +.dettol.com.hk
-+.dettol.com.set.com
 +.dettol.net
 +.dettolarabia.com
 +.dettolcleannaija.com
@@ -6060,7 +6055,6 @@
 +.eanordic.com
 +.eaplay.com
 +.eaptechka.online
-+.earlytibcdn.com
 +.earlytibet.com
 +.earngeek.com
 +.earphonescheapest.com
@@ -8050,7 +8044,6 @@
 +.fullstory.com
 +.fulltaboo.tv
 +.fullxxxmovies.net
-+.fulue.com
 +.funami.tech
 +.fundaiphone5s.com
 +.fundfire.com
@@ -15731,6 +15724,7 @@
 +.pornlist18.com
 +.pornlistdude.com
 +.pornloser.com
++.pornlulu# NAME: Proxy
 +.pornlulu.com
 +.pornluxme.com
 +.pornma.com
@@ -16617,7 +16611,6 @@
 +.revenue-performance-management.com
 +.revistaepoca.com
 +.revistapegn.com
-+.revistg
 +.revit.com
 +.revitcc.com
 +.revitsucks.net
@@ -16707,6 +16700,7 @@
 +.rockstarnorth.com
 +.rockylinux.org
 +.rogers
++.roject.com
 +.rojo.com
 +.roku.com
 +.rokutime.com
@@ -17589,6 +17583,7 @@
 +.shuminavi.net
 +.shutterstock.com
 +.shuziyimin.org
++.shw
 +.shwchurch.org
 +.shwchurch3.com
 +.shwebank.com
@@ -18336,6 +18331,7 @@
 +.stupidvideos.com
 +.stweetly.com
 +.stxmosquito.com
++.stxmosquitopfulue.com
 +.stxmosquitoproject.com
 +.stxmosquitoproject.net
 +.stxmosquitoproject.org
@@ -19725,7 +19721,6 @@
 +.uaa.com
 +.ub0.cc
 +.ubank
-+.ubcopilot.com
 +.ubddns.org
 +.uber-assets.com
 +.uber.com
