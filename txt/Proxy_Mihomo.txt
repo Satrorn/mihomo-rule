@@ -1,3 +1,4 @@
++..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -2918,7 +2919,6 @@
 +.bh
 +.bharti
 +.bhggn.xyz
-+.bhzyk.buz+.aaa
 +.bhzyk.buzz
 +.bhzyw2.top
 +.bi
@@ -5960,6 +5960,7 @@
 +.duoweitimes.com
 +.duoweiweek.com
 +.duping.net
++.duplicati+.aaa
 +.duplicati.com
 +.dupola.com
 +.dupola.net
