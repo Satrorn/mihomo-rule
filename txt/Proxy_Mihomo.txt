@@ -8523,6 +8523,7 @@
 +.githubhackathon.com
 +.githubnext.com
 +.githubstatus.com
++.githubsupport.com
 +.githubuniverse.com
 +.githubusercontent.com
 +.gitlab-assets.oss-cn-hongkong.aliyuncs.com
