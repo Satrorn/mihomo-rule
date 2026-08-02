@@ -567,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -676,6 +677,7 @@
 +.acs.org
 +.actalis.com
 +.actfortibet.org
++.actifio.com
 +.activematter.game
 +.activeteachonline.com
 +.activpn.com
@@ -10311,7 +10313,6 @@
 +.illusiony.com
 +.illusionze.com
 +.illusnoi.com
-+.ilm.com.hk
 +.ilongman.com
 +.ilove-movies.com
 +.iloveinterracial.com
@@ -11106,6 +11107,7 @@
 +.jetbrains.cloud
 +.jetbrains.com
 +.jetbrains.net
++.jetbrains.org
 +.jetbrains.space
 +.jetbrains.team
 +.jetfuelapp.com
@@ -11594,6 +11596,7 @@
 +.korewaeroi.com
 +.korona.com
 +.kostenlosepornoclips.com
++.kotlinconf.com
 +.kotlinlang.org
 +.kouwobb.com
 +.kp
@@ -13097,7 +13100,6 @@
 +.mobileporngames.com
 +.mobilepornmovies.com
 +.mobilevrxxx.com
-+.mobileways.dge.cn
 +.mobmyanmar.com
 +.mobypicture.com
 +.mochajs.org
@@ -13616,6 +13618,7 @@
 +.myiphide.com
 +.myiphider.com
 +.myipod.net
++.myjetbrains.com
 +.myjkwd.com
 +.mykomica.org
 +.mylcloud.net
@@ -14017,7 +14020,6 @@
 +.nextdirect
 +.nextechafrica.net
 +.nextfilm.com.hk
-+.nextftinyurl.com
 +.nextgenerationcam.com
 +.nextgenerationcenter.com
 +.nextjs.org
@@ -14376,6 +14378,7 @@
 +.ntdtv.org
 +.ntdtvla.com
 +.ntdvn.com
++.nthlink.com
 +.ntl.fyi
 +.ntp.ripe.net
 +.ntp0.ntp-servers.net
@@ -14775,6 +14778,7 @@
 +.openweathermap.org
 +.openwebster.com
 +.openwrt.org
++.openxla.org
 +.opera.com
 +.opinionjournal.com
 +.oppai-doga.info
@@ -15719,7 +15723,6 @@
 +.pornhubdeutsch.net
 +.pornhubpremium.com
 +.pornhubs.video
-+.pornhubs.video+.aaa
 +.pornhubselect.com
 +.pornhun.xyz
 +.pornhutdeutsch.com
@@ -18600,6 +18603,7 @@
 +.talkatone.com
 +.talkboxapp.com
 +.talkcc.com
++.talkingkotlin.com
 +.talkonly.net
 +.talksport.com
 +.tamilsexvideos.cc
