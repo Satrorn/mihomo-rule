@@ -581,6 +581,7 @@
 +.0571nh.com
 +.0571pu.com
 +.0571zp.com
++.0572h.com
 +.0572home.com
 +.0573fang.com
 +.0573ol.com
@@ -4573,7 +4574,7 @@
 +.402faka.com
 +.40407.com
 +.404886.com
-+.404: Not Found+.0572h.com
++.404: Not Found404: Not Foundapi.blipsandchitz.me
 +.404mzk.com
 +.404wan.com
 +.404youxi.com
@@ -12414,7 +12415,6 @@
 +.api-m.com
 +.api-vod-qcloud.com
 +.api.anythinktech.com
-+.api.blipsandchitz.me
 +.api.so
 +.apiairasia.com
 +.apiandroid.com

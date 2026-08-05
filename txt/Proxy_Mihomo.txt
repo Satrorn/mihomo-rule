@@ -567,6 +567,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -4216,7 +4217,6 @@
 +.chaoex.com
 +.chaos.social
 +.chapm25.com
-+.chardli
 +.chargenow.com
 +.chargenowusa.com
 +.charlestonroadregistry.com
@@ -5299,6 +5299,8 @@
 +.deepfreeze.tech
 +.deepl.com
 +.deepmind.com
++.deepwiki.com
++.deepwiki.org
 +.deezer.com
 +.definebabe.com
 +.definefetish.com
@@ -7457,6 +7459,7 @@
 +.flutterapp.com
 +.flyflv.com
 +.flyingjizz.com
++.flyio.net
 +.flypool.org
 +.flyvpn.com
 +.flyzy2005.com
@@ -8552,6 +8555,7 @@
 +.glasamerike.net
 +.gle
 +.gleline.com
++.glitchwave.com
 +.global-sci.org
 +.globaledu.org
 +.globaljihad.net
@@ -13713,7 +13717,6 @@
 +.mz
 +.mzed.com
 +.mzstatic.com
-+.n+.aaa
 +.n0vadesktop.com
 +.n26.com
 +.n3ro.lol
@@ -14910,6 +14913,8 @@
 +.ozodlik.org
 +.ozon.com
 +.ozon.express
++.ozon.global
++.ozon.market
 +.ozon.tech
 +.ozon.travel
 +.ozoncamp.pro
@@ -16655,9 +16660,9 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
-+.riexpart.tv
 +.rightbtc.com
 +.rigpa.org
 +.rigums.xyz
@@ -16896,6 +16901,7 @@
 +.rutracker.net
 +.rutracker.org
 +.rutrk.org
++.rutube.sport
 +.ruvideos.net
 +.ruyiseek.com
 +.rw
@@ -17919,6 +17925,8 @@
 +.solveforx.com
 +.somee.com
 +.sonatype.org
++.sonematic.net
++.sonemic.com
 +.songjianjun.com
 +.sonicbbs.cc
 +.sonidodelaesperanza.org
