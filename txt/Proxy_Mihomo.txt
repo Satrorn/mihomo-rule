@@ -5214,6 +5214,7 @@
 +.dasaob.online
 +.dashlane.com
 +.dashly.help
++.dashly.iiencenets.com
 +.dashly.me
 +.dashwood360.com
 +.dastanhisexy.cc
@@ -17127,7 +17128,6 @@
 +.sciencedirect.com
 +.sciencedirectassets.com
 +.sciencemag.org
-+.sciencenets.com
 +.scienceonline.org
 +.scientificamerican.com
 +.scientificlinux.org
@@ -17156,6 +17156,7 @@
 +.scpdb.org
 +.scpic.net
 +.scpwiki.com
++.scre-store.com
 +.screenwisetrends.com
 +.screenwisetrendspanel.com
 +.screw-my-wife.com
