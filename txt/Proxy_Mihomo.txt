@@ -11649,6 +11649,7 @@
 +.kspcoin.com
 +.ksyp10.com
 +.ktech.team
++.ktopmovies.org
 +.ktvu.com
 +.ktzhk.com
 +.ku77.xyz
@@ -15239,6 +15240,7 @@
 +.pctlwm.com
 +.pdetails.com
 +.pdfexpert.com
++.pdn.com
 +.pdncommunity.com
 +.pdproxy.com
 +.pdxbmw.com
