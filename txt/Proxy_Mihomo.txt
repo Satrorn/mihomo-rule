@@ -157,7 +157,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1519,6 +1518,7 @@
 +.apornotube.net
 +.aporntv.com
 +.apornvideo.com
++.apos.wiki
 +.app
 +.app-analytics-services.com
 +.app-dynamics.com
@@ -3723,6 +3723,7 @@
 +.buicha.social
 +.building3dcontent.com
 +.builtfromebay.com
++.builtwithnix.org
 +.bukkake-jav.com
 +.bullguard.com
 +.bullog.org
@@ -5332,6 +5333,7 @@
 +.delcam-electrode.com
 +.delcam-na.com
 +.delcam-robotics.com
++.delcam-see
 +.delcam-services.com
 +.delcam.com
 +.delcamconsulting.com
@@ -9388,7 +9390,6 @@
 +.henti-night.com
 +.heptio.com
 +.heqinglian.net
-+.heqinglianpjes.com
 +.here.com
 +.hereistheporn.com
 +.herexxx.com
@@ -12855,6 +12856,7 @@
 +.microsofttradein.com
 +.microsofttranslator.com
 +.microsoftuwp.com
++.microvpn.cdn.com
 +.microvpn.com
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
@@ -13685,6 +13687,7 @@
 +.mynetav.org
 +.mynetname.net
 +.mynike.com
++.mynixos.com
 +.mynumber.org
 +.myoctocat.com
 +.myparagliding.com
@@ -14313,7 +14316,14 @@
 +.nivod.tv
 +.nivodi.tv
 +.nivodz.com
++.nix-community.org
++.nix.store
++.nix1password.drift.click
++.nixcon.org
++.nixcon2017.org
++.nixlang.com
 +.nixos.org
++.nixpkgs.org
 +.niziero.info
 +.njactb.org
 +.njav.tv
@@ -14323,7 +14333,6 @@
 +.nke6.com
 +.nl
 +.nlfreevpn.com
-+.nlsexfilm000webhost.com
 +.nlsexfilmpjes.com
 +.nlt-media.com
 +.nmbmw.com
@@ -14788,6 +14797,7 @@
 +.openai.com
 +.openallweb.com
 +.openamt.com
++.openapi-trade.loolefoodsmarket.com
 +.openapiplatform.com
 +.openapiservice.com
 +.openbase.com
@@ -15278,7 +15288,6 @@
 +.pearson.com.hk
 +.pearsonactivelearn.com
 +.pearsonassessments.com
-+.pearsonclinical.net
 +.pearsoncmg.com
 +.pearsoncred.com
 +.pearsoned.com
@@ -16951,6 +16960,7 @@
 +.rutube.sport
 +.ruvideos.net
 +.ruyiseek.com
++.rvices.com
 +.rw
 +.rwbautomation.tech
 +.rwe
@@ -17912,7 +17922,6 @@
 +.sneakerpage.net
 +.sneakerskick.com
 +.sneakme.net
-+.sngbridge.cn
 +.snjulebu.com
 +.snk-corp.info
 +.snkplaymore.info
@@ -19218,8 +19227,8 @@
 +.tiney.com
 +.tineye.com
 +.ting53.xyz
-+.tingtalk.mavitahd.net
 +.tingtalk.me
++.tingtalk.mstems.com
 +.tinhduc.org
 +.tinkerboxapp.com
 +.tinkercad.com
@@ -20108,6 +20117,7 @@
 +.vaultify.com
 +.vaultify.info
 +.vaultify.net
++.vbau.org
 +.vbcdn.com
 +.vbcdn.net
 +.vbejeyv.shop
@@ -21127,6 +21137,7 @@
 +.worldpornvideos.com
 +.worldscientific.com
 +.worldsecureemail.com
++.worldsecuresyngbridge.cn
 +.worldsecuresystems.com
 +.worldseriesofwarzone.com
 +.worldsex.com
