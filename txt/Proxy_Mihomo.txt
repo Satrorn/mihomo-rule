@@ -157,6 +157,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1518,7 +1519,6 @@
 +.apornotube.net
 +.aporntv.com
 +.apornvideo.com
-+.apos.wiki
 +.app
 +.app-analytics-services.com
 +.app-dynamics.com
@@ -5333,7 +5333,6 @@
 +.delcam-electrode.com
 +.delcam-na.com
 +.delcam-robotics.com
-+.delcam-see
 +.delcam-services.com
 +.delcam.com
 +.delcamconsulting.com
@@ -12856,7 +12855,6 @@
 +.microsofttradein.com
 +.microsofttranslator.com
 +.microsoftuwp.com
-+.microvpn.cdn.com
 +.microvpn.com
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
@@ -14318,11 +14316,11 @@
 +.nivodz.com
 +.nix-community.org
 +.nix.store
-+.nix1password.drift.click
 +.nixcon.org
 +.nixcon2017.org
 +.nixlang.com
 +.nixos.org
++.nixos.wiki
 +.nixpkgs.org
 +.niziero.info
 +.njactb.org
@@ -14797,7 +14795,6 @@
 +.openai.com
 +.openallweb.com
 +.openamt.com
-+.openapi-trade.loolefoodsmarket.com
 +.openapiplatform.com
 +.openapiservice.com
 +.openbase.com
@@ -16960,7 +16957,6 @@
 +.rutube.sport
 +.ruvideos.net
 +.ruyiseek.com
-+.rvices.com
 +.rw
 +.rwbautomation.tech
 +.rwe
@@ -17115,6 +17111,8 @@
 +.sbuxcard.com
 +.sc
 +.sc-cdn.net
++.sc-gw.com
++.sc-static.net
 +.sc.com
 +.sca-tolo.info
 +.scala-lang.org
@@ -19227,8 +19225,8 @@
 +.tiney.com
 +.tineye.com
 +.ting53.xyz
++.tingtalk.m# NAME: Proxy
 +.tingtalk.me
-+.tingtalk.mstems.com
 +.tinhduc.org
 +.tinkerboxapp.com
 +.tinkercad.com
@@ -20117,7 +20115,6 @@
 +.vaultify.com
 +.vaultify.info
 +.vaultify.net
-+.vbau.org
 +.vbcdn.com
 +.vbcdn.net
 +.vbejeyv.shop
@@ -21137,7 +21134,6 @@
 +.worldpornvideos.com
 +.worldscientific.com
 +.worldsecureemail.com
-+.worldsecuresyngbridge.cn
 +.worldsecuresystems.com
 +.worldseriesofwarzone.com
 +.worldsex.com
