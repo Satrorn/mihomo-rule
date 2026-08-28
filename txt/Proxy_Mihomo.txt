@@ -1,4 +1,4 @@
-+..com
++.-us.com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -572,6 +572,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1675,6 +1676,7 @@
 +.applestore.cc
 +.applestore.com
 +.applestore.com.hk
++.applestore.com.p# NAME: Proxy
 +.applestore.hk
 +.applestore.me
 +.applestore.net
@@ -5005,7 +5007,6 @@
 +.crtsgfb1.top
 +.crucial.com
 +.cruel-furies.com
-+.crunchyroll.
 +.crunchyroll.com
 +.crustwebsites.net
 +.cruxpool.com
@@ -17991,7 +17992,7 @@
 +.sohfrance.org
 +.soifind.com
 +.sojiy1124.top
-+.sokamonline.cocom
++.sokamonline.coallenark.com
 +.sokmil.com
 +.solana.com
 +.solarcity.com
@@ -19764,7 +19765,6 @@
 +.twitoaster.com
 +.twitonmsn.com
 +.twitpic.com
-+.twitstat.allenark.com
 +.twitstat.com
 +.twittbot.net
 +.twitter.biz
