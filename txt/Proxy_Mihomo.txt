@@ -157,6 +157,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -641,7 +642,6 @@
 +.accountpaypal.net
 +.accountpaypal.org
 +.accuweather.com
-+.accuweather.cpei
 +.acdocs.com
 +.acebooik.com
 +.acebook.com
@@ -1323,7 +1323,6 @@
 +.amplifi.com
 +.amplifyapp.com
 +.amplifyframework.com
-+.ampproje-us.com
 +.ampproject.com
 +.ampproject.net
 +.ampproject.org
@@ -5024,7 +5023,6 @@
 +.csmonitor.com
 +.csrankings.org
 +.cstatic.net
-+.ct.org
 +.ctan.org
 +.ctao.org
 +.ctfassets.net
@@ -8445,6 +8443,7 @@
 +.getjetso.com
 +.getlantern.org
 +.getmalus.com
++.getmonero.org
 +.getoutline.org
 +.getpaint.net
 +.getpersonas.com
@@ -12759,7 +12758,6 @@
 +.metartnetwork.com
 +.metcams.com
 +.meteorshowersonline.com
-+.metro.tai1password.drift.click
 +.metrohk.com.hk
 +.metroradio.com.hk
 +.metrotoons.com
