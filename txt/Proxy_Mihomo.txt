@@ -4732,6 +4732,7 @@
 +.cocktailsandcocktalk.com
 +.cockyboys.com
 +.cocoapods.org
++.code.com
 +.code.org
 +.code1984.com
 +.codeberg.org
@@ -5062,7 +5063,6 @@
 +.cuiweiping.net
 +.cultoferotica.com
 +.culturalspot.org
-+.culturedcode.com
 +.cum4k.cc
 +.cumasianporn.com
 +.cumlouder.com
@@ -20123,6 +20123,7 @@
 +.vana
 +.vanguard
 +.vanilla-jp.com
++.vanish.c# NAME: Proxy
 +.vanish.com.co
 +.vanisharabia.com
 +.vanishcentroamerica.com
