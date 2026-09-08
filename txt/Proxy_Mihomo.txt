@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -11187,7 +11188,6 @@
 +.jiehua.tv
 +.jiepang.com
 +.jieshibaobao.com
-+.jifa+.aaa
 +.jifangge.com
 +.jigglegifs.com
 +.jigong1024.com
@@ -14115,7 +14115,6 @@
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
-+.ngge.com
 +.nginx.com
 +.nginx.org
 +.ngrok-agent.com
