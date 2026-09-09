@@ -439,7 +439,6 @@
 +.03wy.com
 +.03xs.com
 +.040.xin
-+.0404: Not Found90expo.com
 +.04075k2xgr.com
 +.04085o08379.xin
 +.0411.com
@@ -882,6 +881,7 @@
 +.08x1am20483.xin
 +.08zf.com
 +.0904.cool
++.090expo.com
 +.0912app.com
 +.0912fdj.com
 +.0913ss.com
@@ -4529,7 +4529,7 @@
 +.402faka.com
 +.40407.com
 +.404886.com
-+.404: Not Foundend-api.shallow.ink
++.404: Not Found404: Not Foundend-api.shallow.ink
 +.404k.vip
 +.404mzk.com
 +.404wan.com
@@ -104399,6 +104399,7 @@
 +.yuanpanguoji.com
 +.yuanqiao.net
 +.yuanqiao.pw
++.yuanqidesk.com
 +.yuanqilt.com
 +.yuanqingsh.com
 +.yuanqisenlin.com
