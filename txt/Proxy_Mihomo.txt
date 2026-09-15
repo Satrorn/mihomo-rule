@@ -14997,6 +14997,7 @@
 +.ozvoice.org
 +.ozxw.com
 +.ozyoyo.com
++.p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 +.pa
 +.pa9pal.com
 +.paaypal.com
@@ -18424,6 +18425,8 @@
 +.stripchat.com
 +.stripe-terminal-local-reader.net
 +.stripe.com
++.stripe.events
++.stripe.global
 +.stripe.network
 +.stripecdn.com
 +.stripparadise.com
