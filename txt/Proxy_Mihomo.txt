@@ -573,7 +573,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -8050,6 +8049,7 @@
 +.full:ocsp.microsoft.com
 +.full:oneocsp.microsoft.com
 +.full:ood.opsource.net
++.full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 +.full:packages.microsoft.com
 +.full:play-edge.itunes.apple.com
 +.full:public-us-pingsx.api.clonoth.com
@@ -21795,6 +21795,7 @@
 +.xxeronetxx.info
 +.xxfbiaa.xyz
 +.xxgasm.com
++.xxgasm.com+.aaa
 +.xxindianporn.com
 +.xxiqiyiavxx.buzz
 +.xxlmovies.com
