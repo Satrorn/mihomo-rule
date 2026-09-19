@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -6539,7 +6540,6 @@
 +.ero-labs.online
 +.ero-labs.site
 +.ero-ma-nia.com
-+.ero-manga-platinum.ne# NAME: Proxy
 +.ero-manga-platinum.net
 +.ero-mangalife.com
 +.eroan.xyz
@@ -9402,7 +9402,6 @@
 +.heptio.com
 +.heqinglian.net
 +.here.com
-+.hereistheporn.c.moztw.org
 +.hereistheporn.com
 +.herexxx.com
 +.heritage.org
@@ -9737,7 +9736,6 @@
 +.hotgirl.asia
 +.hotgirlsclips.com
 +.hotgoo.com
-+.hotgoo.com+.aaa
 +.hothomemade.com
 +.hotindianbabe.com
 +.hotindianxxxsex.com
@@ -10230,7 +10228,6 @@
 +.idemocracy.asia
 +.identrust.com
 +.identrust.net
-+.identrustki.com
 +.idiomconnection.com
 +.idlcoyote.com
 +.idnike.com
@@ -10713,7 +10710,6 @@
 +.ipalter.com
 +.ipdefenseforum.com
 +.ipfire.org
-+.ipfire.ort
 +.ipfs-gateway.cloud
 +.ipfs.anonymize.com
 +.ipfs.eth.aragon.network
@@ -11418,7 +11414,6 @@
 +.k-doujin.net
 +.k9vidz.com
 +.ka-wai.com
-+.ka.com
 +.kaamuu.com
 +.kaggle.com
 +.kaggle.net
@@ -12699,7 +12694,6 @@
 +.megavideo.com
 +.megogo.net
 +.megurineluka.com
-+.megurineluwser.net
 +.meguso.com
 +.meilleurpornos.com
 +.meirixiaochao.com
@@ -13403,6 +13397,7 @@
 +.mozillaquebec.org
 +.mozillians.org
 +.mozit.cloud
++.moztw.org
 +.mp
 +.mp.world
 +.mp3buscador.com
@@ -15278,7 +15273,7 @@
 +.pbabes.com
 +.pbjar1205.pro
 +.pbs.org
-+.pbwiom
++.pbwiki.com
 +.pbworks.com
 +.pbxes.com
 +.pbxes.org
@@ -17115,7 +17110,6 @@
 +.saveliuxiaobo.com
 +.savemedia.com
 +.savethesounds.info
-+.savetibet.n.net
 +.savetibet.org
 +.savetibetstore.org
 +.saveuighur.org
@@ -19771,7 +19765,7 @@
 +.twistory.net
 +.twistys.com
 +.twit2d.com
-+.twitbro.cloud
++.twitbrowser.net
 +.twitcause.com
 +.twitch.tv
 +.twitchcdn.net
@@ -21252,7 +21246,6 @@
 +.www-sms-apple.com
 +.www.destinationurl.com
 +.www.lamenhu.com
-+.www.moztw.org
 +.www.msn.com
 +.www.orchidbbs.com
 +.www.pxcc.com
