@@ -640,6 +640,7 @@
 +.account-paypal.org
 +.accountboy.com
 +.accountkit.com
++.accountmxshm.site
 +.accountpaypal.com
 +.accountpaypal.net
 +.accountpaypal.org
@@ -17322,6 +17323,7 @@
 +.serlucap.lol
 +.serlutv258.xyz
 +.servehttp.com
++.servercontrolpanepaypal.com
 +.servercore.com
 +.servercore.live
 +.serverfault.com
