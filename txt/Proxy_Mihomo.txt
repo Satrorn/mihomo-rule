@@ -159,7 +159,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -643,6 +642,7 @@
 +.accountpaypal.com
 +.accountpaypal.net
 +.accountpaypal.org
++.accountre-cadcam.com
 +.accuweather.com
 +.acdocs.com
 +.acebooik.com
@@ -4416,6 +4416,7 @@
 +.chinesedemocracy.com
 +.chinesegay.org
 +.chinesepen.org
++.chineseposters.net
 +.chineseradioseattle.com
 +.chinesespanking.com
 +.chinesetalks.net
@@ -14389,6 +14390,7 @@
 +.norsk.mobi
 +.norton
 +.norton.com
++.note.com
 +.notepad-plus-plus.org
 +.noticias-rt.com
 +.notimundo.press
@@ -19197,6 +19199,7 @@
 +.tibetjustice.org
 +.tibetmuseum.org
 +.tibetnetwork.org
++.tibetoffice.co000webhost.com
 +.tibetoffice.org
 +.tibetonline.com
 +.tibetonline.tv
@@ -19248,6 +19251,7 @@
 +.timeinc.net
 +.timelinestoryteller.com
 +.timesmembership.com
++.timesnownews.ccom
 +.timesnownews.com
 +.timestalks.com
 +.timeweb.cloud
@@ -19830,6 +19834,7 @@
 +.txvlog.com
 +.txxx.com
 +.txxx1.com
++.ty1password.drift.click
 +.tycool.com
 +.tyler-brown.com
 +.tyms2022.com
@@ -21791,6 +21796,7 @@
 +.xvirtual.com
 +.xvxx.stream
 +.xvxxtube.com
++.xvxxtube.rida.org
 +.xwbo.com
 +.xx-map.com
 +.xxbay.com
