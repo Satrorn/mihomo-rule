@@ -159,6 +159,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -642,7 +643,6 @@
 +.accountpaypal.com
 +.accountpaypal.net
 +.accountpaypal.org
-+.accountre-cadcam.com
 +.accuweather.com
 +.acdocs.com
 +.acebooik.com
@@ -4392,6 +4392,7 @@
 +.chinamule.com
 +.chinamz.org
 +.chinanewscenter.com
++.chinanewsco
 +.chinarightsia.org
 +.chinasmile.net
 +.chinasocialdemocraticparty.com
@@ -7961,7 +7962,6 @@
 +.ftvmilfs.com
 +.ftx.com
 +.fu62.vip
-+.fubo.tv
 +.fucd.com
 +.fuck-xxx-movies.com
 +.fuck.com
@@ -8135,6 +8135,7 @@
 +.fury.blog
 +.fury.co
 +.fury.help
++.fushe888.com
 +.fusionlifecycle.com
 +.fusionproductionapps.com
 +.fuskator.com
@@ -10714,6 +10715,7 @@
 +.ipalter.com
 +.ipdefenseforum.com
 +.ipfire.org
++.ipfire.orpro|pw|run|tv|ws)$
 +.ipfs-gateway.cloud
 +.ipfs.anonymize.com
 +.ipfs.eth.aragon.network
@@ -19199,7 +19201,6 @@
 +.tibetjustice.org
 +.tibetmuseum.org
 +.tibetnetwork.org
-+.tibetoffice.co000webhost.com
 +.tibetoffice.org
 +.tibetonline.com
 +.tibetonline.tv
@@ -19251,7 +19252,6 @@
 +.timeinc.net
 +.timelinestoryteller.com
 +.timesmembership.com
-+.timesnownews.ccom
 +.timesnownews.com
 +.timestalks.com
 +.timeweb.cloud
@@ -19834,7 +19834,6 @@
 +.txvlog.com
 +.txxx.com
 +.txxx1.com
-+.ty1password.drift.click
 +.tycool.com
 +.tyler-brown.com
 +.tyms2022.com
@@ -21434,6 +21433,7 @@
 +.xinfhw.com
 +.xing.com
 +.xing66.life
++.xing840.inf# NAME: Proxy
 +.xing840.info
 +.xinggan77.vip
 +.xingrz.me
@@ -21796,7 +21796,6 @@
 +.xvirtual.com
 +.xvxx.stream
 +.xvxxtube.com
-+.xvxxtube.rida.org
 +.xwbo.com
 +.xx-map.com
 +.xxbay.com
@@ -22293,6 +22292,7 @@
 +.zhenxiang.biz
 +.zhijianfengyi.cn
 +.zhijianfengyi.com
++.zhimeienter.com
 +.zhimeishe888.com
 +.zhinengluyou.com
 +.zhizhu.top
