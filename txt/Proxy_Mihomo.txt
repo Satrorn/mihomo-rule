@@ -4392,7 +4392,6 @@
 +.chinamule.com
 +.chinamz.org
 +.chinanewscenter.com
-+.chinanewsco
 +.chinarightsia.org
 +.chinasmile.net
 +.chinasocialdemocraticparty.com
@@ -7962,6 +7961,7 @@
 +.ftvmilfs.com
 +.ftx.com
 +.fu62.vip
++.fubo.tv
 +.fucd.com
 +.fuck-xxx-movies.com
 +.fuck.com
@@ -8135,7 +8135,6 @@
 +.fury.blog
 +.fury.co
 +.fury.help
-+.fushe888.com
 +.fusionlifecycle.com
 +.fusionproductionapps.com
 +.fuskator.com
@@ -10715,7 +10714,6 @@
 +.ipalter.com
 +.ipdefenseforum.com
 +.ipfire.org
-+.ipfire.orpro|pw|run|tv|ws)$
 +.ipfs-gateway.cloud
 +.ipfs.anonymize.com
 +.ipfs.eth.aragon.network
@@ -21433,7 +21431,6 @@
 +.xinfhw.com
 +.xing.com
 +.xing66.life
-+.xing840.inf# NAME: Proxy
 +.xing840.info
 +.xinggan77.vip
 +.xingrz.me
@@ -22292,7 +22289,6 @@
 +.zhenxiang.biz
 +.zhijianfengyi.cn
 +.zhijianfengyi.com
-+.zhimeienter.com
 +.zhimeishe888.com
 +.zhinengluyou.com
 +.zhizhu.top
