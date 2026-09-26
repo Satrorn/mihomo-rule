@@ -4391,6 +4391,7 @@
 +.chinalawtranslate.com
 +.chinamule.com
 +.chinamz.org
++.chinanewsc000webhost.com
 +.chinanewscenter.com
 +.chinarightsia.org
 +.chinasmile.net
@@ -12772,6 +12773,7 @@
 +.metrotoons.com
 +.meuhentai.com
 +.mewe.com
++.mewe.enter.com
 +.mexc.co
 +.mexc.com
 +.mexcsensors.com
@@ -13374,6 +13376,7 @@
 +.movie-erog.com
 +.movie1000.xyz
 +.moviefap.com
++.moviefatarget.com
 +.moviepost.com
 +.moviesanywhere.com
 +.moviesarena.com
@@ -15123,6 +15126,7 @@
 +.pavpal.com
 +.pawchive.pw
 +.pawoo.net
++.pawoo.nom
 +.paxful.com
 +.paxlicense.org
 +.paydiant.com
@@ -20560,6 +20564,7 @@
 +.vot.org
 +.votolia.com
 +.vovo2000.com
++.vovo2000.cp.com
 +.vox-cdn.com
 +.vox.com
 +.voxcreative.com

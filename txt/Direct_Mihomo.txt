@@ -4535,7 +4535,7 @@
 +.402faka.com
 +.40407.com
 +.404886.com
-+.404: Not Foundend-api.shallow.ink
++.404: Not Found404: Not Foundend-api.shallow.ink
 +.404k.vip
 +.404mzk.com
 +.404wan.com
@@ -14781,7 +14781,7 @@
 +.bdzjdsagslb.com
 +.be-xx.com
 +.be1775.com
-+.be1d404: Not Foundbb20578c1b79.com
++.be1dbb20578c1b79.com
 +.be20e436e111e1f7.com
 +.be7076f2b2ff2953.com
 +.be79d8d36f962bd6.com
