@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5721,6 +5722,7 @@
 +.dmm.com
 +.dmmapis.com
 +.dmmrex.com
++.dn.live
 +.dnaav.com
 +.dnaindia.com
 +.dndbeyond.com
@@ -9992,6 +9994,7 @@
 +.huaren4us.com
 +.huarenav.com
 +.huarenporn.com
++.huarun.win
 +.huashangnews.com
 +.huashundg.com
 +.huasing.org
@@ -12753,6 +12756,7 @@
 +.messytube.com
 +.met-nude.com
 +.meta.com
++.metaaivm.com
 +.metabrainz.org
 +.metacafe.com
 +.metacloud.com
@@ -12769,6 +12773,7 @@
 +.meteorshowersonline.com
 +.metrohk.com.hk
 +.metroradio.com.hk
++.metrorating-algorithms.com
 +.metrotoons.com
 +.meuhentai.com
 +.mewe.com
@@ -13778,7 +13783,6 @@
 +.mz
 +.mzed.com
 +.mzstatic.com
-+.n.biz
 +.n0vadesktop.com
 +.n26.com
 +.n3ro.lol
@@ -15680,7 +15684,6 @@
 +.popxi.click
 +.popyard.com
 +.popyard.org
-+.por+.aaa
 +.porcore.com
 +.poringa.net
 +.porkahd.co
@@ -17010,6 +17013,7 @@
 +.s-rewards.hk
 +.s-xoom.com
 +.s.team
++.s000webhost.com
 +.s1heng.com
 +.s1s1s1.com
 +.s2stagehance.com
@@ -20629,6 +20633,7 @@
 +.vpsxb.net
 +.vraiesagesse.net
 +.vrbgay.com
++.vrcdio.com.hk
 +.vrcdn.cloud
 +.vrcdn.live
 +.vrcdn.video
