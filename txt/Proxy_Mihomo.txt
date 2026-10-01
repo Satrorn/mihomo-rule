@@ -5722,7 +5722,6 @@
 +.dmm.com
 +.dmmapis.com
 +.dmmrex.com
-+.dn.live
 +.dnaav.com
 +.dnaindia.com
 +.dndbeyond.com
@@ -8184,6 +8183,7 @@
 +.fux.com
 +.fuxporn.com
 +.fuyin.net
++.fuyin116.com
 +.fuyindiantai.org
 +.fuzokudx.com
 +.fxcm-chinese.com
@@ -12773,7 +12773,6 @@
 +.meteorshowersonline.com
 +.metrohk.com.hk
 +.metroradio.com.hk
-+.metrorating-algorithms.com
 +.metrotoons.com
 +.meuhentai.com
 +.mewe.com
@@ -17013,7 +17012,6 @@
 +.s-rewards.hk
 +.s-xoom.com
 +.s.team
-+.s000webhost.com
 +.s1heng.com
 +.s1s1s1.com
 +.s2stagehance.com
@@ -20633,7 +20631,6 @@
 +.vpsxb.net
 +.vraiesagesse.net
 +.vrbgay.com
-+.vrcdio.com.hk
 +.vrcdn.cloud
 +.vrcdn.live
 +.vrcdn.video
