@@ -573,6 +573,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -5319,7 +5320,6 @@
 +.decodet.co
 +.decopri.net
 +.decorativemodels.com
-+.deep000webhost.com
 +.deepai.org
 +.deepdiscount.com
 +.deeper.com
@@ -6036,7 +6036,6 @@
 +.dvdstudiopro.info
 +.dvdstudiopro.net
 +.dvdstudiopro.org
-+.dvdstudiopro.rg
 +.dvdtrailertube.com
 +.dvorak.org
 +.dw-world.com
@@ -6463,7 +6462,6 @@
 +.enfasmart.com
 +.engadget.com
 +.engagedaily.org
-+.enge.com
 +.engineeringvillage.com
 +.englishforeveryone.org
 +.englishpen.org
@@ -7058,7 +7056,6 @@
 +.falun-ny.net
 +.falunart.org
 +.falunasia.info
-+.falunau.ofreeze.net
 +.falunau.org
 +.falunaz.net
 +.falundafa-dc.org
@@ -7835,7 +7832,6 @@
 +.freefq.com
 +.freefuckvids.com
 +.freegao.com
-+.freegao.comcom
 +.freegaypornhdtube.com
 +.freegaysexgames.com
 +.freegpt.tech
@@ -8755,6 +8751,7 @@
 +.gonglchuangl.net
 +.gongmeng.info
 +.gongminliliang.com
++.gongwt.com
 +.gongyichuangyi.net
 +.gonike.com
 +.gonzo-movies.com
@@ -10416,7 +10413,6 @@
 +.imb.org
 +.imdb
 +.imdb.com
-+.ime.tv
 +.imessage.tv
 +.imgasd.com
 +.imgbb.com
@@ -11461,7 +11457,6 @@
 +.kampalaexclusiveescorts.com
 +.kanav.info
 +.kankan.today
-+.kannewyork.co+.gongwt.com
 +.kannewyork.com
 +.kanporno.com
 +.kanshifang.com
@@ -13944,7 +13939,6 @@
 +.neotokyo.supertop-100.com
 +.neowin.net
 +.nephobox.com
-+.nerationcam.com
 +.nerdnudes.com
 +.nervanasys.com
 +.nesaporn.com
@@ -14098,7 +14092,6 @@
 +.nextfilm.com.hk
 +.nextgenerationcam.com
 +.nextgenerationcenter.com
-+.nextgenglish.com
 +.nextjs.org
 +.nextmedia.com
 +.nextmgz.com
@@ -16377,7 +16370,6 @@
 +.quickbooksonline.com
 +.quickiepage.com
 +.quickoffice.com
-+.quickt+.aaa
 +.quicktake.video
 +.quicktime.cc
 +.quicktime.com
@@ -17019,6 +17011,7 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
++.s.online
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
@@ -20539,7 +20532,6 @@
 +.voaswahili.com
 +.voathai.com
 +.voatibetan.com
-+.voatibetanem
 +.voatibetanenglish.com
 +.voatiengviet.com
 +.voatour.com
@@ -21020,6 +21012,7 @@
 +.wikidata.org
 +.wikidot.com
 +.wikifeet.com
++.wikifunctions.org
 +.wikihow.com
 +.wikileaks-forum.com
 +.wikileaks.com
@@ -21037,6 +21030,7 @@
 +.wikiquote.org
 +.wikisexguide.com
 +.wikisource.org
++.wikispecies.org
 +.wikiunblocked.org
 +.wikiversity.org
 +.wikivoyage.org
