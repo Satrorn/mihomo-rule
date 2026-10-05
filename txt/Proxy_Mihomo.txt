@@ -8830,6 +8830,7 @@
 +.googlepagecreator.com
 +.googlephotos.com
 +.googleplay.com
++.googleplaycensorship.com
 +.googleplus.com
 +.googlescholar.com
 +.googlesource.com
@@ -17011,7 +17012,6 @@
 +.s-nbcnews.com
 +.s-rewards.hk
 +.s-xoom.com
-+.s.online
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
