@@ -1,4 +1,4 @@
-+..com
++..net
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -574,6 +574,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1801,7 +1802,6 @@
 +.asha.org
 +.ashemaletube.com
 +.ashemaletv.com
-+.ashemaletv000webhost.com
 +.ashleysageellison.com
 +.asia-gaming.com
 +.asiacrazy.xyz
@@ -9367,6 +9367,7 @@
 +.hentaipapa.com
 +.hentaipaw.com
 +.hentaiplay.net
++.hentaiplaydh.pw
 +.hentaiporn.com
 +.hentaipornonly.com
 +.hentaiprn.com
@@ -11447,7 +11448,6 @@
 +.kakaohealthcare.com
 +.kakaoilaas.com
 +.kakaoinvestment.com
-+.kakaomobili+.aaa
 +.kakaomobility.com
 +.kakaopay.com
 +.kakaopaysec.com
@@ -17181,6 +17181,7 @@
 +.scatville.com
 +.scb
 +.scdn.co
++.scea.com
 +.scene7.com
 +.scenesource.me
 +.schaeffler
@@ -17475,6 +17476,7 @@
 +.sextube.desi
 +.sextube69free.net
 +.sextubebox.com
++.sextubecom
 +.sextubedot.com
 +.sextubehub.com
 +.sextubeset.com
@@ -18057,7 +18059,9 @@
 +.sonydesign.com
 +.sonydna.com
 +.sonyentertainmentnetwork.com
++.sonyinteractive.com
 +.sonylatvija.com
++.sonymusic.com.hk
 +.sonypictures.com
 +.sonypicturesanimation.com
 +.sonypicturesmuseum.com
@@ -19845,7 +19849,6 @@
 +.txvlog.com
 +.txxx.com
 +.txxx1.com
-+.ty.com
 +.tycool.com
 +.tyler-brown.com
 +.tyms2022.com
