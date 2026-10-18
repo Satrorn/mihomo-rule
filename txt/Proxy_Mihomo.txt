@@ -5090,6 +5090,7 @@
 +.cursor-cdn.com
 +.cursor.com
 +.cursorapi.com
++.cursorvm.com
 +.curvefish.com
 +.curvybbwwives.com
 +.curvyerotic.com
@@ -14831,6 +14832,7 @@
 +.open
 +.open.com.hk
 +.openai.com
++.openai.org
 +.openallweb.com
 +.openamt.com
 +.openapiplatform.com
@@ -17194,6 +17196,7 @@
 +.schwab.com.cn
 +.schwab.com.hk
 +.schwabassetmanagement.com
++.schwabcdn.com
 +.schwabplan.com
 +.schwarz
 +.sci-hub.mksa.top
@@ -19269,6 +19272,7 @@
 +.timestalks.com
 +.timeweb.cloud
 +.timeweb.com
++.timeweb.tech
 +.timi1.me
 +.timo0.com
 +.timsah.com
