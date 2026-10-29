@@ -160,6 +160,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -984,7 +985,6 @@
 +.airwick.net
 +.airwick.tv
 +.airwickarabia.com
-+.airwiv
 +.aisejushi.com
 +.aisex.com
 +.aishegw.com
@@ -1678,7 +1678,6 @@
 +.applescreensavers.com
 +.applescript.info
 +.appleshare.info
-+.applestocom
 +.applestor.com
 +.applestore.cc
 +.applestore.com
@@ -1871,7 +1870,6 @@
 +.assetsadobe.com
 +.assimp.org
 +.assistirhentai.com
-+.assjordan.com
 +.assoass.com
 +.associates-amazon.com
 +.assylum.com
@@ -2549,7 +2547,6 @@
 +.beats-bydreoutletssale.net
 +.beats-bydrestore.com
 +.beats-bydreuk.com
-+.beats-bydreuk.counpkg.com
 +.beats-deal.com
 +.beats-dre-us.com
 +.beats-headphones-buy-cheap.com
@@ -5391,7 +5388,6 @@
 +.dell.com
 +.dell.com.co
 +.dell.com.hk
-+.dell.l1password.drift.click
 +.dell.net
 +.dell.tv
 +.dellcdn.com
@@ -10973,6 +10969,7 @@
 +.iutunes.com
 +.ivacy.com
 +.iverycd.com
++.ivi.tv
 +.ivicdn.tv
 +.ivintageporn.com
 +.ivonblog.com
@@ -11421,7 +11418,6 @@
 +.juiceced.xyz
 +.juicytwink.com
 +.jukujo-club.com
-+.julere.com
 +.julesjordan.com
 +.juliamiles.com
 +.juliamovies.com
@@ -20118,7 +20114,6 @@
 +.usatoday.com
 +.usatodaynetworkservice.com
 +.uscardforum.com
-+.uscloud.com
 +.uscnpm.org
 +.usefreevpn.com
 +.uselessjunk.com
