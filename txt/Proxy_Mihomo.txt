@@ -103,6 +103,7 @@
 +.18comic-god.xyz
 +.18comic.cc
 +.18comic.company
++.18comic.ink
 +.18comic.org
 +.18comic.vip
 +.18commic.com
@@ -576,6 +577,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1605,7 +1607,6 @@
 +.applecomputerimac.com
 +.applecomputerinc.info
 +.applecoronavirus.com
-+.appledaily.+.aaa
 +.appledaily.com
 +.appledaily.com.hk
 +.appledaily.hk
@@ -3086,6 +3087,7 @@
 +.bingoporno.com
 +.bingparachute.com
 +.bingsandbox.com
++.bingstatic.com
 +.bingvisualsearch.com
 +.bingworld.com
 +.bingx.com
@@ -3701,6 +3703,7 @@
 +.bsappapi.cc
 +.bsappapi.com
 +.bscdnweb.com
++.bsky.chat
 +.bsky.network
 +.bsky.social
 +.bstatic.com
@@ -8628,6 +8631,7 @@
 +.githubassets.com
 +.githubcopilot.com
 +.githubhackathon.com
++.githubhelp.com
 +.githubnext.com
 +.githubstatus.com
 +.githubsupport.com
@@ -13519,6 +13523,7 @@
 +.msftconnecttest.com
 +.msftncsi.com
 +.msftnet.org
++.msftstatic.com
 +.msgamesresearch.com
 +.msgamestudios.com
 +.msguancha.com
@@ -19316,7 +19321,10 @@
 +.tiktokeu-cdn.com
 +.tiktokglobalshopv.com
 +.tiktokrow-cdn.com
++.tiktokshop.com
++.tiktokstaticb.com
 +.tiktokv.com
++.tiktokvapp.com
 +.tilda.cc
 +.tildaapi.com
 +.tildacdn.com
