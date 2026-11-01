@@ -577,7 +577,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -12341,6 +12340,7 @@
 +.lxqt-project.org
 +.lxxlxx.com
 +.ly
++.lyfhk.ne+.aaa
 +.lyfhk.net
 +.lysol.com
 +.lysol.net
@@ -19501,6 +19501,7 @@
 +.toroporno.com
 +.torproject.org
 +.torrentkitty.tv
++.torrentleech.org
 +.torrentmac.net
 +.torrentprivacy.com
 +.torrenty.org
@@ -22253,6 +22254,7 @@
 +.youtubekids.com
 +.youtubemobilesupport.com
 +.youversion.com
++.youversionapi.com
 +.youwin.com
 +.youwuss.com
 +.youxu.info
