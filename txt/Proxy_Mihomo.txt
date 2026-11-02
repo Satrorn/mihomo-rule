@@ -577,6 +577,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3285,6 +3286,7 @@
 +.bmia.org
 +.bmj.com
 +.bml.info
++.bmonkeys.net
 +.bms
 +.bmw
 +.bmw-abudhabi.com
@@ -3476,6 +3478,7 @@
 +.bokep.net
 +.bokepseks.org
 +.bokepvidz.com
++.boldgrid.com
 +.bolehvpn.net
 +.bollywoodlife.com
 +.boltdns.net
@@ -12340,7 +12343,6 @@
 +.lxqt-project.org
 +.lxxlxx.com
 +.ly
-+.lyfhk.ne+.aaa
 +.lyfhk.net
 +.lysol.com
 +.lysol.net
@@ -20915,6 +20917,7 @@
 +.webevader.org
 +.webex.com
 +.webex.com.hk
++.webflow-ext.com
 +.webflow.com
 +.webfreer.com
 +.webgata.net
@@ -20939,6 +20942,7 @@
 +.webrush.net
 +.webs-tv.net
 +.websdr.org
++.website-files.com
 +.websitepulse.com
 +.websnapr.com
 +.webtoons.com
