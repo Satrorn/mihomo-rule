@@ -577,7 +577,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -6888,6 +6887,7 @@
 +.facebook-pmdcenter.net
 +.facebook-pmdcenter.org
 +.facebook-privacy.com
++.facebook-program.c+.aaa
 +.facebook-program.com
 +.facebook-studio.com
 +.facebook-support.org
@@ -7777,6 +7777,7 @@
 +.foxsportsflorida.com
 +.foxsportsgo.com
 +.foxsportsla.com
++.foxsportsnetmichardli
 +.foxsportsnetmilwaukee.com
 +.foxsportsneworleans.com
 +.foxsportsracing.com
@@ -12338,6 +12339,7 @@
 +.lvhai.org
 +.lvhtebook.com
 +.lvv2.com
++.lwaukee.com
 +.lwwcn.buzz
 +.lwwcn.xyz
 +.lxqt-project.org
@@ -16829,7 +16831,6 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
-+.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16840,6 +16841,7 @@
 +.rileyguide.com
 +.rinvdh7.xyz
 +.rio
++.riom
 +.riot-games.com
 +.riot.com
 +.riot.net
