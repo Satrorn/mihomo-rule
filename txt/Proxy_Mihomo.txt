@@ -2551,6 +2551,7 @@
 +.beats-deal.com
 +.beats-dre-us.com
 +.beats-headphones-buy-cheap.com
++.beats-hekhrc.org.hk
 +.beats-sale.com
 +.beats-seller.com
 +.beats-soaho.com
@@ -9630,7 +9631,6 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
-+.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -22343,6 +22343,7 @@
 +.zdusercontent.com
 +.zdxbeta.net
 +.zdxcloud.net
++.zechcasting.com
 +.zee.com
 +.zee5.com
 +.zee5.tv
