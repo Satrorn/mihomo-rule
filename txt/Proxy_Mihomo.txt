@@ -2551,7 +2551,6 @@
 +.beats-deal.com
 +.beats-dre-us.com
 +.beats-headphones-buy-cheap.com
-+.beats-hekhrc.org.hk
 +.beats-sale.com
 +.beats-seller.com
 +.beats-soaho.com
@@ -8085,6 +8084,7 @@
 +.full:hls-amt.itunes.apple.com
 +.full:hls.itunes.apple.com
 +.full:hpstore.corpmerchandise.com
++.full:http-intake.logs.us5.datadoghq.com
 +.full:hub.slarker.me
 +.full:i.jeded.com
 +.full:imperial.insendi.com
@@ -9010,6 +9010,7 @@
 +.greginhollywood.com
 +.grindr.com
 +.grok.com
++.grokbot.com
 +.grokipedia.com
 +.grooby.com
 +.groq.com
@@ -9631,6 +9632,7 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
++.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -10034,6 +10036,7 @@
 +.htlvbooks.com
 +.html5rocks.com
 +.htnewbooks.com
++.http-intake.logs.us5.datadoghq.com
 +.httpfacebook.com
 +.https443.net
 +.https443.org
@@ -22343,7 +22346,6 @@
 +.zdusercontent.com
 +.zdxbeta.net
 +.zdxcloud.net
-+.zechcasting.com
 +.zee.com
 +.zee5.com
 +.zee5.tv
