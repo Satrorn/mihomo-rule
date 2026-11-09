@@ -1566,6 +1566,7 @@
 +.apple-hk.com
 +.apple-imac.com
 +.apple-inc.net
++.apple-livephotosk# NAME: Proxy
 +.apple-livephotoskit.com
 +.apple-mapkit.com
 +.apple-online.com
@@ -1681,6 +1682,7 @@
 +.appleshare.info
 +.applestor.com
 +.applestore.cc
++.applestore.co.jpuk
 +.applestore.com
 +.applestore.com.hk
 +.applestore.hk
@@ -5063,6 +5065,7 @@
 +.csmonitor.com
 +.csrankings.org
 +.cstatic.net
++.csw.org.it.com
 +.ctan.org
 +.ctao.org
 +.ctfassets.net
@@ -9244,6 +9247,7 @@
 +.hcaptcha.com
 +.hcaptchastatus.com
 +.hcbdsm.com
++.hchardli
 +.hclips.com
 +.hcomic.net
 +.hcomicbook.com
@@ -9632,7 +9636,6 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
-+.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -11605,6 +11608,7 @@
 +.khangar.net
 +.khatrimaza.org
 +.khotruyentranhx.com
++.khrc.org.hk
 +.ki
 +.kia
 +.kichiku-doujinko.com
@@ -16838,7 +16842,6 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
-+.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
