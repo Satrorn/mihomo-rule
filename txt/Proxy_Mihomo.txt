@@ -577,7 +577,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1566,7 +1565,6 @@
 +.apple-hk.com
 +.apple-imac.com
 +.apple-inc.net
-+.apple-livephotosk# NAME: Proxy
 +.apple-livephotoskit.com
 +.apple-mapkit.com
 +.apple-online.com
@@ -1682,7 +1680,6 @@
 +.appleshare.info
 +.applestor.com
 +.applestore.cc
-+.applestore.co.jpuk
 +.applestore.com
 +.applestore.com.hk
 +.applestore.hk
@@ -5065,7 +5062,6 @@
 +.csmonitor.com
 +.csrankings.org
 +.cstatic.net
-+.csw.org.it.com
 +.ctan.org
 +.ctao.org
 +.ctfassets.net
@@ -6072,6 +6068,7 @@
 +.durexukraine.com
 +.durexusa.com
 +.dutrai.com
++.duuk
 +.duyaoss.com
 +.duyaossr.com
 +.dvag
@@ -7779,6 +7776,7 @@
 +.foxsports.info
 +.foxsports.net
 +.foxsports2.com
++.foxsportsfjim.com
 +.foxsportsflorida.com
 +.foxsportsgo.com
 +.foxsportsla.com
@@ -8281,6 +8279,7 @@
 +.gale.com
 +.galegroup.com
 +.galenwu.com
++.galition.com
 +.gallery-dump.club
 +.galleryarchives.com
 +.gallo
@@ -8961,6 +8960,8 @@
 +.grabpussy.com
 +.gradconnection.com
 +.gradeuptube.com
++.grafana.com
++.grafana.net
 +.grafolio.com
 +.graias.com
 +.graiasmovies.com
@@ -9247,7 +9248,6 @@
 +.hcaptcha.com
 +.hcaptchastatus.com
 +.hcbdsm.com
-+.hchardli
 +.hclips.com
 +.hcomic.net
 +.hcomicbook.com
@@ -9636,6 +9636,7 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
++.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -11608,7 +11609,6 @@
 +.khangar.net
 +.khatrimaza.org
 +.khotruyentranhx.com
-+.khrc.org.hk
 +.ki
 +.kia
 +.kichiku-doujinko.com
@@ -11889,6 +11889,7 @@
 +.ldstatic.com
 +.le-direct.tv
 +.le-vpn.com
++.le.cloud
 +.leafyvpn.net
 +.leaguehighschool.com
 +.leagueoflegends.com
@@ -13260,6 +13261,7 @@
 +.modmyi.com
 +.modrinth.com
 +.moe
++.moebook-pmdcenter.org
 +.moedigi.com
 +.moeero-library.com
 +.moeerolibrary.com
@@ -15051,6 +15053,7 @@
 +.ovi.com
 +.ovid.com
 +.ovpn.com
++.owars.com
 +.owind.com
 +.owltail.com
 +.ownaj.com
@@ -16259,7 +16262,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocoalition.com
++.provideocolorida.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -16841,6 +16844,7 @@
 +.rhodeislandbmw.com
 +.rhyw.me
 +.rhyw31.life
++.ribabes.com
 +.ricefever.com
 +.ricoh
 +.ridepenguin.com
@@ -19479,6 +19483,7 @@
 +.topcoder.com
 +.topcuckolds.com
 +.toperoticartsites.com
++.topescort+.aaa
 +.topescortbabes.com
 +.topexhib.net
 +.topface.com
