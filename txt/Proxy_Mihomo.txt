@@ -161,7 +161,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -571,12 +570,14 @@
 +.a-msedge.net
 +.a-normal-day.com
 +.a-teenz.com
++.a.net
 +.a0pple.net
 +.a1av.xyz
 +.a2z.com
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -6068,7 +6069,6 @@
 +.durexukraine.com
 +.durexusa.com
 +.dutrai.com
-+.duuk
 +.duyaoss.com
 +.duyaossr.com
 +.dvag
@@ -7776,7 +7776,6 @@
 +.foxsports.info
 +.foxsports.net
 +.foxsports2.com
-+.foxsportsfjim.com
 +.foxsportsflorida.com
 +.foxsportsgo.com
 +.foxsportsla.com
@@ -8069,6 +8068,7 @@
 +.full:cisco.evergage.com
 +.full:crl.microsoft.com
 +.full:crl.versign.net
++.full:d1ymi26ma8va5x.cloudfrontlubs.org
 +.full:databank.worldbank.org
 +.full:datarouter.apps.netherrealm.com
 +.full:deutschewelle.h-cdn.com
@@ -8279,7 +8279,6 @@
 +.gale.com
 +.galegroup.com
 +.galenwu.com
-+.galition.com
 +.gallery-dump.club
 +.galleryarchives.com
 +.gallo
@@ -11889,7 +11888,6 @@
 +.ldstatic.com
 +.le-direct.tv
 +.le-vpn.com
-+.le.cloud
 +.leafyvpn.net
 +.leaguehighschool.com
 +.leagueoflegends.com
@@ -13235,6 +13233,7 @@
 +.mmtv.life
 +.mmwxl27.top
 +.mn
++.mnesty.org
 +.mnewstv.com
 +.mo
 +.mo.co
@@ -13261,7 +13260,6 @@
 +.modmyi.com
 +.modrinth.com
 +.moe
-+.moebook-pmdcenter.org
 +.moedigi.com
 +.moeero-library.com
 +.moeerolibrary.com
@@ -15053,7 +15051,6 @@
 +.ovi.com
 +.ovid.com
 +.ovpn.com
-+.owars.com
 +.owind.com
 +.owltail.com
 +.ownaj.com
@@ -16262,7 +16259,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocolorida.com
++.provideocoalition.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -16461,6 +16458,7 @@
 +.quantumbooter.net
 +.quatrowireless.com
 +.quebec
++.questionablequesting.com
 +.questvisual.com
 +.quicinc.com
 +.quickbooks.com
@@ -16844,8 +16842,8 @@
 +.rhodeislandbmw.com
 +.rhyw.me
 +.rhyw31.life
-+.ribabes.com
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -18207,6 +18205,7 @@
 +.soylent.com
 +.soylentnews.org
 +.sp.cool
++.spacebattles.com
 +.spaceexplored.com
 +.spacemail.com
 +.spaceship.com
@@ -19483,7 +19482,6 @@
 +.topcoder.com
 +.topcuckolds.com
 +.toperoticartsites.com
-+.topescort+.aaa
 +.topescortbabes.com
 +.topexhib.net
 +.topface.com
@@ -19960,6 +19958,7 @@
 +.tytporno.online
 +.tz
 +.u15.info
++.u1password.drift.click
 +.u3c3.com
 +.u9a9.cc
 +.u9a9.com
