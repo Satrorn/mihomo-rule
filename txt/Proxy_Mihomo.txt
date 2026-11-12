@@ -372,6 +372,7 @@
 +.5299.tv
 +.52av.com
 +.52av.one
++.52avkhrc.org.hk
 +.52fuliji.cc
 +.52hyse.com
 +.52kmz.com
@@ -570,7 +571,6 @@
 +.a-msedge.net
 +.a-normal-day.com
 +.a-teenz.com
-+.a.net
 +.a0pple.net
 +.a1av.xyz
 +.a2z.com
@@ -642,6 +642,7 @@
 +.account-paypal.info
 +.account-paypal.net
 +.account-paypal.org
++.account-paypaut-tibetain.org
 +.accountboy.com
 +.accountkit.com
 +.accountpaypal.com
@@ -1681,6 +1682,7 @@
 +.appleshare.info
 +.applestor.com
 +.applestore.cc
++.applestore.co.jpflixdnstest5.com
 +.applestore.com
 +.applestore.com.hk
 +.applestore.hk
@@ -2546,6 +2548,7 @@
 +.beats-bydreoutletsale.com
 +.beats-bydreoutletsale.net
 +.beats-bydreoutletssale.net
++.beats-bydreoutletsseo.cfd
 +.beats-bydrestore.com
 +.beats-bydreuk.com
 +.beats-deal.com
@@ -8068,7 +8071,6 @@
 +.full:cisco.evergage.com
 +.full:crl.microsoft.com
 +.full:crl.versign.net
-+.full:d1ymi26ma8va5x.cloudfrontlubs.org
 +.full:databank.worldbank.org
 +.full:datarouter.apps.netherrealm.com
 +.full:deutschewelle.h-cdn.com
@@ -8299,6 +8301,7 @@
 +.gameover.com.hk
 +.gamepass.com
 +.gamepedia.com
++.gamer.com
 +.gameroom.com
 +.gamerotic.com
 +.gamesathletes.com
@@ -9110,6 +9113,7 @@
 +.h0930.com
 +.h18ani1.vip
 +.h1n1china.org
++.h1password.drift.click
 +.h2porn.com
 +.h528.com
 +.h5dm.com
@@ -9635,7 +9639,6 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
-+.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -10665,6 +10668,7 @@
 +.instastyle.tv
 +.instawank.com
 +.instgram.com
++.instit.com
 +.institut-tibetain.org
 +.instituteofwar.org
 +.instructables.com
@@ -11805,6 +11809,7 @@
 +.kzeng.info
 +.l-0005.dc-msedge.net
 +.l-msedge.net
++.l.org
 +.la
 +.la-forum.org
 +.labiennale.org
@@ -13233,7 +13238,6 @@
 +.mmtv.life
 +.mmwxl27.top
 +.mn
-+.mnesty.org
 +.mnewstv.com
 +.mo
 +.mo.co
@@ -13298,6 +13302,7 @@
 +.momfucktube.com
 +.momhomeporn.com
 +.mommystoytime.com
++.momnesty.org
 +.momo5188.com
 +.momon-ga.com
 +.momoniji.com
@@ -14204,6 +14209,7 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
++.ng.mim
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -15109,7 +15115,7 @@
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
-+.padmanet.com
++.padmanet.tmanagement.com
 +.paerosnen.club
 +.page
 +.page.link
@@ -17030,6 +17036,7 @@
 +.rthk.hk
 +.rthk.org.hk
 +.rtings.com
++.rtnewsde.cojim.com
 +.rtnewsde.com
 +.rtnewsde.online
 +.rtnewsde.pro
@@ -17051,6 +17058,7 @@
 +.rukoebxx.com
 +.rukor.org
 +.rulaisc-tv.buzz
++.rule34.u.com
 +.rule34h.com
 +.rule34pornvids.com
 +.rule34video.com
@@ -18729,6 +18737,7 @@
 +.sydneytoday.com
 +.syfor.click
 +.syhacked.com
++.sylfocom
 +.sylfoundation.org
 +.symantec.com
 +.symantecliveupdate.com
@@ -19006,6 +19015,7 @@
 +.teslazta.net
 +.testflight.apple.com
 +.testonfox.com
++.teundation.org
 +.teva
 +.tew.org
 +.tex-talk.net
@@ -19958,7 +19968,6 @@
 +.tytporno.online
 +.tz
 +.u15.info
-+.u1password.drift.click
 +.u3c3.com
 +.u9a9.cc
 +.u9a9.com
@@ -22515,6 +22524,7 @@
 +.zuckerberg.net
 +.zuerich
 +.zunked.com
++.zuobiao.male.net
 +.zuobiao.me
 +.zuola.com
 +.zvereff.com
