@@ -161,6 +161,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -372,7 +373,6 @@
 +.5299.tv
 +.52av.com
 +.52av.one
-+.52avkhrc.org.hk
 +.52fuliji.cc
 +.52hyse.com
 +.52kmz.com
@@ -577,7 +577,6 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
-+.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -642,7 +641,6 @@
 +.account-paypal.info
 +.account-paypal.net
 +.account-paypal.org
-+.account-paypaut-tibetain.org
 +.accountboy.com
 +.accountkit.com
 +.accountpaypal.com
@@ -1682,7 +1680,6 @@
 +.appleshare.info
 +.applestor.com
 +.applestore.cc
-+.applestore.co.jpflixdnstest5.com
 +.applestore.com
 +.applestore.com.hk
 +.applestore.hk
@@ -2548,7 +2545,6 @@
 +.beats-bydreoutletsale.com
 +.beats-bydreoutletsale.net
 +.beats-bydreoutletssale.net
-+.beats-bydreoutletsseo.cfd
 +.beats-bydrestore.com
 +.beats-bydreuk.com
 +.beats-deal.com
@@ -3620,6 +3616,7 @@
 +.bravotube.tv
 +.brawlstars.com
 +.brawlstarsgame.com
++.braze.com
 +.brazilpartneruniversity.com
 +.brazz.org
 +.brazzer.com
@@ -7300,6 +7297,7 @@
 +.fc2web.com
 +.fcacebook.com
 +.fcaebook.com
++.fcaeboout-tibetain.org
 +.fcebook.com
 +.fcebookk.com
 +.fcfacebook.com
@@ -7530,6 +7528,7 @@
 +.flipshare.com
 +.flipwithsurface.com
 +.flir
++.flirkepard.com
 +.flirt4free.com
 +.flirtmoms.com
 +.flirtyhoookup.com
@@ -7779,6 +7778,7 @@
 +.foxsports.info
 +.foxsports.net
 +.foxsports2.com
++.foxsportsf+.aaa
 +.foxsportsflorida.com
 +.foxsportsgo.com
 +.foxsportsla.com
@@ -8301,7 +8301,6 @@
 +.gameover.com.hk
 +.gamepass.com
 +.gamepedia.com
-+.gamer.com
 +.gameroom.com
 +.gamerotic.com
 +.gamesathletes.com
@@ -8405,6 +8404,7 @@
 +.gbxml.net
 +.gcc.org.hk
 +.gcdn.co
++.gchardli
 +.gcld-line.com
 +.gclooney.com
 +.gclubs.com
@@ -9113,7 +9113,6 @@
 +.h0930.com
 +.h18ani1.vip
 +.h1n1china.org
-+.h1password.drift.click
 +.h2porn.com
 +.h528.com
 +.h5dm.com
@@ -9127,6 +9126,7 @@
 +.hacken.cc
 +.hacker.org
 +.hackerfacebook.com
++.hackerfacebookjim.com
 +.hackerguardian.com
 +.hackfacebook.com
 +.hackfacebookid.com
@@ -9639,6 +9639,7 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
++.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -10429,6 +10430,7 @@
 +.ilbe.com
 +.ilhamtohtiinstitute.org
 +.ilife.wang
++.illawarrameralition.com
 +.illianacomputerrecycling.com
 +.illusion111.com
 +.illusionas.com
@@ -10668,7 +10670,6 @@
 +.instastyle.tv
 +.instawank.com
 +.instgram.com
-+.instit.com
 +.institut-tibetain.org
 +.instituteofwar.org
 +.instructables.com
@@ -11491,6 +11492,7 @@
 +.jyxf.net
 +.jzydh.com
 +.k-doujin.net
++.k.com
 +.k9vidz.com
 +.ka-wai.com
 +.kaamuu.com
@@ -11809,7 +11811,6 @@
 +.kzeng.info
 +.l-0005.dc-msedge.net
 +.l-msedge.net
-+.l.org
 +.la
 +.la-forum.org
 +.labiennale.org
@@ -12360,6 +12361,7 @@
 +.lxxlxx.com
 +.ly
 +.lyfhk.net
++.lyfhk.netmoms.com
 +.lysol.com
 +.lysol.net
 +.lyzsxx.com
@@ -13302,7 +13304,6 @@
 +.momfucktube.com
 +.momhomeporn.com
 +.mommystoytime.com
-+.momnesty.org
 +.momo5188.com
 +.momon-ga.com
 +.momoniji.com
@@ -13412,6 +13413,7 @@
 +.moonbingo.com
 +.mooo.com
 +.moov.hk
++.mooxsportssupports.com
 +.moozporn.com
 +.morazzia.com
 +.morbell.com
@@ -14209,7 +14211,6 @@
 +.nftstatic.com
 +.nftstorage.link
 +.ng
-+.ng.mim
 +.ngensis.com
 +.ngeo.com
 +.ngfiles.com
@@ -15115,7 +15116,7 @@
 +.pacopacomama.com
 +.paddle.com
 +.paddleapi.com
-+.padmanet.tmanagement.com
++.padmanet.com
 +.paerosnen.club
 +.page
 +.page.link
@@ -16265,7 +16266,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideocoalition.com
++.provideoco.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -16849,7 +16850,6 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
-+.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16858,6 +16858,7 @@
 +.riku.me
 +.ril
 +.rileyguide.com
++.rilorida.com
 +.rinvdh7.xyz
 +.rio
 +.riot-games.com
@@ -17036,7 +17037,6 @@
 +.rthk.hk
 +.rthk.org.hk
 +.rtings.com
-+.rtnewsde.cojim.com
 +.rtnewsde.com
 +.rtnewsde.online
 +.rtnewsde.pro
@@ -17058,7 +17058,6 @@
 +.rukoebxx.com
 +.rukor.org
 +.rulaisc-tv.buzz
-+.rule34.u.com
 +.rule34h.com
 +.rule34pornvids.com
 +.rule34video.com
@@ -18737,7 +18736,6 @@
 +.sydneytoday.com
 +.syfor.click
 +.syhacked.com
-+.sylfocom
 +.sylfoundation.org
 +.symantec.com
 +.symantecliveupdate.com
@@ -19015,7 +19013,6 @@
 +.teslazta.net
 +.testflight.apple.com
 +.testonfox.com
-+.teundation.org
 +.teva
 +.tew.org
 +.tex-talk.net
@@ -22524,7 +22521,6 @@
 +.zuckerberg.net
 +.zuerich
 +.zunked.com
-+.zuobiao.male.net
 +.zuobiao.me
 +.zuola.com
 +.zvereff.com
