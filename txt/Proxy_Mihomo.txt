@@ -161,7 +161,6 @@
 +.1password.co
 +.1password.com
 +.1password.community
-+.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -364,6 +363,7 @@
 +.51lieqi.com
 +.51luoben.com
 +.51luoli.info
++.51papaya.com
 +.51pincha.cc
 +.51tuqiang.com
 +.520aa.tv
@@ -577,6 +577,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -1318,6 +1319,7 @@
 +.amica
 +.amigobbs.net
 +.amiibo.com
++.amitabhafoundation.up
 +.amnesty.org
 +.amnesty.org.hk
 +.amnestyusa.org
@@ -1958,6 +1960,7 @@
 +.audiomonsterbeatsonline.com
 +.audionow.com
 +.auntymaza.com
++.aur.org
 +.auricularemonsterbeats.com
 +.auricularesbeatsbaratosshop.com
 +.auricularesbeatsmarkt.com
@@ -2725,6 +2728,7 @@
 +.beatsep.net
 +.beatsfacstore.com
 +.beatsfactoroutlets.com
++.beatsfactorycollection.1password.drift.click
 +.beatsfactorycollection.com
 +.beatsfactoryoutles.com
 +.beatsforcheap-usa.com
@@ -3616,7 +3620,6 @@
 +.bravotube.tv
 +.brawlstars.com
 +.brawlstarsgame.com
-+.braze.com
 +.brazilpartneruniversity.com
 +.brazz.org
 +.brazzer.com
@@ -7297,7 +7300,6 @@
 +.fc2web.com
 +.fcacebook.com
 +.fcaebook.com
-+.fcaeboout-tibetain.org
 +.fcebook.com
 +.fcebookk.com
 +.fcfacebook.com
@@ -7528,7 +7530,6 @@
 +.flipshare.com
 +.flipwithsurface.com
 +.flir
-+.flirkepard.com
 +.flirt4free.com
 +.flirtmoms.com
 +.flirtyhoookup.com
@@ -7778,7 +7779,6 @@
 +.foxsports.info
 +.foxsports.net
 +.foxsports2.com
-+.foxsportsf+.aaa
 +.foxsportsflorida.com
 +.foxsportsgo.com
 +.foxsportsla.com
@@ -8404,7 +8404,6 @@
 +.gbxml.net
 +.gcc.org.hk
 +.gcdn.co
-+.gchardli
 +.gcld-line.com
 +.gclooney.com
 +.gclubs.com
@@ -9126,7 +9125,6 @@
 +.hacken.cc
 +.hacker.org
 +.hackerfacebook.com
-+.hackerfacebookjim.com
 +.hackerguardian.com
 +.hackfacebook.com
 +.hackfacebookid.com
@@ -10422,6 +10420,7 @@
 +.ikea.com.hk
 +.ikea.hk
 +.ikea.net
++.ikefirm.com
 +.ikids.com
 +.iknowthatgirl.com
 +.ikstar.com
@@ -10430,7 +10429,6 @@
 +.ilbe.com
 +.ilhamtohtiinstitute.org
 +.ilife.wang
-+.illawarrameralition.com
 +.illianacomputerrecycling.com
 +.illusion111.com
 +.illusionas.com
@@ -11492,7 +11490,6 @@
 +.jyxf.net
 +.jzydh.com
 +.k-doujin.net
-+.k.com
 +.k9vidz.com
 +.ka-wai.com
 +.kaamuu.com
@@ -12361,7 +12358,6 @@
 +.lxxlxx.com
 +.ly
 +.lyfhk.net
-+.lyfhk.netmoms.com
 +.lysol.com
 +.lysol.net
 +.lyzsxx.com
@@ -12962,6 +12958,7 @@
 +.microsofttradein.com
 +.microsofttranslator.com
 +.microsoftuwp.com
++.microsotodeskplm360.net
 +.microvpn.com
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
@@ -13413,7 +13410,6 @@
 +.moonbingo.com
 +.mooo.com
 +.moov.hk
-+.mooxsportssupports.com
 +.moozporn.com
 +.morazzia.com
 +.morbell.com
@@ -16266,7 +16262,7 @@
 +.protonstatus.com
 +.protonvpn.com
 +.protonweb.com
-+.provideoco.com
++.provideocoalition.com
 +.provpnaccounts.com
 +.proxfree.com
 +.proxifier.com
@@ -16850,6 +16846,7 @@
 +.rhyw.me
 +.rhyw31.life
 +.ricefever.com
++.richardli
 +.ricoh
 +.ridepenguin.com
 +.rightbtc.com
@@ -16858,7 +16855,6 @@
 +.riku.me
 +.ril
 +.rileyguide.com
-+.rilorida.com
 +.rinvdh7.xyz
 +.rio
 +.riot-games.com
