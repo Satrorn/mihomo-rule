@@ -161,6 +161,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -1319,7 +1320,6 @@
 +.amica
 +.amigobbs.net
 +.amiibo.com
-+.amitabhafoundation.up
 +.amnesty.org
 +.amnesty.org.hk
 +.amnestyusa.org
@@ -1960,7 +1960,6 @@
 +.audiomonsterbeatsonline.com
 +.audionow.com
 +.auntymaza.com
-+.aur.org
 +.auricularemonsterbeats.com
 +.auricularesbeatsbaratosshop.com
 +.auricularesbeatsmarkt.com
@@ -2728,7 +2727,6 @@
 +.beatsep.net
 +.beatsfacstore.com
 +.beatsfactoroutlets.com
-+.beatsfactorycollection.1password.drift.click
 +.beatsfactorycollection.com
 +.beatsfactoryoutles.com
 +.beatsforcheap-usa.com
@@ -3952,6 +3950,7 @@
 +.cambridge.org
 +.cambridgedigital.net
 +.cambridgemaths.org
++.cambridgeschoolshakespear000webhost.com
 +.cambridgeschoolshakespeare.com
 +.cambro.tv
 +.camcam.cc
@@ -4696,6 +4695,7 @@
 +.cloudflaretest.com
 +.cloudflarewarp.com
 +.cloudflareworkers.com
++.cloudfliberation.org
 +.cloudfront.com
 +.cloudfront.net
 +.cloudfunctions.net
@@ -10420,7 +10420,6 @@
 +.ikea.com.hk
 +.ikea.hk
 +.ikea.net
-+.ikefirm.com
 +.ikids.com
 +.iknowthatgirl.com
 +.ikstar.com
@@ -12958,7 +12957,6 @@
 +.microsofttradein.com
 +.microsofttranslator.com
 +.microsoftuwp.com
-+.microsotodeskplm360.net
 +.microvpn.com
 +.micstl.com
 +.midatlanticbmwmotorcycles.com
@@ -15042,6 +15040,7 @@
 +.outletbeatsshop.com
 +.outletnike.com
 +.outlook.com
++.ova.org
 +.over-blog.com
 +.over18arcade.com
 +.overapple.com
@@ -16412,6 +16411,7 @@
 +.qhigh.com
 +.qi-gong.me
 +.qiandao.today
++.qianglie.coe.com
 +.qianglie.com
 +.qiangwaikan.com
 +.qiangyou.org
@@ -18106,6 +18106,7 @@
 +.softlayer.net
 +.softmodels.net
 +.softwarebychuck.com
++.softwaredownload.scc.vip
 +.sogclub.com
 +.sogoo.org
 +.sogrady.me
@@ -21433,6 +21434,7 @@
 +.xattractive.com
 +.xaxy.xyz
 +.xb18.me
++.xbabe.arepreview.com
 +.xbabe.com
 +.xbabe.mobi
 +.xbanny.com
