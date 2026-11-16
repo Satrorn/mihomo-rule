@@ -3950,7 +3950,6 @@
 +.cambridge.org
 +.cambridgedigital.net
 +.cambridgemaths.org
-+.cambridgeschoolshakespear000webhost.com
 +.cambridgeschoolshakespeare.com
 +.cambro.tv
 +.camcam.cc
@@ -4695,7 +4694,6 @@
 +.cloudflaretest.com
 +.cloudflarewarp.com
 +.cloudflareworkers.com
-+.cloudfliberation.org
 +.cloudfront.com
 +.cloudfront.net
 +.cloudfunctions.net
@@ -8062,6 +8060,7 @@
 +.full:azure.microsoft.com
 +.full:azuremarketplace.microsoft.com
 +.full:bbs.boingboing.net
++.full:builds.dotnet.microsoft.com
 +.full:bybit.ada.support
 +.full:cbsi.live.ott.irdeto.com
 +.full:cbsplaylistserver.aws.syncbak.com
@@ -15040,7 +15039,6 @@
 +.outletbeatsshop.com
 +.outletnike.com
 +.outlook.com
-+.ova.org
 +.over-blog.com
 +.over18arcade.com
 +.overapple.com
@@ -16411,7 +16409,6 @@
 +.qhigh.com
 +.qi-gong.me
 +.qiandao.today
-+.qianglie.coe.com
 +.qianglie.com
 +.qiangwaikan.com
 +.qiangyou.org
@@ -18106,7 +18103,6 @@
 +.softlayer.net
 +.softmodels.net
 +.softwarebychuck.com
-+.softwaredownload.scc.vip
 +.sogclub.com
 +.sogoo.org
 +.sogrady.me
@@ -21434,7 +21430,6 @@
 +.xattractive.com
 +.xaxy.xyz
 +.xb18.me
-+.xbabe.arepreview.com
 +.xbabe.com
 +.xbabe.mobi
 +.xbanny.com
