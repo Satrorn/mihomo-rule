@@ -2155,6 +2155,7 @@
 +.avhome.one
 +.avhu.com
 +.avidemux.org
++.avidemux.orkhrc.org.hk
 +.avinetworks.com
 +.avinin.com
 +.avira.com
@@ -3875,6 +3876,7 @@
 +.byjav.me
 +.byjhd.com
 +.bypasscensorship.org
++.bypassut-tibetain.org
 +.byrut.org
 +.byspotify.com
 +.bystys.tech
@@ -4987,6 +4989,7 @@
 +.crazypool.org
 +.crazys.cc
 +.crazyshit.com
++.crazyshit.ct
 +.crazyxxx3dworld.com
 +.crazyxxx3dworld.net
 +.crazyxxx3dworld.org
@@ -5161,6 +5164,7 @@
 +.cybermondaybeats4sale.com
 +.cyberpunk.net
 +.cyberx.com
++.cygames.com
 +.cygwin.com
 +.cylink.pro
 +.cylink0122.icu
@@ -9108,6 +9112,7 @@
 +.h-moe.com
 +.h-top.supertop-100.com
 +.h-webtoon.com
++.h000webhost.com
 +.h0930.com
 +.h18ani1.vip
 +.h1n1china.org
@@ -9636,7 +9641,6 @@
 +.hkgreenradio.org
 +.hkheadline.com
 +.hkhkhk.com
-+.hkhrc.org.hk
 +.hkhrm.org.hk
 +.hkjc.com
 +.hkjp.org
@@ -10666,6 +10670,7 @@
 +.instastyle.tv
 +.instawank.com
 +.instgram.com
++.institg
 +.institut-tibetain.org
 +.instituteofwar.org
 +.instructables.com
@@ -11276,6 +11281,7 @@
 +.jihadology.net
 +.jiji.com
 +.jilhub.com
++.jim.com
 +.jimeng22.com
 +.jims.net
 +.jinbushe.org
@@ -12355,6 +12361,7 @@
 +.lxqt-project.org
 +.lxxlxx.com
 +.ly
++.lyfhk.necensorship.org
 +.lyfhk.net
 +.lysol.com
 +.lysol.net
@@ -13399,6 +13406,7 @@
 +.monthlyav.com
 +.moodstocks.com
 +.moodyz.com
++.moom
 +.moomoo.com
 +.moomooequity.com
 +.moomootrustee.com
