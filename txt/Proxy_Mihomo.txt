@@ -22089,7 +22089,6 @@
 +.yandexdataschool.com
 +.yandexgo.com
 +.yandexwebcache.net
-+.yandexwebcache.org
 +.yanghengjun.com
 +.yangjianli.com
 +.yango-b2b.com
