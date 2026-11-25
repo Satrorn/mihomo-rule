@@ -1,4 +1,3 @@
-+..com
 +.000webhost.com
 +.01.org
 +.02weqj32.com
@@ -578,6 +577,7 @@
 +.a4e8s8k3.map2.ssl.hwcdn.net
 +.a7sex.com
 +.aa77kk.com
++.aaa
 +.aaagradeheadphones.com
 +.aaapp.cyou
 +.aabb1802.com
@@ -3883,6 +3883,7 @@
 +.cachefly.com
 +.cachefly.net
 +.cachinese.com
++.cachix.org
 +.cacnw.com
 +.cactusvpn.com
 +.cad-mep.com
@@ -4927,6 +4928,7 @@
 +.coursera.community
 +.coursera.help
 +.coursera.org
++.courses.myecnu.org
 +.coverartarchive.org
 +.covid19-rx.org
 +.covid19rx.org
@@ -5297,7 +5299,6 @@
 +.ddg.co
 +.ddhw.info
 +.dditsadn.com
-+.dditscdn+.aaa
 +.dditscdn.com
 +.de
 +.de-rt.com
@@ -7193,9 +7194,11 @@
 +.fastindianporn.com
 +.fastlane.tools
 +.fastly-edge.com
++.fastly-insights.com
 +.fastly-terrarium.com
 +.fastly.com
 +.fastly.net
++.fastlydns.net
 +.fastlylabs.com
 +.fastlylb.net
 +.fastmail.com
@@ -8029,6 +8032,7 @@
 +.full:cdn-spotify-experiments.conductrics.com
 +.full:cdn.js7k.com
 +.full:cisco.evergage.com
++.full:courses.myecnu.org
 +.full:crl.microsoft.com
 +.full:crl.versign.net
 +.full:databank.worldbank.org
@@ -20445,6 +20449,7 @@
 +.vivatube.com
 +.vivaxnxx.com
 +.vivo
++.vivox.com
 +.vivthomas.com
 +.vixen.com
 +.vixengroup.com
