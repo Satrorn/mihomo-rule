@@ -161,6 +161,7 @@
 +.1password.co
 +.1password.com
 +.1password.community
++.1password.drift.click
 +.1passwordservices.com
 +.1passwordusercontent.com
 +.1point3acres.com
@@ -936,6 +937,7 @@
 +.ai7995.site
 +.ai91porn.cc
 +.aiaa.org
++.aicu.cc
 +.aig
 +.aihub.top
 +.aimei133.com
@@ -1157,7 +1159,6 @@
 +.allstate
 +.allswingersclubs.org
 +.ally
-+.almalinuforum.com
 +.almalinux.org
 +.almasdarnews.com
 +.almostmy.com
@@ -5213,6 +5214,7 @@
 +.dandanplay.net
 +.dandanzan.cc
 +.danke4china.net
++.danmakus.com
 +.danmarkbeatsbydrdre.com
 +.danskpornofilm.com
 +.dansmovies.com
@@ -18124,6 +18126,7 @@
 +.soylentnews.org
 +.sp.cool
 +.spacebattles.com
++.spacedesk.net
 +.spaceexplored.com
 +.spacemail.com
 +.spaceship.com
@@ -20060,7 +20063,6 @@
 +.usaco.org
 +.usatoday.com
 +.usatodaynetworkservice.com
-+.uscard1password.drift.click
 +.uscardforum.com
 +.uscnpm.org
 +.usefreevpn.com
@@ -20583,7 +20585,6 @@
 +.volvotrucks.com.co
 +.volvotrucks.hk
 +.volvotrucks.net
-+.volvx.org
 +.vomitkings.com
 +.vortexmachining.com
 +.vot.org
